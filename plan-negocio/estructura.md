@@ -21,9 +21,9 @@ Falta solo: nombre comercial del salón (si existe alguno más allá de "salón 
 ## 3. Análisis de mercado — 🟡
 
 Lo que ya hay:
-- Competencia directa identificada en Las Galletas (Opalo.H, Vanity Beauty Salon, Sun Massage, Sara Trujillo, Summernails...) con reseñas reales analizadas — ver `diversificacion.md`.
-- Perfil de turista de la zona (Arona recibe +2M turistas/año, mayoría británicos y alemanes) — fuente en `diversificacion.md`.
-- Evidencia real de demanda no cubierta (trenzas) y de problemas de calidad en la competencia (uñas, masajes) — también en `diversificacion.md`.
+- Competencia directa identificada en Las Galletas (Opalo.H, Vanity Beauty Salon, Sun Massage, Sara Trujillo, Summernails...) con reseñas reales analizadas — ver [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-2026).
+- Perfil de turista de la zona (Arona recibe +2M turistas/año, mayoría británicos y alemanes) — fuente en [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-2026).
+- Evidencia real de demanda no cubierta (trenzas) y de problemas de calidad en la competencia (uñas, masajes) — también en [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-2026).
 - **Mercado del propio modelo de coworking** (no solo de servicios de belleza): operadores reales de coworking/salon suites en España y fuera, precios, qué incluyen y casos de fracaso documentados — [`casos-reales-coworking.md`](../negocio/casos-reales-coworking.md); y una propuesta concreta de canales y anuncios reales para captar inquilinas — [`propuesta-oferta-coworking.md`](../negocio/propuesta-oferta-coworking.md). Esto cubre la demanda del lado de las **inquilinas** (quién alquilaría cabina), que es tan importante para este modelo como la demanda de clientas finales.
 
 Lo que falta y bloquea cerrar la sección:
@@ -65,7 +65,7 @@ Sigue siendo la sección más bloqueada, pero ya hay dos cifras reales de ingres
 - Cuánto tiempo puede permitirse la propietaria estar sin el ingreso de su propia actividad de estética/depilación mientras se cubren los cubículos.
 - Precios actuales por servicio de la cartera a traspasar (`precios-servicios.md` sigue con la plantilla de servicios vacía).
 
-Al no haber ya reforma prevista, la necesidad de financiación pública se reduce a equipamiento puntual, no a obra: [`ayudas-subvenciones.md`](../negocio/ayudas-subvenciones.md) mapea las ayudas en los 4 niveles (municipal, Cabildo, nacional, europeo). La más directa (Cabildo, 60% de la inversión hasta 10.000 €, específica para peluquerías/centros de estética) tuvo su plazo 2026 cerrado el 8 de junio — es anual, hay que vigilar la convocatoria 2027 y tenerla lista antes de esa ventana. El resto de ayudas relevantes (tarifa plana, capitalización del paro, Apertura de Nueva Empresa del Cabildo) no son para la propietaria sino argumentos de venta para captar inquilinas.
+Al no haber ya reforma prevista, la necesidad de financiación pública se reduce a equipamiento puntual, no a obra: [`ayudas-subvenciones.md`](../negocio/ayudas-subvenciones.md) mapea las ayudas en los 4 niveles (municipal, Cabildo, nacional, europeo). La más directa ([Cabildo, sección 2.1](../negocio/ayudas-subvenciones.md#21-subvención-destinada-a-la-reforma-de-locales-y-equipamiento-para-comercio-minorista-restauración-y-servicios-personales-2026): 60% de la inversión hasta 10.000 €, específica para peluquerías/centros de estética, cifra confirmada en dos fuentes de prensa independientes) tuvo su plazo 2026 cerrado el 8 de junio — es anual, hay que vigilar la convocatoria 2027 y tenerla lista antes de esa ventana. El resto de ayudas relevantes (tarifa plana, capitalización del paro, Apertura de Nueva Empresa del Cabildo) no son para la propietaria sino argumentos de venta para captar inquilinas — detalle de cada una en el mismo documento.
 
 ## 8. Plan jurídico-fiscal — 🟡
 
@@ -76,7 +76,7 @@ Lo que ya hay:
 - **Investigación completa de trámites administrativos** — [`tramites-administrativos.md`](../negocio/tramites-administrativos.md): licencia de actividad (por tamaño, régimen de declaración responsable, no licencia previa), cambio de epígrafe IAE (861.2 como gestora), naturaleza jurídica del contrato, IVA (21%)/retención IRPF (19%, modelo 115) del alquiler, registro sanitario (no aplica a estética sin actos médicos), RGPD y seguro del local, con tabla de qué le corresponde a la propietaria y qué a cada inquilina.
 
 Lo que falta:
-- **El único bloqueante real que queda**: confirmar con la Oficina de Licencias/Urbanismo del Ayuntamiento de Arona si cada autónoma debe tramitar su propia declaración responsable de actividad a su nombre (lo más probable según la investigación, pero sin confirmación oficial para este caso exacto) o si cabe alguna fórmula distinta — sin esto no se puede garantizar que el modelo sea legal tal y como se plantea.
+- **El único bloqueante real que queda**: confirmar con la Oficina de Licencias/Urbanismo del Ayuntamiento de Arona si cada autónoma debe tramitar su propia declaración responsable de actividad a su nombre (lo más probable según la investigación, pero sin confirmación oficial para este caso exacto, y con una única fuente específica de Canarias — ver [`tramites-administrativos.md`](../negocio/tramites-administrativos.md#la-pregunta-central-licencia-por-local-o-por-actividadtitular)) o si cabe alguna fórmula distinta — sin esto no se puede garantizar que el modelo sea legal tal y como se plantea.
 - Confirmar si la profesional de pedicura, que ya opera en el salón central, tiene presentada su propia declaración — y si la propietaria ya está de alta en el epígrafe 861.2 por el alquiler que ya cobra hoy. Ambas son posibles irregularidades ya existentes, independientes del plan de expansión.
 
 ## 9. Análisis DAFO — 🟡 (primer borrador posible ya)
@@ -89,8 +89,8 @@ A diferencia de las demás secciones, un DAFO **sí se puede empezar a redactar 
 - Local en propiedad, sin coste de alquiler, y **ya preparado para 3 puestos sin obra ni inversión previa** (salón central + 2 cubículos).
 - Ubicación céntrica en calle peatonal, con tráfico peatonal alto.
 - Modelo ya probado de facto y generando ingresos reales: salón central alquilado a la profesional de pedicura por 300 €/mes.
-- Buena valoración de la competencia directa en uñas (Opalo.H, 4,8/5) sugiere que el mercado de uñas en la zona responde bien a calidad — punto de referencia, no debilidad propia.
-- El modelo de coworking de belleza **ya funciona en el mercado español** (Alzentro y Beauty Loft en Madrid, Wapa'm en Barcelona, entre otros) — no es una apuesta sin precedente, aunque no hay todavía ningún caso equivalente confirmado en Tenerife (ver [`casos-reales-coworking.md`](../negocio/casos-reales-coworking.md)).
+- Buena valoración de la competencia directa en uñas (Opalo.H, 4,8/5, ver [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-2026)) sugiere que el mercado de uñas en la zona responde bien a calidad — punto de referencia, no debilidad propia.
+- El modelo de coworking de belleza **ya funciona en el mercado español** (Alzentro y Beauty Loft en Madrid, Wapa'm en Barcelona, entre otros) — no es una apuesta sin precedente, aunque no hay todavía ningún caso equivalente confirmado en Tenerife (ver [`casos-reales-coworking.md`](../negocio/casos-reales-coworking.md#2-casos-en-españa--sí-existen-operadores-reales)).
 
 **Debilidades**
 - Sin datos de facturación propios de la cartera de la propietaria (precios de servicios aún sin rellenar) — no se puede evaluar rentabilidad real ni cuánto vale la cartera que se traspasa.
@@ -99,16 +99,16 @@ A diferencia de las demás secciones, un DAFO **sí se puede empezar a redactar 
 - **Periodo de transición sin ingreso de la actividad de la propietaria**: al dejar de ejercer, ese ingreso desaparece hasta que se cubran los 2 cubículos, sin plazo ni colchón financiero estimado todavía.
 
 **Oportunidades**
-- Ayuda pública del Cabildo específica para peluquerías/centros de estética (60% de inversión, hasta 10.000 €), aplicable a equipamiento de los cubículos en vez de a obra — plazo 2026 ya cerrado, pero es anual: vigilar la convocatoria 2027.
-- Centro de FP en el mismo pueblo (IES Las Galletas) como cantera de talento para cubrir los cubículos.
-- Demanda real detectada sin cubrir en la zona (trenzas) y competencia con problemas de calidad documentados en uñas y masajes — hueco para diferenciarse al elegir qué perfil atraer a los cubículos.
-- Perfil turístico de la zona (+2M turistas/año, británicos/alemanes) alineado con varios servicios candidatos.
+- Ayuda pública del Cabildo específica para peluquerías/centros de estética (60% de inversión, hasta 10.000 €, ver [`ayudas-subvenciones.md`, sección 2.1](../negocio/ayudas-subvenciones.md#21-subvención-destinada-a-la-reforma-de-locales-y-equipamiento-para-comercio-minorista-restauración-y-servicios-personales-2026)), aplicable a equipamiento de los cubículos en vez de a obra — plazo 2026 ya cerrado, pero es anual: vigilar la convocatoria 2027.
+- Centro de FP en el mismo pueblo ([IES Las Galletas](../negocio/opcion-alumnado-fp-dual.md#centro-identificado-ies-las-galletas-agosto-2026)) como cantera de talento para cubrir los cubículos.
+- Demanda real detectada sin cubrir en la zona (trenzas) y competencia con problemas de calidad documentados en uñas y masajes — ver [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-2026) — hueco para diferenciarse al elegir qué perfil atraer a los cubículos.
+- Perfil turístico de la zona (+2M turistas/año, británicos/alemanes, [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-2026)) alineado con varios servicios candidatos.
 
 **Amenazas**
 - Zona con oferta de estética ya relativamente cubierta en lo "estándar" (peluquería, uñas, depilación, cejas/pestañas).
 - Servicios de mayor valor añadido (láser, blanqueamiento dental) tienen barreras legales serias — riesgo de invertir en algo no viable si no se verifica antes.
-- Sin validar aún si hay autónomos reales interesados en alquilar cabina en Las Galletas — ni siquiera se ha confirmado que exista un grupo o comunidad activa del gremio en Tenerife/Canarias. Un foro real del sector (BeautyMarket) avisa de que el modelo de cabina **solo funciona bien si la inquilina ya tiene cartera propia** — sin eso, el riesgo de impago es real para ambas partes (ver [`propuesta-oferta-coworking.md`](../negocio/propuesta-oferta-coworking.md)).
-- Riesgo del traspaso de cartera: si el inquilino que recibe las clientas de la propietaria se marcha pronto, ese activo se pierde sin haberlo protegido por contrato (ver [`contrato-alquiler-cabina.md`](../negocio/contrato-alquiler-cabina.md)). El caso real de Phenix Salon Suites (California, 2024-2025) —22 profesionales desalojadas de golpe por impago del franquiciado— confirma que la desconfianza sobre gestión/pagos es un riesgo documentado del sector, no solo teórico (ver [`casos-reales-coworking.md`](../negocio/casos-reales-coworking.md)).
+- Sin validar aún si hay autónomos reales interesados en alquilar cabina en Las Galletas — ni siquiera se ha confirmado que exista un grupo o comunidad activa del gremio en Tenerife/Canarias. Un [foro real del sector (BeautyMarket)](https://www.beautymarket.es/estetica/alquiler-de-cabina-4-637696-forop.php) avisa de que el modelo de cabina **solo funciona bien si la inquilina ya tiene cartera propia** — sin eso, el riesgo de impago es real para ambas partes (ver [`propuesta-oferta-coworking.md`](../negocio/propuesta-oferta-coworking.md#4-cómo-validar-demanda-antes-de-comprometerse)).
+- Riesgo del traspaso de cartera: si el inquilino que recibe las clientas de la propietaria se marcha pronto, ese activo se pierde sin haberlo protegido por contrato (ver [`contrato-alquiler-cabina.md`](../negocio/contrato-alquiler-cabina.md)). El caso real de [Phenix Salon Suites (California, 2024-2025)](https://www.nbclosangeles.com/news/local/hair-stylists-file-lawsuit-after-eviction-in-marina-del-rey/3814555/) —22 profesionales desalojadas de golpe por impago del franquiciado— confirma que la desconfianza sobre gestión/pagos es un riesgo documentado del sector, no solo teórico (ver [`casos-reales-coworking.md`](../negocio/casos-reales-coworking.md#caso-de-fracaso-grave-phenix-salon-suites-marina-del-rey-california-2024-2025)).
 
 ## 10. Cronograma de implementación — 🔴
 
