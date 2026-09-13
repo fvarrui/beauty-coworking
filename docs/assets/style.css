@@ -256,7 +256,14 @@ tr:last-child td{ border-bottom:none; }
 .mermaid-wrap{ overflow-x:auto; margin:1.4rem 0; background:var(--bg-alt); border:1px solid var(--border); border-radius:var(--radius); padding:1.2rem; }
 .mermaid-wrap .mermaid{ display:flex; justify-content:center; min-width:320px; }
 
-/* ---------------- GRID DE CAPÍTULOS (portada) ---------------- */
+/* ---------------- FUENTES (referencias al final de sección) ---------------- */
+.sources{ margin-top:1.6rem; padding-top:.9rem; border-top:1px dashed var(--border); font-size:.85rem; line-height:1.6; color:var(--ink-soft); }
+.sources .sources-label{ font-weight:700; text-transform:uppercase; letter-spacing:.04em; margin-right:.5rem; }
+.sources a{ color:var(--primary); text-decoration:none; }
+.sources a:hover{ text-decoration:underline; }
+.sources .sep{ margin:0 .35rem; opacity:.6; }
+
+/* ---------------- GRID DE SECCIONES (portada) ---------------- */
 .chapter-grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:1rem; margin:1.6rem 0; }
 .chapter-card{
   display:block; border:1px solid var(--border); border-radius:var(--radius); padding:1.1rem 1.25rem;

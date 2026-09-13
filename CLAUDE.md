@@ -40,3 +40,5 @@ No fuerces estas ideas si no encajan; prioriza siempre lo que se derive de los d
 - Respuestas concretas y accionables, no ensayos genéricos de gestión.
 - Cuando falten datos críticos para una recomendación, dilo explícitamente en vez de rellenar el hueco con suposiciones.
 - Los documentos que generes deben ser útiles para presentar o compartir (banco, ayuntamiento, socios), así que cuida la redacción y estructura en markdown.
+- **Lenguaje claro y directo, sobre todo en preguntas y pendientes**: cada pregunta para la propietaria debe formularse como pregunta completa y directa, nunca como un fragmento nominal ambiguo — ella no tiene formación técnica ni de gestión y debe entender de un vistazo qué se le pide.
+- **Toda afirmación verificable debe llevar su referencia**, para que se pueda contrastar: enlaza en línea los nombres de operadores/fuentes externas citadas a su URL real, y/o añade un bloque de fuentes al final de cada sección o apartado con enlace al documento de `negocio/`/`plan-negocio/` del que sale el dato. Nunca fabriques una URL o cita para rellenar una referencia que no tienes.

@@ -40,7 +40,19 @@ A diferencia del antiguo resumen de una página, esta presentación debe **inclu
 - Cuando haya varias opciones o casos analizados (candidatos de servicio, casos reales, ayudas públicas, canales de captación de inquilinas...), preséntalos todos, no solo los 2-3 más destacados.
 - Mantén el estilo claro y bien estructurado (encabezados, listas, tablas, callouts para avisos/riesgos) para que la densidad de información no se sienta como un muro de texto.
 
-## 4. Estructura de contenido sugerida
+## 4. Lenguaje claro y directo
+
+Especialmente en las "Decisiones pendientes" y en cualquier lista de preguntas para la propietaria: formula cada punto como una **pregunta directa y completa**, no como un fragmento nominal ("Superficie, planos y equipamiento de cada espacio" no es una pregunta). Una propietaria sin formación técnica ni de gestión debe poder leer la pregunta y saber exactamente qué se le está pidiendo, sin tener que interpretarla. Este mismo criterio (claro, directo, sin jerga sin explicar) aplica a toda la presentación, no solo a esa sección.
+
+## 5. Referencias — todo debe poder contrastarse
+
+Cada sección debe permitir comprobar de dónde sale la información, con enlaces reales (nunca inventados):
+
+- **Al final de cada sección** (o de cada bloque `<h2>` cuando el contenido de la sección mezcla temas distintos, como en "Decisiones pendientes"), añade un bloque `<div class="sources">` con enlaces a los ficheros fuente en GitHub: `https://github.com/fvarrui/beauty-coworking/blob/main/negocio/<fichero>.md` (o `plan-negocio/<fichero>.md`). Usa un `<span class="sep">·</span>` entre enlaces cuando haya varios.
+- **Enlaza en línea** los nombres de operadores, anuncios, estudios o fuentes externas citadas (p. ej. "Alzentro", "Sola Salon Studios", "foro de BeautyMarket") directamente a su URL real, tal como aparece citada en el `.md` de origen (`casos-reales-coworking.md` y `propuesta-oferta-coworking.md` llevan las URLs primarias). No cites una fuente sin enlazarla si el `.md` de origen ya tiene el enlace.
+- Nunca inventes una URL ni una cifra de fuente para "completar" una referencia — si el dato no tiene fuente en `negocio/`, dilo como hueco de información en vez de fabricar una.
+
+## 6. Estructura de contenido sugerida
 
 Adapta esta estructura a lo que exista realmente en `negocio/` y `plan-negocio/` en cada momento (añade, quita o reordena secciones si el contenido ha cambiado sustancialmente), pero como referencia de partida:
 
@@ -60,7 +72,7 @@ Adapta esta estructura a lo que exista realmente en `negocio/` y `plan-negocio/`
 14. Decisiones pendientes (organizadas por bloques, incluyendo siempre el inventario de equipamiento/material del local)
 15. Próximos pasos
 
-## 5. Cierre
+## 7. Cierre
 
 Cierra la página de la última sección con una nota de agradecimiento breve, recordando que el detalle completo (fuentes incluidas) está en `negocio/` y `plan-negocio/`, y que la presentación se puede regenerar en cualquier momento con `/presentar`.
 

@@ -23,6 +23,11 @@ Audita el estado real de `negocio/` y `plan-negocio/` (los documentos fuente; `d
 
 - Contrasta `negocio/pendientes.md` contra el resto de `negocio/` y `plan-negocio/`: pendientes que ya se resolvieron en otro documento y no se han tachado/quitado; pendientes reales que han surgido en otros documentos y no están recogidos aquí.
 
-## 5. Salida
+## 5. Lenguaje y referencias
 
-No edites nada todavía: primero presenta al usuario una lista corta de lo encontrado, agrupada por las 4 categorías anteriores, con el fichero y la línea o cita concreta. Pregunta o procede a corregir solo lo que sea mecánico y de bajo riesgo (enlaces rotos, "prima"/nombres colados) directamente; para lo que implique una decisión de contenido, déjalo listado para que el usuario decida.
+- Señala cualquier pregunta o pendiente formulado como fragmento nominal en vez de pregunta directa y completa (ver `CLAUDE.md`).
+- Si al revisar `negocio/` o `plan-negocio/` detectas una afirmación citada en `docs/` (la presentación) sin el enlace correspondiente en su bloque `.sources` o en línea, señálalo también — se corrige regenerando esa sección con `/presentar`, no a mano en `docs/`.
+
+## 6. Salida
+
+No edites nada todavía: primero presenta al usuario una lista corta de lo encontrado, agrupada por las categorías anteriores, con el fichero y la línea o cita concreta. Pregunta o procede a corregir solo lo que sea mecánico y de bajo riesgo (enlaces rotos, "prima"/nombres colados) directamente; para lo que implique una decisión de contenido, déjalo listado para que el usuario decida.
