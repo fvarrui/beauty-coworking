@@ -2,9 +2,9 @@
 description: Regenera la presentación web (docs/) a partir de todo lo recopilado en negocio/ y plan-negocio/
 ---
 
-Regenera por completo el sitio de `docs/` (portada `index.html` + una página por sección en `chapters/`), siguiendo estas reglas. Este comando **sustituye** al antiguo `/summary` — ya no se genera `resumen.md`; el entregable para la propietaria es siempre esta presentación web.
+Regenera por completo el sitio de `docs/` (portada `index.html` + una página por sección en `sections/`), siguiendo estas reglas. Este comando **sustituye** al antiguo `/summary` — ya no se genera `resumen.md`; el entregable para la propietaria es siempre esta presentación web.
 
-Las unidades de contenido se llaman **secciones**, no "capítulos" — etiquétalas siempre como "Sección 01", "Sección 02"... (breadcrumb, tarjetas de portada, sidebar) aunque la carpeta técnica siga llamándose `chapters/`.
+Las unidades de contenido se llaman **secciones**, no "capítulos" — etiquétalas siempre como "Sección 01", "Sección 02"... (breadcrumb, tarjetas de portada, sidebar), y la carpeta técnica que las contiene se llama `sections/`.
 
 ## 0. Antes de nada
 
