@@ -62,9 +62,9 @@
         <div class="kpi"><span class="num">+800 €</span><span class="label">al mes, objetivo (2 cubículos)</span></div>
         <div class="kpi"><span class="num">1.100 €</span><span class="label">al mes, a pleno rendimiento</span></div>
       </div>
+      <p class="mermaid-caption">Ingresos a pleno rendimiento (1.100 €/mes)</p>
       <div class="mermaid-wrap"><pre class="mermaid">
 pie showData
-    title Ingresos a pleno rendimiento (1.100 €/mes)
     "Salón central — ya real" : 300
     "Cubículo 1 — objetivo" : 400
     "Cubículo 2 — objetivo" : 400
@@ -132,11 +132,17 @@ pie showData
     themeVariables: dark ? {
       primaryColor: '#3a2430', primaryBorderColor: '#f48fb1', primaryTextColor: '#e6e6e6',
       lineColor: '#f48fb1', secondaryColor: '#242526', tertiaryColor: '#1b1b1d',
-      background: '#1b1b1d', mainBkg: '#242526', textColor: '#e6e6e6', pieOpacity: 0.9
+      background: '#1b1b1d', mainBkg: '#242526', textColor: '#e6e6e6', pieOpacity: 1,
+      pie1: '#c2185b', pie2: '#f48fb1', pie3: '#f8bbd0',
+      pieStrokeColor: '#1b1b1d', pieOuterStrokeColor: '#1b1b1d',
+      pieSectionTextColor: '#1c1e21', pieLegendTextColor: '#e6e6e6', pieTitleTextColor: '#e6e6e6'
     } : {
       primaryColor: '#fce4ec', primaryBorderColor: '#c2185b', primaryTextColor: '#1c1e21',
       lineColor: '#c2185b', secondaryColor: '#f6f7f9', tertiaryColor: '#ffffff',
-      background: '#ffffff', mainBkg: '#f6f7f9', textColor: '#1c1e21', pieOpacity: 0.9
+      background: '#ffffff', mainBkg: '#f6f7f9', textColor: '#1c1e21', pieOpacity: 1,
+      pie1: '#99123f', pie2: '#c2185b', pie3: '#f48fb1',
+      pieStrokeColor: '#ffffff', pieOuterStrokeColor: '#ffffff',
+      pieSectionTextColor: '#ffffff', pieLegendTextColor: '#1c1e21', pieTitleTextColor: '#1c1e21'
     }
   });
 })();

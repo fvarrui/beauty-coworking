@@ -253,6 +253,7 @@ tr:last-child td{ border-bottom:none; }
 }
 
 /* ---------------- DIAGRAMAS MERMAID ---------------- */
+.mermaid-caption{ font-weight:700; font-size:1.02rem; margin:1.4rem 0 -0.6rem; text-align:center; }
 .mermaid-wrap{ overflow-x:auto; margin:1.4rem 0; background:var(--bg-alt); border:1px solid var(--border); border-radius:var(--radius); padding:1.2rem; }
 .mermaid-wrap .mermaid{ display:flex; justify-content:center; min-width:320px; }
 
