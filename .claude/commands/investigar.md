@@ -13,10 +13,11 @@ Investiga a fondo la pregunta o el tema que te indique el usuario (por ejemplo: 
 
 - **Prioriza casos y datos reales, con nombre propio y fuente verificable**, frente a generalidades de sector. Un caso real con enlace vale más que un párrafo de sentido común sin referencia.
 - **Prioriza lo aplicable a la escala real de este negocio** (un local, 3 puestos, zona no metropolitana) sobre ejemplos de operadores gigantes — cita estos últimos solo como contexto de mercado, dejándolo explícito.
-- **Distingue siempre** lo confirmado con fuente, lo que es una hipótesis propia razonable (márcalo como tal), y lo que sigue siendo un hueco de información.
+- **Distingue siempre** lo confirmado con fuente (y con cuántas), lo que es una hipótesis propia razonable (márcalo como tal), y lo que sigue siendo un hueco de información.
 - **No inventes ni redondees datos para que "cuadren"**. Si una cifra no se encuentra, dilo — no la sustituyas por una estimación sin avisar de que lo es.
 - **Nunca copies el nombre real de nadie del salón** en el documento resultante; usa siempre el rol ("la propietaria", "la profesional de pedicura", etc.).
-- Cita fuentes con enlace siempre que exista una consultable online.
+- **Cada cosa que nombres o expliques lleva su enlace externo real**, en el propio punto donde lo dices, no solo agrupado al final del documento — un organismo, una ley, un operador, una cifra, cualquier nombre propio o afirmación comprobable.
+- **Verifica desde varias fuentes independientes siempre que puedas**, sobre todo para datos con peso en el plan (precios, plazos, requisitos legales) — no te quedes con la primera fuente que encuentres, en particular si es un blog o un agregador. Si dos fuentes se contradicen, dilo y cita ambas; si solo diste con una pese a intentarlo, dilo también en vez de presentarlo con la misma seguridad que algo verificado dos veces.
 
 ## 3. Formato del documento resultante
 
