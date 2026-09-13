@@ -1,6 +1,6 @@
 # Estructura del plan de negocio — estado de avance
 
-Mapeo del contenido ya recopilado en `docs/negocio/` contra las secciones estándar de un plan de negocio (formato habitual usado por cámaras de comercio y organismos de emprendimiento en España), para ver qué se puede ir redactando ya y qué sigue bloqueado.
+Mapeo del contenido ya recopilado en `negocio/` contra las secciones estándar de un plan de negocio (formato habitual usado por cámaras de comercio y organismos de emprendimiento en España), para ver qué se puede ir redactando ya y qué sigue bloqueado.
 
 Leyenda: ✅ contenido suficiente para redactar la sección | 🟡 contenido parcial, falta completar | 🔴 bloqueado, casi todo pendiente de datos de la propietaria
 

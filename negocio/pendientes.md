@@ -1,6 +1,6 @@
 # Información pendiente para el plan de negocio
 
-Lista de datos que aún no se han recabado y que son necesarios para construir un plan de negocio sólido. Ir tachando/completando a medida que se obtengan y trasladar la información a los documentos correspondientes en `docs/negocio/`.
+Lista de datos que aún no se han recabado y que son necesarios para construir un plan de negocio sólido. Ir tachando/completando a medida que se obtengan y trasladar la información a los documentos correspondientes en `negocio/`.
 
 ## Negocio y estructura legal
 - [ ] Nombre comercial del salón (si tiene uno además de "salón de la propietaria").

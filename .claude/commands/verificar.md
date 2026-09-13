@@ -1,8 +1,8 @@
 ---
-description: Audita todo docs/ en busca de inconsistencias, datos inventados, nombres reales sin anonimizar y pendientes desactualizados
+description: Audita todo el contenido del plan (negocio/, plan-negocio/) en busca de inconsistencias, datos inventados, nombres reales sin anonimizar y pendientes desactualizados
 ---
 
-Audita el estado real de todo `docs/` (y `resumen`/`presentacion` si existen) para detectar problemas que se acumulan con ediciones sucesivas. No es una skill de contenido nuevo, es un control de calidad. Repasa:
+Audita el estado real de `negocio/` y `plan-negocio/` (los documentos fuente; `docs/` es la presentación generada, no hace falta auditarla aparte — si el contenido fuente cambia, se regenera con `/presentar`) para detectar problemas que se acumulan con ediciones sucesivas. No es una skill de contenido nuevo, es un control de calidad. Repasa:
 
 ## 1. Anonimización
 
@@ -21,7 +21,7 @@ Audita el estado real de todo `docs/` (y `resumen`/`presentacion` si existen) pa
 
 ## 4. Estado de `pendientes.md`
 
-- Contrasta `docs/negocio/pendientes.md` contra el resto de `docs/`: pendientes que ya se resolvieron en otro documento y no se han tachado/quitado; pendientes reales que han surgido en otros documentos y no están recogidos aquí.
+- Contrasta `negocio/pendientes.md` contra el resto de `negocio/` y `plan-negocio/`: pendientes que ya se resolvieron en otro documento y no se han tachado/quitado; pendientes reales que han surgido en otros documentos y no están recogidos aquí.
 
 ## 5. Salida
 

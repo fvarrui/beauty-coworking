@@ -1,12 +1,12 @@
 ---
-description: Regenera la presentación web (docs/presentacion/) a partir de todo lo recopilado en docs/negocio/ y docs/plan-negocio/
+description: Regenera la presentación web (docs/) a partir de todo lo recopilado en negocio/ y plan-negocio/
 ---
 
-Regenera por completo el sitio de `docs/presentacion/` (portada `index.html` + una página por capítulo en `chapters/`), siguiendo estas reglas. Este comando **sustituye** al antiguo `/summary` — ya no se genera `resumen.md`; el entregable para la propietaria es siempre esta presentación web.
+Regenera por completo el sitio de `docs/` (portada `index.html` + una página por capítulo en `chapters/`), siguiendo estas reglas. Este comando **sustituye** al antiguo `/summary` — ya no se genera `resumen.md`; el entregable para la propietaria es siempre esta presentación web.
 
 ## 0. Antes de nada
 
-- **Lee todo `docs/negocio/` y `docs/plan-negocio/` de cero**, fichero a fichero. No te bases en el estado anterior de la presentación ni en memoria de conversación: el sitio debe reflejar exactamente lo que dicen esos documentos ahora mismo, incluyendo qué está resuelto y qué sigue pendiente.
+- **Lee todo `negocio/` y `plan-negocio/` de cero**, fichero a fichero. No te bases en el estado anterior de la presentación ni en memoria de conversación: el sitio debe reflejar exactamente lo que dicen esos documentos ahora mismo, incluyendo qué está resuelto y qué sigue pendiente.
 - **No inventes datos.** Si algo sigue sin confirmar en `pendientes.md` o en cualquier otro documento, refléjalo explícitamente como pendiente en la presentación — nunca rellenes el hueco con una suposición.
 - **Nunca uses el nombre real de la propietaria** ni de ninguna otra persona del salón — llámalas por su rol ("la propietaria", "la profesional de pedicura", "quien ocupe el Cubículo 2", etc.), nunca por parentesco ni por nombre propio. El sitio se publica en GitHub.
 
@@ -14,11 +14,11 @@ Regenera por completo el sitio de `docs/presentacion/` (portada `index.html` + u
 
 El sitio ya tiene un sistema de diseño (estilo Docusaurus: navbar superior, sidebar de capítulos a la izquierda, contenido central, "En esta página" a la derecha, paginación anterior/siguiente, modo claro/oscuro, responsive, con letra legible). Reutiliza:
 
-- `docs/presentacion/assets/style.css` — hoja de estilos compartida. Amplíala si necesitas una clase nueva para algo que no exista todavía, pero no rehagas la paleta ni la tipografía sin que te lo pidan explícitamente.
-- `docs/presentacion/assets/app.js` — toggle de tema + menú móvil.
+- `docs/assets/style.css` — hoja de estilos compartida. Amplíala si necesitas una clase nueva para algo que no exista todavía, pero no rehagas la paleta ni la tipografía sin que te lo pidan explícitamente.
+- `docs/assets/app.js` — toggle de tema + menú móvil.
 - Un icono (emoji) por capítulo, coherente con su contenido, visible en el sidebar, en la tarjeta de portada y en el título de la página.
 
-Si `docs/presentacion/` no existe todavía o está vacío, créalo siguiendo esta misma estructura desde cero.
+Si `docs/` no existe todavía o está vacío, créalo siguiendo esta misma estructura desde cero.
 
 ## 2. Diagramas — usa Mermaid, limpios y claros
 
@@ -40,7 +40,7 @@ A diferencia del antiguo resumen de una página, esta presentación debe **inclu
 
 ## 4. Estructura de contenido sugerida
 
-Adapta esta estructura a lo que exista realmente en `docs/` en cada momento (añade, quita o reordena capítulos si el contenido ha cambiado sustancialmente), pero como referencia de partida:
+Adapta esta estructura a lo que exista realmente en `negocio/` y `plan-negocio/` en cada momento (añade, quita o reordena capítulos si el contenido ha cambiado sustancialmente), pero como referencia de partida:
 
 1. El negocio hoy (local, equipo — situación actual real, no el plan futuro — y servicios)
 2. El cambio de modelo (la decisión, el plan de transición, organigrama de gestión)
@@ -60,6 +60,6 @@ Adapta esta estructura a lo que exista realmente en `docs/` en cada momento (añ
 
 ## 5. Cierre
 
-Cierra la página del último capítulo con una nota de agradecimiento breve, recordando que el detalle completo (fuentes incluidas) está en `docs/negocio/` y `docs/plan-negocio/`, y que la presentación se puede regenerar en cualquier momento con `/presentar`.
+Cierra la página del último capítulo con una nota de agradecimiento breve, recordando que el detalle completo (fuentes incluidas) está en `negocio/` y `plan-negocio/`, y que la presentación se puede regenerar en cualquier momento con `/presentar`.
 
-Sobrescribe `docs/presentacion/` por completo (borra páginas de capítulos que ya no correspondan) para que el sitio publicado siempre refleje el estado más reciente de `docs/`.
+Sobrescribe `docs/` por completo (borra páginas de capítulos que ya no correspondan) para que el sitio publicado siempre refleje el estado más reciente de `negocio/` y `plan-negocio/`. `docs/` es exclusivamente la salida generada — no escribas notas ni contenido a mano ahí.

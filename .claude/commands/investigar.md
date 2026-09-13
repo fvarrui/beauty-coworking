@@ -1,12 +1,12 @@
 ---
-description: Investiga en profundidad una pregunta concreta del plan de negocio (mercado, competencia, normativa, casos reales...) y vuelca el resultado, con fuentes, en docs/
+description: Investiga en profundidad una pregunta concreta del plan de negocio (mercado, competencia, normativa, casos reales...) y vuelca el resultado, con fuentes, en negocio/ o plan-negocio/
 ---
 
-Investiga a fondo la pregunta o el tema que te indique el usuario (por ejemplo: un servicio candidato, un requisito legal, un canal de captación, un competidor, una ayuda pública) y deja el resultado documentado en `docs/negocio/` o `docs/plan-negocio/`, según corresponda. Sigue el mismo estándar ya aplicado en `casos-reales-coworking.md` y `propuesta-oferta-coworking.md`:
+Investiga a fondo la pregunta o el tema que te indique el usuario (por ejemplo: un servicio candidato, un requisito legal, un canal de captación, un competidor, una ayuda pública) y deja el resultado documentado en `negocio/` o `plan-negocio/`, según corresponda. Sigue el mismo estándar ya aplicado en `casos-reales-coworking.md` y `propuesta-oferta-coworking.md`:
 
 ## 1. Antes de investigar
 
-- Lee primero lo que ya existe en `docs/` sobre el tema, para no duplicar trabajo ni contradecir datos ya confirmados. Si la pregunta amplía o corrige un documento existente, actualiza ese documento en vez de crear uno nuevo redundante.
+- Lee primero lo que ya existe en `negocio/` y `plan-negocio/` sobre el tema, para no duplicar trabajo ni contradecir datos ya confirmados. Si la pregunta amplía o corrige un documento existente, actualiza ese documento en vez de crear uno nuevo redundante.
 - Si la investigación es amplia (varios casos, varias fuentes), lánzala como un `Agent` en segundo plano (`subagent_type: general-purpose`, `run_in_background: true`) para no bloquear la conversación, y verifica el resultado leyéndolo antes de darlo por bueno.
 
 ## 2. Reglas de la investigación
