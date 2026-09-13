@@ -15,7 +15,15 @@ Lista de datos que aún no se han recabado y que son necesarios para construir u
 - [x] Superficie total: **unos 65-70 m²** (cifra aproximada dada por la propietaria). Ver [`local.md`](./local.md).
 - [ ] Desglose de la superficie por espacio (salón central, Cubículo 1, Cubículo 2) y planos del local.
 - [ ] Equipamiento y material del que dispone hoy cada espacio del local (salón central, Cubículo 1, Cubículo 2): mobiliario, aparatología, lencería, etc. — necesario para saber qué se queda para el siguiente inquilino y qué habría que reponer o retirar.
-- [ ] Licencia de actividad y si permite varios autónomos operando en el mismo local.
+- [x] **Licencia de actividad y si permite varios autónomos operando en el mismo local**: investigado a fondo — ver [`tramites-administrativos.md`](./tramites-administrativos.md#1-licencia-de-actividad--apertura-municipal-ayuntamiento-de-arona). Confirmado con fuentes oficiales (Ley 12/2012, Ley 7/2011 y Decreto 52/2012 canarios, Ordenanza Fiscal nº 7 de Arona) que el local, por tamaño (65-70 m², por debajo de los umbrales de 100 m² canario y 300 m² estatal), no debería requerir licencia previa sino declaración responsable/comunicación previa. La Ordenanza Fiscal nº 7 de Arona contempla explícitamente la "concurrencia de actividades varias" en un mismo local (cada una tributa la tasa, la segunda y siguientes al 1/3). Lo que **sigue sin poder confirmarse sin una consulta directa al Ayuntamiento de Arona** es si cada autónoma debe tramitar su propia declaración responsable a su nombre (lo más probable según la investigación) o si cabe alguna fórmula de licencia única — ver huecos detallados en el documento. **Trámite más urgente antes de alquilar los cubículos**: confirmar esto con la Oficina de Licencias/Urbanismo de Arona, y de paso verificar si la profesional de pedicura, que ya opera en el salón central, tiene su propia declaración presentada.
+
+## Trámites administrativos
+
+Detalle completo en [`tramites-administrativos.md`](./tramites-administrativos.md). Lo que sigue abierto:
+- [ ] **El más urgente**: confirmar con la Oficina de Licencias/Urbanismo del Ayuntamiento de Arona si cada autónoma que alquile un espacio debe presentar su propia declaración responsable de actividad a su nombre (lo más probable según la investigación) o si cabe alguna fórmula distinta — sin esto no se puede garantizar que el modelo sea legal tal y como se plantea.
+- [ ] Confirmar si la profesional de pedicura, que ya opera en el salón central, tiene presentada su propia declaración responsable de actividad — si no la tiene, es una irregularidad ya existente, independiente del plan de los cubículos.
+- [ ] Confirmar si la propietaria ya está de alta en el epígrafe IAE 861.2 (alquiler de locales) por el alquiler de 300 €/mes que ya cobra hoy a la profesional de pedicura.
+- [ ] Qué régimen de IRPF aplicará al ingreso del alquiler (capital inmobiliario vs. actividad económica) — depende de qué incluya finalmente el alquiler (pregunta ya abierta más abajo).
 
 ## Clientela y mercado
 - [ ] Volumen de clientas/clientes actuales.

@@ -73,9 +73,11 @@ Lo que ya hay:
 - Forma jurídica de la propietaria (autónoma).
 - Régimen de tenencia del local (propiedad).
 - Requisitos legales y de formación investigados para cada servicio nuevo candidato (trenzas, láser, piercing/micropigmentación, masajes).
+- **Investigación completa de trámites administrativos** — [`tramites-administrativos.md`](../negocio/tramites-administrativos.md): licencia de actividad (por tamaño, régimen de declaración responsable, no licencia previa), cambio de epígrafe IAE (861.2 como gestora), naturaleza jurídica del contrato, IVA (21%)/retención IRPF (19%, modelo 115) del alquiler, registro sanitario (no aplica a estética sin actos médicos), RGPD y seguro del local, con tabla de qué le corresponde a la propietaria y qué a cada inquilina.
 
 Lo que falta:
-- Confirmar si la licencia de actividad actual del salón permite que operen varios autónomos independientes, o si hay que tramitar algo adicional — esto es un bloqueante real para todo el plan de diversificación, no un detalle menor.
+- **El único bloqueante real que queda**: confirmar con la Oficina de Licencias/Urbanismo del Ayuntamiento de Arona si cada autónoma debe tramitar su propia declaración responsable de actividad a su nombre (lo más probable según la investigación, pero sin confirmación oficial para este caso exacto) o si cabe alguna fórmula distinta — sin esto no se puede garantizar que el modelo sea legal tal y como se plantea.
+- Confirmar si la profesional de pedicura, que ya opera en el salón central, tiene presentada su propia declaración — y si la propietaria ya está de alta en el epígrafe 861.2 por el alquiler que ya cobra hoy. Ambas son posibles irregularidades ya existentes, independientes del plan de expansión.
 
 ## 9. Análisis DAFO — 🟡 (primer borrador posible ya)
 
@@ -93,7 +95,7 @@ A diferencia de las demás secciones, un DAFO **sí se puede empezar a redactar 
 **Debilidades**
 - Sin datos de facturación propios de la cartera de la propietaria (precios de servicios aún sin rellenar) — no se puede evaluar rentabilidad real ni cuánto vale la cartera que se traspasa.
 - Relación con la profesional de pedicura probablemente sin formalizar por escrito (ambigüedad legal/fiscal), aunque ya está clara en importe (300 €/mes).
-- Sin confirmar si la licencia de actividad actual permite el modelo de varios autónomos independientes.
+- El local no debería necesitar licencia previa (declaración responsable por tamaño), pero sigue sin confirmar si cada autónoma necesita tramitar su propia declaración o si cabe una fórmula distinta — ver [`tramites-administrativos.md`](../negocio/tramites-administrativos.md).
 - **Periodo de transición sin ingreso de la actividad de la propietaria**: al dejar de ejercer, ese ingreso desaparece hasta que se cubran los 2 cubículos, sin plazo ni colchón financiero estimado todavía.
 
 **Oportunidades**

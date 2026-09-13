@@ -20,5 +20,5 @@ La propietaria ha descartado hacer reformas o ampliar el local: el modelo de neg
 
 - Desglose de la superficie por espacio (salón central, Cubículo 1, Cubículo 2) y planos del local — de momento solo se conoce el total aproximado (65-70 m²).
 - **Equipamiento y material disponible en cada espacio ahora mismo** (mobiliario, aparatología de estética, sillón/camilla, lencería, etc.) — clave para saber qué se queda para el siguiente inquilino y qué habría que retirar o reponer.
-- Licencia de actividad actual y si cubriría la operación de varios autónomos independientes en el mismo local.
+- ~~Licencia de actividad actual y si cubriría la operación de varios autónomos independientes en el mismo local.~~ Investigado — ver [`tramites-administrativos.md`](./tramites-administrativos.md): el local no debería necesitar licencia previa (declaración responsable/comunicación previa por tamaño), pero sigue sin confirmarse sin consulta directa al Ayuntamiento si cada autónoma necesita su propia declaración o si cabe una única a nombre de la propietaria.
 - Si hay contrato escrito con la profesional de pedicura por el uso del salón central (300 €/mes) o es un acuerdo informal.
