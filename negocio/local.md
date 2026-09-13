@@ -2,6 +2,7 @@
 
 - **Ubicación**: bajo comercial en Las Galletas (Arona, Tenerife) — calle peatonal en el centro del pueblo.
 - **Régimen de tenencia**: **propiedad de la propietaria** (no alquiler).
+- **Superficie total**: unos **65-70 m²** (cifra aproximada dada por la propietaria; falta el desglose por espacio y los planos — ver pendientes más abajo).
 - **Distribución**: el local ya tiene, **sin necesidad de obra ni reforma**, 3 puestos de trabajo independientes:
   - **Salón central**, justo a la entrada del local (recepción + zona principal): ocupado hoy por una **profesional de pedicura**, autónoma sin relación de parentesco con la propietaria. Le paga a la propietaria **300 €/mes** por el espacio.
   - **Cubículo 1**, en el fondo del local: ocupado **hoy mismo** por la propietaria, que ejerce ahí como esteticista (cuidado de la piel y depilación). Según el plan de transición (ver [`equipo.md`](./equipo.md)), quedará libre para alquilar cuando ella pase a dedicarse solo a gestionar el espacio.
@@ -17,7 +18,7 @@ La propietaria ha descartado hacer reformas o ampliar el local: el modelo de neg
 
 ## Pendiente de documentar
 
-- Superficie y planos del salón central y de cada cubículo.
+- Desglose de la superficie por espacio (salón central, Cubículo 1, Cubículo 2) y planos del local — de momento solo se conoce el total aproximado (65-70 m²).
 - **Equipamiento y material disponible en cada espacio ahora mismo** (mobiliario, aparatología de estética, sillón/camilla, lencería, etc.) — clave para saber qué se queda para el siguiente inquilino y qué habría que retirar o reponer.
 - Licencia de actividad actual y si cubriría la operación de varios autónomos independientes en el mismo local.
 - Si hay contrato escrito con la profesional de pedicura por el uso del salón central (300 €/mes) o es un acuerdo informal.

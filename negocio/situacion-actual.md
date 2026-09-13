@@ -4,7 +4,7 @@ Punto de partida para el plan de negocio de diversificación.
 
 ## Resumen
 
-La propietaria tiene un salón de belleza en **Las Galletas (Arona, Tenerife)**, en un local con capacidad ya construida (sin obra necesaria) para 3 puestos de trabajo independientes: un salón central y 2 cubículos.
+La propietaria tiene un salón de belleza en **Las Galletas (Arona, Tenerife)**, en un local de unos **65-70 m²** con capacidad ya construida (sin obra necesaria) para 3 puestos de trabajo independientes: un salón central y 2 cubículos.
 
 - El **salón central**, a la entrada del local, lo ocupa hoy una **profesional de pedicura** (autónoma, sin relación de parentesco con la propietaria), que le paga 300 €/mes de alquiler.
 - El **Cubículo 1** lo ocupa **hoy mismo** la propietaria, ejerciendo como esteticista (cuidado de la piel y depilación).

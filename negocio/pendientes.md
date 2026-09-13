@@ -12,7 +12,8 @@ Lista de datos que aún no se han recabado y que son necesarios para construir u
 ## Local
 - [x] Régimen de tenencia: **propiedad de la gestora** (bajo en Las Galletas — calle peatonal céntrica). No aplica coste de alquiler/hipoteca.
 - [x] Ampliación/reforma: **descartada**. El local ya tiene, sin obra, capacidad para 3 puestos (salón central + 2 cubículos). Ver [`local.md`](./local.md).
-- [ ] Superficie y planos (del salón central y de cada cubículo).
+- [x] Superficie total: **unos 65-70 m²** (cifra aproximada dada por la propietaria). Ver [`local.md`](./local.md).
+- [ ] Desglose de la superficie por espacio (salón central, Cubículo 1, Cubículo 2) y planos del local.
 - [ ] Equipamiento y material del que dispone hoy cada espacio del local (salón central, Cubículo 1, Cubículo 2): mobiliario, aparatología, lencería, etc. — necesario para saber qué se queda para el siguiente inquilino y qué habría que reponer o retirar.
 - [ ] Licencia de actividad y si permite varios autónomos operando en el mismo local.
 
