@@ -1,0 +1,92 @@
+# Propuesta: cómo ofertar el coworking y captar inquilinas
+
+El Cubículo 2 está libre desde ya; el Cubículo 1 se liberará cuando la propietaria complete la transición a gestora (ver [`equipo.md`](./equipo.md)). Este documento reúne, con fuentes, cómo anuncian y llenan sus cabinas otros operadores reales, para construir una oferta concreta. Investigación de septiembre 2026.
+
+## 1. Canales para encontrar inquilinas
+
+**Confirmados con anuncios reales activos en España:**
+
+- **Milanuncios** — sección "alquiler de negocio / alquiler cabina estética": anuncios activos en Madrid, Sevilla, Gijón, Badajoz, Pamplona ([enlace](https://www.milanuncios.com/alquiler-de-negocio/alquiler-cabina-estetica.htm)).
+- **BeautyMarket** — portal especializado del sector, con sección de anuncios de particulares y foros donde profesionales opinan sobre el modelo ([anuncios](https://www.beautymarketamerica.com/anunciosparticulares.php?seccion=22), [foro](https://www.beautymarket.es/estetica/foros_respuestas.php?numero=597474&secforo=4)).
+- **Tablón de Anuncios** — sección "negocios / alquiler cabina de estética" ([enlace](https://www.tablondeanuncios.com/negocios/alquiler-cabina-de-estetica.htm)).
+- Los propios operadores de coworking españoles (Alzentro, Beauty Loft, Wapa'm — ver [`casos-reales-coworking.md`](./casos-reales-coworking.md)) usan su **web propia con tarifas online** como canal principal, reforzado con redes sociales.
+
+⚠️ **No se encontró ningún grupo de Facebook ni comunidad activa de esteticistas/autónomas específica de Canarias o Tenerife**, pese a buscarlo explícitamente — solo páginas de negocio (centros, tiendas), no grupos de intercambio entre profesionales. Esto es un hueco real a validar a mano (entrando directamente en Facebook/Instagram y buscando "esteticistas Tenerife" o similar), no algo que se pueda dar por hecho que existe.
+
+**Canales de EE. UU.** (mercado maduro, útiles como inspiración, no confirmados en España):
+
+- Grupos de Facebook específicos del gremio: *"Salon Suite Renters and Indie Stylists"* y *"Looking for Salon Suites & Booths For Rent"*.
+- Portales especializados tipo marketplace: SalonRenter.com.
+- **Colaboración con academias de estética/peluquería** para captar recién graduadas — citado repetidamente como canal eficaz.
+- **Programas de referidos entre inquilinas actuales**: incentivar a la profesional de pedicura o a la primera inquilina que entre a recomendar a otras — el boca a boca del gremio se cita como canal de alto valor.
+- Jornadas de puertas abiertas para que la candidata "sienta" el espacio antes de decidir.
+
+Fuentes: [salonrenter.com](https://salonrenter.com/find-salon-suite-renters/), [slickmarketers.com](https://slickmarketers.com/10-salon-suite-marketing-tips/), [suitemanager.com](https://suitemanager.com/post/10-tips-to-fill-vacancies-in-your-salon-suite).
+
+**Hipótesis propia, sin confirmar**: para un local pequeño en una zona turística como Las Galletas, el cartel físico en el propio escaparate y el boca a boca con las clientas actuales (que puedan conocer a otras profesionales) probablemente pesan más que cualquier canal digital — no se ha encontrado ninguna fuente que mida esto para el contexto canario.
+
+## 2. Qué debe incluir una oferta atractiva (más allá del espacio desnudo)
+
+Comparando los operadores españoles con web propia y las guías de EE. UU., el paquete de valor de los operadores de éxito es consistente:
+
+- **Mobiliario y equipamiento incluido**: camilla, lavamanos, climatización individual — confirmado en Alzentro y en varios anuncios de Milanuncios/Tablón de Anuncios ("cabina totalmente equipada").
+- **Suministros básicos incluidos en el precio**: wifi, agua y luz — estándar en Beauty Loft y Alzentro.
+- **Sin fianza / sin permanencia mínima**: Alzentro lo destaca como argumento de venta central, para reducir la percepción de riesgo de la autónoma.
+- **Acceso flexible y amplio horario**: Alzentro ofrece acceso 365 días/año de 7:00 a 22:30 con reserva online y código de acceso inmediato.
+- **Modalidades de pago flexibles**: pago por horas con descuentos progresivos por volumen (Beauty Loft) permite empezar con poco compromiso económico.
+- **Contratos cortos / flexibles**: citado explícitamente como palanca de captación en varias guías del sector.
+- **Incentivos de entrada**: primer mes gratis o descuento inicial — práctica documentada en EE. UU., no confirmada como habitual en España, pero razonable de ofrecer para la primera inquilina.
+- **Comunidad entre inquilinas**: eventos de networking, citado como diferenciador en varias guías.
+- **Imagen profesional / recepción compartida**: Alzentro vende explícitamente la idea de "profesionalizar" frente a trabajar en casa.
+- **Limpieza de zonas comunes incluida**: destacado por Alzentro.
+- Un detalle pequeño pero citado textualmente en un anuncio real (Nude Beauty Studio, Barcelona): **"café y agua para las clientas"** como parte del atractivo — cuidar el detalle de la experiencia de la clienta final, no solo el espacio de trabajo.
+
+⚠️ No se ha confirmado que ningún operador español incluya apoyo formal de marketing o formación como parte del paquete — eso solo aparece documentado en operadores de EE. UU.
+
+## 3. Ejemplos reales de anuncios "se alquila cabina" (España)
+
+| Ubicación | Precio | Argumento de venta textual |
+|---|---|---|
+| Nude Beauty Studio, Barcelona (Paseo de Gracia) | 450 €/mes | *"Alquilo espacio profesional en mi estética... Puesto de manicura, Cabina de estética equipada, todo nuevo a estrenar, Calefacción central, Wifi, Café y agua para clientas, Excelente ubicación."* Dirigido a "chicas que quieran trabajar de manera independiente y profesional". |
+| Madrid, zona Oporto | 500 €/mes | Dos cabinas (una con ducha) + puesto de peluquería — vende la versatilidad del espacio (ducha para tratamientos corporales/masajes/maderoterapia). |
+| Barcelona, Industria/Paseo San Juan | 15 €/hora | *"El espacio es silencioso, con clase y perfecto para masajistas y terapeutas corporales."* Con ducha incluida — modelo de pago por horas para profesionales itinerantes o a tiempo parcial. |
+| Alcorcón | 400 €/mes | Cabina de estética totalmente equipada (camilla, lavamanos, A/C y calefacción), dirigida a "esteticistas, masajistas y profesionales del bienestar". |
+| Sevilla Este | Sin precio público | *"Cabina totalmente equipada. Gastos incluidos (luz, agua, internet, climatización)"* — abierta a varios perfiles (nutrición, pestañas, micropigmentación, fisioterapia) en vez de cerrarse a un único tipo de profesional. |
+
+Fuentes: [tablondeanuncios.com](https://www.tablondeanuncios.com/negocios/alquiler-cabina-de-estetica.htm), [beautymarketamerica.com](https://www.beautymarketamerica.com/se-alquila-cabina-de-estetica-alcorcon-22-351524-anuncio.php), [milanuncios.com](https://www.milanuncios.com/alquiler-de-negocio/alquiler-cabina-estetica.htm).
+
+**Patrón común en los 5 anuncios**: precio siempre visible, listado explícito de qué incluye, ubicación como argumento de venta, perfil de profesional al que va dirigido, tono cercano/informal — muy distinto del lenguaje corporativo de los operadores grandes de EE. UU.
+
+## 4. Cómo validar demanda antes de comprometerse
+
+No hay una guía específica del sector belleza sobre esto — son recomendaciones de metodología general aplicadas al caso:
+
+- **Piloto de bajo presupuesto**: publicar la oferta (Milanuncios, BeautyMarket, redes) antes de comprometerse a nada más, y medir el interés real recibido.
+- **Preguntar directamente** a profesionales del sector en la zona qué buscan, qué pagarían, qué les preocupa.
+- **Dato de campo real, del foro de BeautyMarket**: profesionales del sector advierten explícitamente que el modelo de alquiler de cabina **solo funciona bien si la inquilina ya tiene cartera de clientes propia** — sin eso, el negocio es arriesgado tanto para ella como para quien alquila el espacio. En el mismo hilo se documenta un caso real de fracaso: una profesional que delegó la gestión de un salón vio esfumarse la clientela en 3 meses. **Consecuencia práctica**: el mensaje de la oferta debería dirigirse sobre todo a autónomas que ya tengan cartera propia, no solo a recién graduadas sin clientela — esto es coherente con lo que ya se sabe del Cubículo 1, que recibiría precisamente la cartera de la propietaria.
+- **Colaborar con centros de FP de estética/peluquería de la zona** para detectar demanda entre recién graduadas — sin identificar todavía centros concretos en Tenerife Sur (más allá del IES Las Galletas ya documentado en [`opcion-alumnado-fp-dual.md`](./opcion-alumnado-fp-dual.md), que es para alumnado en prácticas, no autónomas ya tituladas).
+- **Periodo de prueba a precio reducido** antes de comprometer un contrato largo — no está documentado como recomendación explícita de expertos, pero es coherente con la práctica de "primer mes gratis" ya vista arriba. Es una idea razonable a proponer, no un hallazgo confirmado.
+
+⚠️ Sigue sin confirmarse si existe algún grupo o comunidad activa de autónomas de estética/peluquería en Canarias/Tenerife — sería el primer paso de validación real, y solo se puede hacer entrando directamente en Facebook/Instagram, no por buscador general.
+
+## 5. Qué perfil de profesional suele alquilar cabina, y qué le preocupa
+
+**Perfiles típicos:**
+
+- **Autónoma ya establecida** que quiere independizarse de un salón por comisión (40-59% de comisión citado como rango típico en EE. UU.) para controlar precios, horario y estándares propios.
+- **Recién graduada** de FP de estética/peluquería, con pocos fondos y poca experiencia de negocio — el foro español de BeautyMarket avisa de que este perfil es el de mayor riesgo si no trae cartera propia.
+- **Profesional itinerante / a tiempo parcial** (micropigmentadora, masajista) que encaja con el modelo de pago por horas, como el anuncio de Barcelona a 15 €/hora.
+
+**Lo que más le preocupa al decidir:**
+
+- **Si se lleva a su clientela** al cambiar de sitio — preocupación central, aunque una fuente cita que "más del 80% de los clientes siguen al profesional" a la nueva ubicación.
+- **Ubicación y accesibilidad**: por mucho que quieran a su profesional, las clientas solo se desplazan hasta cierto punto — relevante para Las Galletas, hay que valorar si el target es clientela ya en la zona o dispuesta a moverse desde otras partes de Arona.
+- **Viabilidad económica real**: si el alquiler + coste de producto deja margen suficiente, sobre todo para quien empieza con poca cartera.
+- **Autonomía real**: control efectivo sobre precios y horario — el argumento de venta nº1 en toda la literatura del sector, y algo que la propietaria puede ofrecer de forma creíble al ser un espacio pequeño y flexible, no una franquicia con normas rígidas.
+- **Carga de gestión** de su propio negocio (agenda, limpieza, stock) que alguien acostumbrado a trabajar por cuenta ajena puede infravalorar.
+
+## Resumen de huecos de información (no inventar, confirmar antes de dar por buenos)
+
+- No hay confirmación de grupos o comunidades activas de profesionales de estética en Tenerife/Canarias — buscar manualmente en Facebook/Instagram.
+- No hay ningún caso documentado de coworking de belleza operando ya en Tenerife como referencia comparable.
+- No se han identificado academias de FP de estética/peluquería concretas en la zona de Arona/Las Galletas (más allá del IES Las Galletas) con las que colaborar para captar autónomas ya tituladas.

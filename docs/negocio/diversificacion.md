@@ -11,15 +11,15 @@ Esto encaja con un modelo habitual en el sector: **renta de cabina / space renta
 - **Descarta la reforma/ampliación**: no va a ampliar el local ni construir nuevos habitáculos. El local ya tiene, sin obra, capacidad para 3 puestos: el **salón central** y **2 cubículos** en el fondo. Detalle en [`local.md`](./local.md).
 - **La propietaria deja de ejercer como esteticista**: se dedica por completo a gestionar el espacio, y **traspasa su propia cartera de clientas** de estética/depilación a la persona que ocupe uno de los 2 cubículos, para garantizar que esas clientas sigan recibiendo servicio. Ver [`equipo.md`](./equipo.md).
 
-Ya existe, además, un antecedente real y en marcha: la prima de la propietaria ocupa hoy el **salón central** dando servicio de uñas, y le paga **300 €/mes** de alquiler — es decir, el modelo de renta de espacio ya funciona de facto con una parte del local. Falta confirmar si ese acuerdo está formalizado por escrito (ver [`equipo.md`](./equipo.md)).
+Ya existe, además, un antecedente real y en marcha: la profesional de pedicura ocupa hoy el **salón central** dando servicio de uñas, y le paga **300 €/mes** de alquiler — es decir, el modelo de renta de espacio ya funciona de facto con una parte del local. Falta confirmar si ese acuerdo está formalizado por escrito (ver [`equipo.md`](./equipo.md)).
 
 ## Precios de alquiler
 
 | Espacio | Ocupante | Precio | Estado |
 |---|---|---|---|
-| Salón central | Prima de la propietaria (uñas) | 300 €/mes | Ya en marcha |
-| Cubículo 1 (fondo) | Por cubrir — recibiría la cartera de la propietaria | ~400 €/mes | Objetivo, por confirmar si es precio cerrado |
-| Cubículo 2 (fondo) | Por cubrir | ~400 €/mes | Objetivo, por confirmar si es precio cerrado |
+| Salón central | Profesional de pedicura (uñas), autónoma sin relación de parentesco con la propietaria | 300 €/mes | Ya en marcha |
+| Cubículo 1 (fondo) | La propietaria ejerce aquí hoy como esteticista; recibiría un nuevo inquilino cuando se libere como parte de la transición | ~400 €/mes | Objetivo, por confirmar si es precio cerrado — cubículo aún no liberado |
+| Cubículo 2 (fondo) | Libre ahora mismo, por cubrir | ~400 €/mes | Objetivo, por confirmar si es precio cerrado |
 
 Los 400 €/mes objetivo están en línea con la referencia de mercado ya recogida en [`precios-servicios.md`](./precios-servicios.md#referencia-de-mercado-contexto-externo-no-son-precios-de-la-propietaria): similar a Candelaria (~400 €/mes, todos los gastos incluidos) y algo por encima de Los Realejos (~300 €/mes).
 
@@ -40,7 +40,7 @@ Cambia el modelo de ingresos de la propietaria: de "ingresos por servicios que e
 
 Con lo que sabemos hoy, la idea **parece viable en principio**, pero con reservas importantes por falta de datos económicos. A favor:
 
-- **Ya hay una prueba de concepto real y en marcha**: el salón central funciona hoy ocupado por un tercero (la prima) pagando 300 €/mes. Aunque haya que confirmar si está formalizado por escrito, demuestra que el modelo "un espacio, un profesional independiente" ya opera de facto y genera ingresos reales.
+- **Ya hay una prueba de concepto real y en marcha**: el salón central funciona hoy ocupado por un tercero (la profesional de pedicura) pagando 300 €/mes. Aunque haya que confirmar si está formalizado por escrito, demuestra que el modelo "un espacio, un profesional independiente" ya opera de facto y genera ingresos reales.
 - **Sin coste de obra ni de alquiler del local** (es propiedad y ya tiene los 2 cubículos construidos): reduce el riesgo financiero de base — no hay inversión previa que recuperar para poder alquilar los espacios.
 - **Ubicación céntrica peatonal**: hace el espacio atractivo tanto para clientas como para autónomos que quieran alquilar cabina.
 - Modelo de ingresos por renta de espacio, más predecible que la venta directa de servicios.
@@ -100,12 +100,12 @@ Aplicando los métodos ya identificados para saber qué se demanda en Las Gallet
 
 ## Preguntas abiertas para la propietaria
 
-Ya resueltas: modelo de alquiler (renta fija mensual), local vs. ampliación (no hay ampliación, ya existen los 2 cubículos), situación de la prima (alquiler, 300 €/mes, salón central), rol de la propietaria (deja de ejercer, gestora del espacio). Quedan por confirmar:
+Ya resueltas: modelo de alquiler (renta fija mensual), local vs. ampliación (no hay ampliación, ya existen los 2 cubículos), situación de la profesional de pedicura (alquiler, 300 €/mes, salón central), rol de la propietaria (deja de ejercer, gestora del espacio). Quedan por confirmar:
 
-- [ ] **Qué incluye el alquiler**: ¿solo el espacio, o también equipamiento, recepción/agenda, productos, limpieza, suministros? Especialmente relevante para los cubículos: ¿se entregan con el equipamiento de estética que usaba la propietaria, o vacíos?
+- [ ] **Qué incluye el alquiler**: ¿solo el espacio, o también equipamiento, recepción/agenda, productos, limpieza, suministros? Especialmente relevante para los cubículos: ¿se entregan con el equipamiento de estética que usa la propietaria, o vacíos?
 - [ ] **Perfil de autónomos objetivo para los 2 cubículos**: ¿uno de ellos debe ser necesariamente estética/depilación (para dar continuidad a la cartera de la propietaria) y el otro una especialidad nueva? ¿Qué especialidades quiere atraer? (ver candidatos investigados más abajo).
 - [ ] **¿Es 400 €/mes un precio ya decidido o todavía en estudio?**
-- [ ] **Contrato con la prima**: ¿está el acuerdo de 300 €/mes formalizado por escrito, o es informal? Si es informal, conviene formalizarlo con el mismo checklist que se use para los cubículos nuevos (ver [`contrato-alquiler-cabina.md`](./contrato-alquiler-cabina.md)).
+- [ ] **Contrato con la profesional de pedicura**: ¿está el acuerdo de 300 €/mes formalizado por escrito, o es informal? Si es informal, conviene formalizarlo con el mismo checklist que se use para los cubículos nuevos (ver [`contrato-alquiler-cabina.md`](./contrato-alquiler-cabina.md)).
 - [ ] **Aspectos legales**: el local es propiedad de la propietaria (no hay contrato de alquiler que lo limite), pero falta comprobar si la licencia de actividad actual cubre que varios autónomos independientes operen en el mismo local, y qué seguro/responsabilidad civil se necesita para autónomos externos.
 - [ ] **Traspaso de la cartera de clientas de la propietaria**: ¿a cambio de qué se traspasa (condición del alquiler, pago aparte, periodo de permanencia mínima exigido al inquilino)? Es un activo de valor que la propietaria entrega, conviene protegerlo por contrato — ver [`contrato-alquiler-cabina.md`](./contrato-alquiler-cabina.md).
 - [ ] **Plazos**: ¿en qué horizonte de tiempo quiere la propietaria tener cubiertos los 2 cubículos? ¿Cuánto tiempo puede permitirse estar sin el ingreso de su propia actividad mientras tanto?
@@ -119,6 +119,10 @@ Rastreo rápido en Milanuncios, BeautyMarket y búsqueda general de anuncios/red
 - **Sí hay mercado activo de alquiler de cabinas en Tenerife** (oferta), lo que confirma que el modelo funciona en la isla: precios de referencia en [`precios-servicios.md`](./precios-servicios.md#referencia-de-mercado-contexto-externo-no-son-precios-de-la-propietaria) (~300-400 €/mes fijo, o ~15 €/día en modalidad flexible).
 - **Aviso importante encontrado en un foro del sector** (Beauty Market): un conflicto real y recurrente en este modelo de negocio es **de quién son las clientas** — si la autónoma que alquila la cabina se lleva su cartera de clientas al irse, o si esas clientas "son del salón". Esto hay que dejarlo explícito por contrato desde el primer día (igual que las responsabilidades de mantenimiento de zonas comunes, que también generó conflictos en el caso encontrado). **El caso de la propietaria es el escenario inverso y con más en juego**: no se trata de una autónoma que capta clientas nuevas y se las lleva al irse, sino de la propietaria **entregando su propia cartera ya existente** como parte del trato de entrada — conviene protegerlo por contrato (p. ej. periodo de permanencia mínima) más que en el caso estándar. Ver [`contrato-alquiler-cabina.md`](./contrato-alquiler-cabina.md).
 
+## Casos reales de coworking de belleza y cómo ofertar los cubículos
+
+Investigación específica sobre el modelo de coworking en sí (no sobre qué servicios ofrecer, sino sobre cómo operan y se llenan estos espacios de verdad): casos reales de operadores (Sola Salon Studios, My Salon Suite, y varios operadores españoles en Madrid/Barcelona), con precios, qué incluyen y casos de fracaso documentados, en [`casos-reales-coworking.md`](./casos-reales-coworking.md); y una propuesta concreta de cómo anunciar y captar inquilinas para el Cubículo 1 y el Cubículo 2, con ejemplos reales de anuncios, en [`propuesta-oferta-coworking.md`](./propuesta-oferta-coworking.md).
+
 ## Más ideas de servicios y profesiones (más allá del catálogo inicial)
 
 Ampliando la búsqueda a otras profesiones (no solo estética clásica) y a modelos de mercados anglosajones (UK/EE. UU.), donde el alquiler de cabinas es un negocio ya maduro: ficha completa con más de 15 candidatos nuevos (quiromasaje, fisioterapia, brow bar, blow dry bar, spray tan, barbería, nutrición, y más) en [`ideas-servicios-adicionales.md`](./ideas-servicios-adicionales.md), incluyendo aprendizajes del modelo de precios y contrato usado por cadenas como Sola Salon Studios.
@@ -129,4 +133,4 @@ La propietaria plantea también, para el futuro, cubrir alguno de los 2 cubícul
 
 ## Estado
 
-**Decisión tomada**: modelo de coworking de belleza confirmado, sin reforma ni ampliación del local — se apoya en el salón central (ya alquilado a la prima, 300 €/mes) y los 2 cubículos existentes (objetivo ~400 €/mes cada uno). La propietaria deja de ejercer como esteticista y traspasa su cartera de clientas a quien ocupe uno de los cubículos. Pendiente de que la propietaria responda a las preguntas abiertas para cerrar los detalles del modelo (qué incluye el alquiler, perfil de profesionales, contrato) y de validar demanda real de autónomos interesados en alquilar espacio.
+**Decisión tomada**: modelo de coworking de belleza confirmado, sin reforma ni ampliación del local — se apoya en el salón central (ya alquilado a la profesional de pedicura, 300 €/mes) y los 2 cubículos existentes (objetivo ~400 €/mes cada uno). La propietaria deja de ejercer como esteticista y traspasa su cartera de clientas a quien ocupe uno de los cubículos. Pendiente de que la propietaria responda a las preguntas abiertas para cerrar los detalles del modelo (qué incluye el alquiler, perfil de profesionales, contrato) y de validar demanda real de autónomos interesados en alquilar espacio.

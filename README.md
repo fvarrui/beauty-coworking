@@ -21,6 +21,7 @@ Repositorio de trabajo para preparar el plan de negocio del espacio de coworking
 - [`docs/negocio/contrato-alquiler-cabina.md`](./docs/negocio/contrato-alquiler-cabina.md) — checklist de cláusulas para el contrato con cada autónomo que alquile cabina.
 - [`docs/negocio/pendientes.md`](./docs/negocio/pendientes.md) — información pendiente de recabar para completar el plan de negocio.
 - [`docs/plan-negocio/estructura.md`](./docs/plan-negocio/estructura.md) — estructura del plan de negocio con estado de avance por sección y primer borrador de DAFO.
+- [`docs/presentacion/`](./docs/presentacion/index.html) — presentación web del plan de negocio (navegable, con diagramas), pensada para compartir o publicar con GitHub Pages. Se regenera con el comando `/presentar`.
 
 ## Cómo se usa este repo
 

@@ -3,522 +3,76 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Coworking de Belleza — Las Galletas</title>
-<meta name="description" content="Propuesta de modelo de negocio: reconvertir el salón en un espacio de coworking de belleza en Las Galletas (Arona, Tenerife).">
-
-<style>
-/*!
-* reveal.js 4.5.0
-* https://revealjs.com
-* MIT licensed
-*
-* Copyright (C) 2011-2023 Hakim El Hattab, https://hakim.se
-*/.reveal .r-stretch,.reveal .stretch{max-width:none;max-height:none}.reveal pre.r-stretch code,.reveal pre.stretch code{height:100%;max-height:100%;box-sizing:border-box}.reveal .r-fit-text{display:inline-block;white-space:nowrap}.reveal .r-stack{display:grid}.reveal .r-stack>*{grid-area:1/1;margin:auto}.reveal .r-hstack,.reveal .r-vstack{display:flex}.reveal .r-hstack img,.reveal .r-hstack video,.reveal .r-vstack img,.reveal .r-vstack video{min-width:0;min-height:0;object-fit:contain}.reveal .r-vstack{flex-direction:column;align-items:center;justify-content:center}.reveal .r-hstack{flex-direction:row;align-items:center;justify-content:center}.reveal .items-stretch{align-items:stretch}.reveal .items-start{align-items:flex-start}.reveal .items-center{align-items:center}.reveal .items-end{align-items:flex-end}.reveal .justify-between{justify-content:space-between}.reveal .justify-around{justify-content:space-around}.reveal .justify-start{justify-content:flex-start}.reveal .justify-center{justify-content:center}.reveal .justify-end{justify-content:flex-end}html.reveal-full-page{width:100%;height:100%;height:100vh;height:calc(var(--vh,1vh) * 100);overflow:hidden}.reveal-viewport{height:100%;overflow:hidden;position:relative;line-height:1;margin:0;background-color:#fff;color:#000}.reveal-viewport:fullscreen{top:0!important;left:0!important;width:100%!important;height:100%!important;transform:none!important}.reveal .fragment{transition:all .2s ease}.reveal .fragment:not(.custom){opacity:0;visibility:hidden;will-change:opacity}.reveal .fragment.visible{opacity:1;visibility:inherit}.reveal .fragment.disabled{transition:none}.reveal .fragment.grow{opacity:1;visibility:inherit}.reveal .fragment.grow.visible{transform:scale(1.3)}.reveal .fragment.shrink{opacity:1;visibility:inherit}.reveal .fragment.shrink.visible{transform:scale(.7)}.reveal .fragment.zoom-in{transform:scale(.1)}.reveal .fragment.zoom-in.visible{transform:none}.reveal .fragment.fade-out{opacity:1;visibility:inherit}.reveal .fragment.fade-out.visible{opacity:0;visibility:hidden}.reveal .fragment.semi-fade-out{opacity:1;visibility:inherit}.reveal .fragment.semi-fade-out.visible{opacity:.5;visibility:inherit}.reveal .fragment.strike{opacity:1;visibility:inherit}.reveal .fragment.strike.visible{text-decoration:line-through}.reveal .fragment.fade-up{transform:translate(0,40px)}.reveal .fragment.fade-up.visible{transform:translate(0,0)}.reveal .fragment.fade-down{transform:translate(0,-40px)}.reveal .fragment.fade-down.visible{transform:translate(0,0)}.reveal .fragment.fade-right{transform:translate(-40px,0)}.reveal .fragment.fade-right.visible{transform:translate(0,0)}.reveal .fragment.fade-left{transform:translate(40px,0)}.reveal .fragment.fade-left.visible{transform:translate(0,0)}.reveal .fragment.current-visible,.reveal .fragment.fade-in-then-out{opacity:0;visibility:hidden}.reveal .fragment.current-visible.current-fragment,.reveal .fragment.fade-in-then-out.current-fragment{opacity:1;visibility:inherit}.reveal .fragment.fade-in-then-semi-out{opacity:0;visibility:hidden}.reveal .fragment.fade-in-then-semi-out.visible{opacity:.5;visibility:inherit}.reveal .fragment.fade-in-then-semi-out.current-fragment{opacity:1;visibility:inherit}.reveal .fragment.highlight-blue,.reveal .fragment.highlight-current-blue,.reveal .fragment.highlight-current-green,.reveal .fragment.highlight-current-red,.reveal .fragment.highlight-green,.reveal .fragment.highlight-red{opacity:1;visibility:inherit}.reveal .fragment.highlight-red.visible{color:#ff2c2d}.reveal .fragment.highlight-green.visible{color:#17ff2e}.reveal .fragment.highlight-blue.visible{color:#1b91ff}.reveal .fragment.highlight-current-red.current-fragment{color:#ff2c2d}.reveal .fragment.highlight-current-green.current-fragment{color:#17ff2e}.reveal .fragment.highlight-current-blue.current-fragment{color:#1b91ff}.reveal:after{content:"";font-style:italic}.reveal iframe{z-index:1}.reveal a{position:relative}@keyframes bounce-right{0%,10%,25%,40%,50%{transform:translateX(0)}20%{transform:translateX(10px)}30%{transform:translateX(-5px)}}@keyframes bounce-left{0%,10%,25%,40%,50%{transform:translateX(0)}20%{transform:translateX(-10px)}30%{transform:translateX(5px)}}@keyframes bounce-down{0%,10%,25%,40%,50%{transform:translateY(0)}20%{transform:translateY(10px)}30%{transform:translateY(-5px)}}.reveal .controls{display:none;position:absolute;top:auto;bottom:12px;right:12px;left:auto;z-index:11;color:#000;pointer-events:none;font-size:10px}.reveal .controls button{position:absolute;padding:0;background-color:transparent;border:0;outline:0;cursor:pointer;color:currentColor;transform:scale(.9999);transition:color .2s ease,opacity .2s ease,transform .2s ease;z-index:2;pointer-events:auto;font-size:inherit;visibility:hidden;opacity:0;-webkit-appearance:none;-webkit-tap-highlight-color:transparent}.reveal .controls .controls-arrow:after,.reveal .controls .controls-arrow:before{content:"";position:absolute;top:0;left:0;width:2.6em;height:.5em;border-radius:.25em;background-color:currentColor;transition:all .15s ease,background-color .8s ease;transform-origin:.2em 50%;will-change:transform}.reveal .controls .controls-arrow{position:relative;width:3.6em;height:3.6em}.reveal .controls .controls-arrow:before{transform:translateX(.5em) translateY(1.55em) rotate(45deg)}.reveal .controls .controls-arrow:after{transform:translateX(.5em) translateY(1.55em) rotate(-45deg)}.reveal .controls .controls-arrow:hover:before{transform:translateX(.5em) translateY(1.55em) rotate(40deg)}.reveal .controls .controls-arrow:hover:after{transform:translateX(.5em) translateY(1.55em) rotate(-40deg)}.reveal .controls .controls-arrow:active:before{transform:translateX(.5em) translateY(1.55em) rotate(36deg)}.reveal .controls .controls-arrow:active:after{transform:translateX(.5em) translateY(1.55em) rotate(-36deg)}.reveal .controls .navigate-left{right:6.4em;bottom:3.2em;transform:translateX(-10px)}.reveal .controls .navigate-left.highlight{animation:bounce-left 2s 50 both ease-out}.reveal .controls .navigate-right{right:0;bottom:3.2em;transform:translateX(10px)}.reveal .controls .navigate-right .controls-arrow{transform:rotate(180deg)}.reveal .controls .navigate-right.highlight{animation:bounce-right 2s 50 both ease-out}.reveal .controls .navigate-up{right:3.2em;bottom:6.4em;transform:translateY(-10px)}.reveal .controls .navigate-up .controls-arrow{transform:rotate(90deg)}.reveal .controls .navigate-down{right:3.2em;bottom:-1.4em;padding-bottom:1.4em;transform:translateY(10px)}.reveal .controls .navigate-down .controls-arrow{transform:rotate(-90deg)}.reveal .controls .navigate-down.highlight{animation:bounce-down 2s 50 both ease-out}.reveal .controls[data-controls-back-arrows=faded] .navigate-up.enabled{opacity:.3}.reveal .controls[data-controls-back-arrows=faded] .navigate-up.enabled:hover{opacity:1}.reveal .controls[data-controls-back-arrows=hidden] .navigate-up.enabled{opacity:0;visibility:hidden}.reveal .controls .enabled{visibility:visible;opacity:.9;cursor:pointer;transform:none}.reveal .controls .enabled.fragmented{opacity:.5}.reveal .controls .enabled.fragmented:hover,.reveal .controls .enabled:hover{opacity:1}.reveal:not(.rtl) .controls[data-controls-back-arrows=faded] .navigate-left.enabled{opacity:.3}.reveal:not(.rtl) .controls[data-controls-back-arrows=faded] .navigate-left.enabled:hover{opacity:1}.reveal:not(.rtl) .controls[data-controls-back-arrows=hidden] .navigate-left.enabled{opacity:0;visibility:hidden}.reveal.rtl .controls[data-controls-back-arrows=faded] .navigate-right.enabled{opacity:.3}.reveal.rtl .controls[data-controls-back-arrows=faded] .navigate-right.enabled:hover{opacity:1}.reveal.rtl .controls[data-controls-back-arrows=hidden] .navigate-right.enabled{opacity:0;visibility:hidden}.reveal[data-navigation-mode=linear].has-horizontal-slides .navigate-down,.reveal[data-navigation-mode=linear].has-horizontal-slides .navigate-up{display:none}.reveal:not(.has-vertical-slides) .controls .navigate-left,.reveal[data-navigation-mode=linear].has-horizontal-slides .navigate-left{bottom:1.4em;right:5.5em}.reveal:not(.has-vertical-slides) .controls .navigate-right,.reveal[data-navigation-mode=linear].has-horizontal-slides .navigate-right{bottom:1.4em;right:.5em}.reveal:not(.has-horizontal-slides) .controls .navigate-up{right:1.4em;bottom:5em}.reveal:not(.has-horizontal-slides) .controls .navigate-down{right:1.4em;bottom:.5em}.reveal.has-dark-background .controls{color:#fff}.reveal.has-light-background .controls{color:#000}.reveal.no-hover .controls .controls-arrow:active:before,.reveal.no-hover .controls .controls-arrow:hover:before{transform:translateX(.5em) translateY(1.55em) rotate(45deg)}.reveal.no-hover .controls .controls-arrow:active:after,.reveal.no-hover .controls .controls-arrow:hover:after{transform:translateX(.5em) translateY(1.55em) rotate(-45deg)}@media screen and (min-width:500px){.reveal .controls[data-controls-layout=edges]{top:0;right:0;bottom:0;left:0}.reveal .controls[data-controls-layout=edges] .navigate-down,.reveal .controls[data-controls-layout=edges] .navigate-left,.reveal .controls[data-controls-layout=edges] .navigate-right,.reveal .controls[data-controls-layout=edges] .navigate-up{bottom:auto;right:auto}.reveal .controls[data-controls-layout=edges] .navigate-left{top:50%;left:.8em;margin-top:-1.8em}.reveal .controls[data-controls-layout=edges] .navigate-right{top:50%;right:.8em;margin-top:-1.8em}.reveal .controls[data-controls-layout=edges] .navigate-up{top:.8em;left:50%;margin-left:-1.8em}.reveal .controls[data-controls-layout=edges] .navigate-down{bottom:-.3em;left:50%;margin-left:-1.8em}}.reveal .progress{position:absolute;display:none;height:3px;width:100%;bottom:0;left:0;z-index:10;background-color:rgba(0,0,0,.2);color:#fff}.reveal .progress:after{content:"";display:block;position:absolute;height:10px;width:100%;top:-10px}.reveal .progress span{display:block;height:100%;width:100%;background-color:currentColor;transition:transform .8s cubic-bezier(.26,.86,.44,.985);transform-origin:0 0;transform:scaleX(0)}.reveal .slide-number{position:absolute;display:block;right:8px;bottom:8px;z-index:31;font-family:Helvetica,sans-serif;font-size:12px;line-height:1;color:#fff;background-color:rgba(0,0,0,.4);padding:5px}.reveal .slide-number a{color:currentColor}.reveal .slide-number-delimiter{margin:0 3px}.reveal{position:relative;width:100%;height:100%;overflow:hidden;touch-action:pinch-zoom}.reveal.embedded{touch-action:pan-y}.reveal .slides{position:absolute;width:100%;height:100%;top:0;right:0;bottom:0;left:0;margin:auto;pointer-events:none;overflow:visible;z-index:1;text-align:center;perspective:600px;perspective-origin:50% 40%}.reveal .slides>section{perspective:600px}.reveal .slides>section,.reveal .slides>section>section{display:none;position:absolute;width:100%;pointer-events:auto;z-index:10;transform-style:flat;transition:transform-origin .8s cubic-bezier(.26,.86,.44,.985),transform .8s cubic-bezier(.26,.86,.44,.985),visibility .8s cubic-bezier(.26,.86,.44,.985),opacity .8s cubic-bezier(.26,.86,.44,.985)}.reveal[data-transition-speed=fast] .slides section{transition-duration:.4s}.reveal[data-transition-speed=slow] .slides section{transition-duration:1.2s}.reveal .slides section[data-transition-speed=fast]{transition-duration:.4s}.reveal .slides section[data-transition-speed=slow]{transition-duration:1.2s}.reveal .slides>section.stack{padding-top:0;padding-bottom:0;pointer-events:none;height:100%}.reveal .slides>section.present,.reveal .slides>section>section.present{display:block;z-index:11;opacity:1}.reveal .slides>section:empty,.reveal .slides>section>section:empty,.reveal .slides>section>section[data-background-interactive],.reveal .slides>section[data-background-interactive]{pointer-events:none}.reveal.center,.reveal.center .slides,.reveal.center .slides section{min-height:0!important}.reveal .slides>section:not(.present),.reveal .slides>section>section:not(.present){pointer-events:none}.reveal.overview .slides>section,.reveal.overview .slides>section>section{pointer-events:auto}.reveal .slides>section.future,.reveal .slides>section.future>section,.reveal .slides>section.past,.reveal .slides>section.past>section,.reveal .slides>section>section.future,.reveal .slides>section>section.past{opacity:0}.reveal .slides>section[data-transition=slide].past,.reveal .slides>section[data-transition~=slide-out].past,.reveal.slide .slides>section:not([data-transition]).past{transform:translate(-150%,0)}.reveal .slides>section[data-transition=slide].future,.reveal .slides>section[data-transition~=slide-in].future,.reveal.slide .slides>section:not([data-transition]).future{transform:translate(150%,0)}.reveal .slides>section>section[data-transition=slide].past,.reveal .slides>section>section[data-transition~=slide-out].past,.reveal.slide .slides>section>section:not([data-transition]).past{transform:translate(0,-150%)}.reveal .slides>section>section[data-transition=slide].future,.reveal .slides>section>section[data-transition~=slide-in].future,.reveal.slide .slides>section>section:not([data-transition]).future{transform:translate(0,150%)}.reveal .slides>section[data-transition=linear].past,.reveal .slides>section[data-transition~=linear-out].past,.reveal.linear .slides>section:not([data-transition]).past{transform:translate(-150%,0)}.reveal .slides>section[data-transition=linear].future,.reveal .slides>section[data-transition~=linear-in].future,.reveal.linear .slides>section:not([data-transition]).future{transform:translate(150%,0)}.reveal .slides>section>section[data-transition=linear].past,.reveal .slides>section>section[data-transition~=linear-out].past,.reveal.linear .slides>section>section:not([data-transition]).past{transform:translate(0,-150%)}.reveal .slides>section>section[data-transition=linear].future,.reveal .slides>section>section[data-transition~=linear-in].future,.reveal.linear .slides>section>section:not([data-transition]).future{transform:translate(0,150%)}.reveal .slides section[data-transition=default].stack,.reveal.default .slides section.stack{transform-style:preserve-3d}.reveal .slides>section[data-transition=default].past,.reveal .slides>section[data-transition~=default-out].past,.reveal.default .slides>section:not([data-transition]).past{transform:translate3d(-100%,0,0) rotateY(-90deg) translate3d(-100%,0,0)}.reveal .slides>section[data-transition=default].future,.reveal .slides>section[data-transition~=default-in].future,.reveal.default .slides>section:not([data-transition]).future{transform:translate3d(100%,0,0) rotateY(90deg) translate3d(100%,0,0)}.reveal .slides>section>section[data-transition=default].past,.reveal .slides>section>section[data-transition~=default-out].past,.reveal.default .slides>section>section:not([data-transition]).past{transform:translate3d(0,-300px,0) rotateX(70deg) translate3d(0,-300px,0)}.reveal .slides>section>section[data-transition=default].future,.reveal .slides>section>section[data-transition~=default-in].future,.reveal.default .slides>section>section:not([data-transition]).future{transform:translate3d(0,300px,0) rotateX(-70deg) translate3d(0,300px,0)}.reveal .slides section[data-transition=convex].stack,.reveal.convex .slides section.stack{transform-style:preserve-3d}.reveal .slides>section[data-transition=convex].past,.reveal .slides>section[data-transition~=convex-out].past,.reveal.convex .slides>section:not([data-transition]).past{transform:translate3d(-100%,0,0) rotateY(-90deg) translate3d(-100%,0,0)}.reveal .slides>section[data-transition=convex].future,.reveal .slides>section[data-transition~=convex-in].future,.reveal.convex .slides>section:not([data-transition]).future{transform:translate3d(100%,0,0) rotateY(90deg) translate3d(100%,0,0)}.reveal .slides>section>section[data-transition=convex].past,.reveal .slides>section>section[data-transition~=convex-out].past,.reveal.convex .slides>section>section:not([data-transition]).past{transform:translate3d(0,-300px,0) rotateX(70deg) translate3d(0,-300px,0)}.reveal .slides>section>section[data-transition=convex].future,.reveal .slides>section>section[data-transition~=convex-in].future,.reveal.convex .slides>section>section:not([data-transition]).future{transform:translate3d(0,300px,0) rotateX(-70deg) translate3d(0,300px,0)}.reveal .slides section[data-transition=concave].stack,.reveal.concave .slides section.stack{transform-style:preserve-3d}.reveal .slides>section[data-transition=concave].past,.reveal .slides>section[data-transition~=concave-out].past,.reveal.concave .slides>section:not([data-transition]).past{transform:translate3d(-100%,0,0) rotateY(90deg) translate3d(-100%,0,0)}.reveal .slides>section[data-transition=concave].future,.reveal .slides>section[data-transition~=concave-in].future,.reveal.concave .slides>section:not([data-transition]).future{transform:translate3d(100%,0,0) rotateY(-90deg) translate3d(100%,0,0)}.reveal .slides>section>section[data-transition=concave].past,.reveal .slides>section>section[data-transition~=concave-out].past,.reveal.concave .slides>section>section:not([data-transition]).past{transform:translate3d(0,-80%,0) rotateX(-70deg) translate3d(0,-80%,0)}.reveal .slides>section>section[data-transition=concave].future,.reveal .slides>section>section[data-transition~=concave-in].future,.reveal.concave .slides>section>section:not([data-transition]).future{transform:translate3d(0,80%,0) rotateX(70deg) translate3d(0,80%,0)}.reveal .slides section[data-transition=zoom],.reveal.zoom .slides section:not([data-transition]){transition-timing-function:ease}.reveal .slides>section[data-transition=zoom].past,.reveal .slides>section[data-transition~=zoom-out].past,.reveal.zoom .slides>section:not([data-transition]).past{visibility:hidden;transform:scale(16)}.reveal .slides>section[data-transition=zoom].future,.reveal .slides>section[data-transition~=zoom-in].future,.reveal.zoom .slides>section:not([data-transition]).future{visibility:hidden;transform:scale(.2)}.reveal .slides>section>section[data-transition=zoom].past,.reveal .slides>section>section[data-transition~=zoom-out].past,.reveal.zoom .slides>section>section:not([data-transition]).past{transform:scale(16)}.reveal .slides>section>section[data-transition=zoom].future,.reveal .slides>section>section[data-transition~=zoom-in].future,.reveal.zoom .slides>section>section:not([data-transition]).future{transform:scale(.2)}.reveal.cube .slides{perspective:1300px}.reveal.cube .slides section{padding:30px;min-height:700px;backface-visibility:hidden;box-sizing:border-box;transform-style:preserve-3d}.reveal.center.cube .slides section{min-height:0}.reveal.cube .slides section:not(.stack):before{content:"";position:absolute;display:block;width:100%;height:100%;left:0;top:0;background:rgba(0,0,0,.1);border-radius:4px;transform:translateZ(-20px)}.reveal.cube .slides section:not(.stack):after{content:"";position:absolute;display:block;width:90%;height:30px;left:5%;bottom:0;background:0 0;z-index:1;border-radius:4px;box-shadow:0 95px 25px rgba(0,0,0,.2);transform:translateZ(-90px) rotateX(65deg)}.reveal.cube .slides>section.stack{padding:0;background:0 0}.reveal.cube .slides>section.past{transform-origin:100% 0;transform:translate3d(-100%,0,0) rotateY(-90deg)}.reveal.cube .slides>section.future{transform-origin:0 0;transform:translate3d(100%,0,0) rotateY(90deg)}.reveal.cube .slides>section>section.past{transform-origin:0 100%;transform:translate3d(0,-100%,0) rotateX(90deg)}.reveal.cube .slides>section>section.future{transform-origin:0 0;transform:translate3d(0,100%,0) rotateX(-90deg)}.reveal.page .slides{perspective-origin:0 50%;perspective:3000px}.reveal.page .slides section{padding:30px;min-height:700px;box-sizing:border-box;transform-style:preserve-3d}.reveal.page .slides section.past{z-index:12}.reveal.page .slides section:not(.stack):before{content:"";position:absolute;display:block;width:100%;height:100%;left:0;top:0;background:rgba(0,0,0,.1);transform:translateZ(-20px)}.reveal.page .slides section:not(.stack):after{content:"";position:absolute;display:block;width:90%;height:30px;left:5%;bottom:0;background:0 0;z-index:1;border-radius:4px;box-shadow:0 95px 25px rgba(0,0,0,.2);-webkit-transform:translateZ(-90px) rotateX(65deg)}.reveal.page .slides>section.stack{padding:0;background:0 0}.reveal.page .slides>section.past{transform-origin:0 0;transform:translate3d(-40%,0,0) rotateY(-80deg)}.reveal.page .slides>section.future{transform-origin:100% 0;transform:translate3d(0,0,0)}.reveal.page .slides>section>section.past{transform-origin:0 0;transform:translate3d(0,-40%,0) rotateX(80deg)}.reveal.page .slides>section>section.future{transform-origin:0 100%;transform:translate3d(0,0,0)}.reveal .slides section[data-transition=fade],.reveal.fade .slides section:not([data-transition]),.reveal.fade .slides>section>section:not([data-transition]){transform:none;transition:opacity .5s}.reveal.fade.overview .slides section,.reveal.fade.overview .slides>section>section{transition:none}.reveal .slides section[data-transition=none],.reveal.none .slides section:not([data-transition]){transform:none;transition:none}.reveal .pause-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background:#000;visibility:hidden;opacity:0;z-index:100;transition:all 1s ease}.reveal .pause-overlay .resume-button{position:absolute;bottom:20px;right:20px;color:#ccc;border-radius:2px;padding:6px 14px;border:2px solid #ccc;font-size:16px;background:0 0;cursor:pointer}.reveal .pause-overlay .resume-button:hover{color:#fff;border-color:#fff}.reveal.paused .pause-overlay{visibility:visible;opacity:1}.reveal .no-transition,.reveal .no-transition *,.reveal .slides.disable-slide-transitions section{transition:none!important}.reveal .slides.disable-slide-transitions section{transform:none!important}.reveal .backgrounds{position:absolute;width:100%;height:100%;top:0;left:0;perspective:600px}.reveal .slide-background{display:none;position:absolute;width:100%;height:100%;opacity:0;visibility:hidden;overflow:hidden;background-color:rgba(0,0,0,0);transition:all .8s cubic-bezier(.26,.86,.44,.985)}.reveal .slide-background-content{position:absolute;width:100%;height:100%;background-position:50% 50%;background-repeat:no-repeat;background-size:cover}.reveal .slide-background.stack{display:block}.reveal .slide-background.present{opacity:1;visibility:visible;z-index:2}.print-pdf .reveal .slide-background{opacity:1!important;visibility:visible!important}.reveal .slide-background video{position:absolute;width:100%;height:100%;max-width:none;max-height:none;top:0;left:0;object-fit:cover}.reveal .slide-background[data-background-size=contain] video{object-fit:contain}.reveal>.backgrounds .slide-background[data-background-transition=none],.reveal[data-background-transition=none]>.backgrounds .slide-background:not([data-background-transition]){transition:none}.reveal>.backgrounds .slide-background[data-background-transition=slide],.reveal[data-background-transition=slide]>.backgrounds .slide-background:not([data-background-transition]){opacity:1}.reveal>.backgrounds .slide-background.past[data-background-transition=slide],.reveal[data-background-transition=slide]>.backgrounds .slide-background.past:not([data-background-transition]){transform:translate(-100%,0)}.reveal>.backgrounds .slide-background.future[data-background-transition=slide],.reveal[data-background-transition=slide]>.backgrounds .slide-background.future:not([data-background-transition]){transform:translate(100%,0)}.reveal>.backgrounds .slide-background>.slide-background.past[data-background-transition=slide],.reveal[data-background-transition=slide]>.backgrounds .slide-background>.slide-background.past:not([data-background-transition]){transform:translate(0,-100%)}.reveal>.backgrounds .slide-background>.slide-background.future[data-background-transition=slide],.reveal[data-background-transition=slide]>.backgrounds .slide-background>.slide-background.future:not([data-background-transition]){transform:translate(0,100%)}.reveal>.backgrounds .slide-background.past[data-background-transition=convex],.reveal[data-background-transition=convex]>.backgrounds .slide-background.past:not([data-background-transition]){opacity:0;transform:translate3d(-100%,0,0) rotateY(-90deg) translate3d(-100%,0,0)}.reveal>.backgrounds .slide-background.future[data-background-transition=convex],.reveal[data-background-transition=convex]>.backgrounds .slide-background.future:not([data-background-transition]){opacity:0;transform:translate3d(100%,0,0) rotateY(90deg) translate3d(100%,0,0)}.reveal>.backgrounds .slide-background>.slide-background.past[data-background-transition=convex],.reveal[data-background-transition=convex]>.backgrounds .slide-background>.slide-background.past:not([data-background-transition]){opacity:0;transform:translate3d(0,-100%,0) rotateX(90deg) translate3d(0,-100%,0)}.reveal>.backgrounds .slide-background>.slide-background.future[data-background-transition=convex],.reveal[data-background-transition=convex]>.backgrounds .slide-background>.slide-background.future:not([data-background-transition]){opacity:0;transform:translate3d(0,100%,0) rotateX(-90deg) translate3d(0,100%,0)}.reveal>.backgrounds .slide-background.past[data-background-transition=concave],.reveal[data-background-transition=concave]>.backgrounds .slide-background.past:not([data-background-transition]){opacity:0;transform:translate3d(-100%,0,0) rotateY(90deg) translate3d(-100%,0,0)}.reveal>.backgrounds .slide-background.future[data-background-transition=concave],.reveal[data-background-transition=concave]>.backgrounds .slide-background.future:not([data-background-transition]){opacity:0;transform:translate3d(100%,0,0) rotateY(-90deg) translate3d(100%,0,0)}.reveal>.backgrounds .slide-background>.slide-background.past[data-background-transition=concave],.reveal[data-background-transition=concave]>.backgrounds .slide-background>.slide-background.past:not([data-background-transition]){opacity:0;transform:translate3d(0,-100%,0) rotateX(-90deg) translate3d(0,-100%,0)}.reveal>.backgrounds .slide-background>.slide-background.future[data-background-transition=concave],.reveal[data-background-transition=concave]>.backgrounds .slide-background>.slide-background.future:not([data-background-transition]){opacity:0;transform:translate3d(0,100%,0) rotateX(90deg) translate3d(0,100%,0)}.reveal>.backgrounds .slide-background[data-background-transition=zoom],.reveal[data-background-transition=zoom]>.backgrounds .slide-background:not([data-background-transition]){transition-timing-function:ease}.reveal>.backgrounds .slide-background.past[data-background-transition=zoom],.reveal[data-background-transition=zoom]>.backgrounds .slide-background.past:not([data-background-transition]){opacity:0;visibility:hidden;transform:scale(16)}.reveal>.backgrounds .slide-background.future[data-background-transition=zoom],.reveal[data-background-transition=zoom]>.backgrounds .slide-background.future:not([data-background-transition]){opacity:0;visibility:hidden;transform:scale(.2)}.reveal>.backgrounds .slide-background>.slide-background.past[data-background-transition=zoom],.reveal[data-background-transition=zoom]>.backgrounds .slide-background>.slide-background.past:not([data-background-transition]){opacity:0;visibility:hidden;transform:scale(16)}.reveal>.backgrounds .slide-background>.slide-background.future[data-background-transition=zoom],.reveal[data-background-transition=zoom]>.backgrounds .slide-background>.slide-background.future:not([data-background-transition]){opacity:0;visibility:hidden;transform:scale(.2)}.reveal[data-transition-speed=fast]>.backgrounds .slide-background{transition-duration:.4s}.reveal[data-transition-speed=slow]>.backgrounds .slide-background{transition-duration:1.2s}.reveal [data-auto-animate-target^=unmatched]{will-change:opacity}.reveal section[data-auto-animate]:not(.stack):not([data-auto-animate=running]) [data-auto-animate-target^=unmatched]{opacity:0}.reveal.overview{perspective-origin:50% 50%;perspective:700px}.reveal.overview .slides{-moz-transform-style:preserve-3d}.reveal.overview .slides section{height:100%;top:0!important;opacity:1!important;overflow:hidden;visibility:visible!important;cursor:pointer;box-sizing:border-box}.reveal.overview .slides section.present,.reveal.overview .slides section:hover{outline:10px solid rgba(150,150,150,.4);outline-offset:10px}.reveal.overview .slides section .fragment{opacity:1;transition:none}.reveal.overview .slides section:after,.reveal.overview .slides section:before{display:none!important}.reveal.overview .slides>section.stack{padding:0;top:0!important;background:0 0;outline:0;overflow:visible}.reveal.overview .backgrounds{perspective:inherit;-moz-transform-style:preserve-3d}.reveal.overview .backgrounds .slide-background{opacity:1;visibility:visible;outline:10px solid rgba(150,150,150,.1);outline-offset:10px}.reveal.overview .backgrounds .slide-background.stack{overflow:visible}.reveal.overview .slides section,.reveal.overview-deactivating .slides section{transition:none}.reveal.overview .backgrounds .slide-background,.reveal.overview-deactivating .backgrounds .slide-background{transition:none}.reveal.rtl .slides,.reveal.rtl .slides h1,.reveal.rtl .slides h2,.reveal.rtl .slides h3,.reveal.rtl .slides h4,.reveal.rtl .slides h5,.reveal.rtl .slides h6{direction:rtl;font-family:sans-serif}.reveal.rtl code,.reveal.rtl pre{direction:ltr}.reveal.rtl ol,.reveal.rtl ul{text-align:right}.reveal.rtl .progress span{transform-origin:100% 0}.reveal.has-parallax-background .backgrounds{transition:all .8s ease}.reveal.has-parallax-background[data-transition-speed=fast] .backgrounds{transition-duration:.4s}.reveal.has-parallax-background[data-transition-speed=slow] .backgrounds{transition-duration:1.2s}.reveal>.overlay{position:absolute;top:0;left:0;width:100%;height:100%;z-index:1000;background:rgba(0,0,0,.9);transition:all .3s ease}.reveal>.overlay .spinner{position:absolute;display:block;top:50%;left:50%;width:32px;height:32px;margin:-16px 0 0 -16px;z-index:10;background-image:url(data:image/gif;base64,R0lGODlhIAAgAPMAAJmZmf%2F%2F%2F6%2Bvr8nJybW1tcDAwOjo6Nvb26ioqKOjo7Ozs%2FLy8vz8%2FAAAAAAAAAAAACH%2FC05FVFNDQVBFMi4wAwEAAAAh%2FhpDcmVhdGVkIHdpdGggYWpheGxvYWQuaW5mbwAh%2BQQJCgAAACwAAAAAIAAgAAAE5xDISWlhperN52JLhSSdRgwVo1ICQZRUsiwHpTJT4iowNS8vyW2icCF6k8HMMBkCEDskxTBDAZwuAkkqIfxIQyhBQBFvAQSDITM5VDW6XNE4KagNh6Bgwe60smQUB3d4Rz1ZBApnFASDd0hihh12BkE9kjAJVlycXIg7CQIFA6SlnJ87paqbSKiKoqusnbMdmDC2tXQlkUhziYtyWTxIfy6BE8WJt5YJvpJivxNaGmLHT0VnOgSYf0dZXS7APdpB309RnHOG5gDqXGLDaC457D1zZ%2FV%2FnmOM82XiHRLYKhKP1oZmADdEAAAh%2BQQJCgAAACwAAAAAIAAgAAAE6hDISWlZpOrNp1lGNRSdRpDUolIGw5RUYhhHukqFu8DsrEyqnWThGvAmhVlteBvojpTDDBUEIFwMFBRAmBkSgOrBFZogCASwBDEY%2FCZSg7GSE0gSCjQBMVG023xWBhklAnoEdhQEfyNqMIcKjhRsjEdnezB%2BA4k8gTwJhFuiW4dokXiloUepBAp5qaKpp6%2BHo7aWW54wl7obvEe0kRuoplCGepwSx2jJvqHEmGt6whJpGpfJCHmOoNHKaHx61WiSR92E4lbFoq%2BB6QDtuetcaBPnW6%2BO7wDHpIiK9SaVK5GgV543tzjgGcghAgAh%2BQQJCgAAACwAAAAAIAAgAAAE7hDISSkxpOrN5zFHNWRdhSiVoVLHspRUMoyUakyEe8PTPCATW9A14E0UvuAKMNAZKYUZCiBMuBakSQKG8G2FzUWox2AUtAQFcBKlVQoLgQReZhQlCIJesQXI5B0CBnUMOxMCenoCfTCEWBsJColTMANldx15BGs8B5wlCZ9Po6OJkwmRpnqkqnuSrayqfKmqpLajoiW5HJq7FL1Gr2mMMcKUMIiJgIemy7xZtJsTmsM4xHiKv5KMCXqfyUCJEonXPN2rAOIAmsfB3uPoAK%2B%2BG%2Bw48edZPK%2BM6hLJpQg484enXIdQFSS1u6UhksENEQAAIfkECQoAAAAsAAAAACAAIAAABOcQyEmpGKLqzWcZRVUQnZYg1aBSh2GUVEIQ2aQOE%2BG%2BcD4ntpWkZQj1JIiZIogDFFyHI0UxQwFugMSOFIPJftfVAEoZLBbcLEFhlQiqGp1Vd140AUklUN3eCA51C1EWMzMCezCBBmkxVIVHBWd3HHl9JQOIJSdSnJ0TDKChCwUJjoWMPaGqDKannasMo6WnM562R5YluZRwur0wpgqZE7NKUm%2BFNRPIhjBJxKZteWuIBMN4zRMIVIhffcgojwCF117i4nlLnY5ztRLsnOk%2BaV%2BoJY7V7m76PdkS4trKcdg0Zc0tTcKkRAAAIfkECQoAAAAsAAAAACAAIAAABO4QyEkpKqjqzScpRaVkXZWQEximw1BSCUEIlDohrft6cpKCk5xid5MNJTaAIkekKGQkWyKHkvhKsR7ARmitkAYDYRIbUQRQjWBwJRzChi9CRlBcY1UN4g0%2FVNB0AlcvcAYHRyZPdEQFYV8ccwR5HWxEJ02YmRMLnJ1xCYp0Y5idpQuhopmmC2KgojKasUQDk5BNAwwMOh2RtRq5uQuPZKGIJQIGwAwGf6I0JXMpC8C7kXWDBINFMxS4DKMAWVWAGYsAdNqW5uaRxkSKJOZKaU3tPOBZ4DuK2LATgJhkPJMgTwKCdFjyPHEnKxFCDhEAACH5BAkKAAAALAAAAAAgACAAAATzEMhJaVKp6s2nIkolIJ2WkBShpkVRWqqQrhLSEu9MZJKK9y1ZrqYK9WiClmvoUaF8gIQSNeF1Er4MNFn4SRSDARWroAIETg1iVwuHjYB1kYc1mwruwXKC9gmsJXliGxc%2BXiUCby9ydh1sOSdMkpMTBpaXBzsfhoc5l58Gm5yToAaZhaOUqjkDgCWNHAULCwOLaTmzswadEqggQwgHuQsHIoZCHQMMQgQGubVEcxOPFAcMDAYUA85eWARmfSRQCdcMe0zeP1AAygwLlJtPNAAL19DARdPzBOWSm1brJBi45soRAWQAAkrQIykShQ9wVhHCwCQCACH5BAkKAAAALAAAAAAgACAAAATrEMhJaVKp6s2nIkqFZF2VIBWhUsJaTokqUCoBq%2BE71SRQeyqUToLA7VxF0JDyIQh%2FMVVPMt1ECZlfcjZJ9mIKoaTl1MRIl5o4CUKXOwmyrCInCKqcWtvadL2SYhyASyNDJ0uIiRMDjI0Fd30%2FiI2UA5GSS5UDj2l6NoqgOgN4gksEBgYFf0FDqKgHnyZ9OX8HrgYHdHpcHQULXAS2qKpENRg7eAMLC7kTBaixUYFkKAzWAAnLC7FLVxLWDBLKCwaKTULgEwbLA4hJtOkSBNqITT3xEgfLpBtzE%2FjiuL04RGEBgwWhShRgQExHBAAh%2BQQJCgAAACwAAAAAIAAgAAAE7xDISWlSqerNpyJKhWRdlSAVoVLCWk6JKlAqAavhO9UkUHsqlE6CwO1cRdCQ8iEIfzFVTzLdRAmZX3I2SfZiCqGk5dTESJeaOAlClzsJsqwiJwiqnFrb2nS9kmIcgEsjQydLiIlHehhpejaIjzh9eomSjZR%2BipslWIRLAgMDOR2DOqKogTB9pCUJBagDBXR6XB0EBkIIsaRsGGMMAxoDBgYHTKJiUYEGDAzHC9EACcUGkIgFzgwZ0QsSBcXHiQvOwgDdEwfFs0sDzt4S6BK4xYjkDOzn0unFeBzOBijIm1Dgmg5YFQwsCMjp1oJ8LyIAACH5BAkKAAAALAAAAAAgACAAAATwEMhJaVKp6s2nIkqFZF2VIBWhUsJaTokqUCoBq%2BE71SRQeyqUToLA7VxF0JDyIQh%2FMVVPMt1ECZlfcjZJ9mIKoaTl1MRIl5o4CUKXOwmyrCInCKqcWtvadL2SYhyASyNDJ0uIiUd6GGl6NoiPOH16iZKNlH6KmyWFOggHhEEvAwwMA0N9GBsEC6amhnVcEwavDAazGwIDaH1ipaYLBUTCGgQDA8NdHz0FpqgTBwsLqAbWAAnIA4FWKdMLGdYGEgraigbT0OITBcg5QwPT4xLrROZL6AuQAPUS7bxLpoWidY0JtxLHKhwwMJBTHgPKdEQAACH5BAkKAAAALAAAAAAgACAAAATrEMhJaVKp6s2nIkqFZF2VIBWhUsJaTokqUCoBq%2BE71SRQeyqUToLA7VxF0JDyIQh%2FMVVPMt1ECZlfcjZJ9mIKoaTl1MRIl5o4CUKXOwmyrCInCKqcWtvadL2SYhyASyNDJ0uIiUd6GAULDJCRiXo1CpGXDJOUjY%2BYip9DhToJA4RBLwMLCwVDfRgbBAaqqoZ1XBMHswsHtxtFaH1iqaoGNgAIxRpbFAgfPQSqpbgGBqUD1wBXeCYp1AYZ19JJOYgH1KwA4UBvQwXUBxPqVD9L3sbp2BNk2xvvFPJd%2BMFCN6HAAIKgNggY0KtEBAAh%2BQQJCgAAACwAAAAAIAAgAAAE6BDISWlSqerNpyJKhWRdlSAVoVLCWk6JKlAqAavhO9UkUHsqlE6CwO1cRdCQ8iEIfzFVTzLdRAmZX3I2SfYIDMaAFdTESJeaEDAIMxYFqrOUaNW4E4ObYcCXaiBVEgULe0NJaxxtYksjh2NLkZISgDgJhHthkpU4mW6blRiYmZOlh4JWkDqILwUGBnE6TYEbCgevr0N1gH4At7gHiRpFaLNrrq8HNgAJA70AWxQIH1%2BvsYMDAzZQPC9VCNkDWUhGkuE5PxJNwiUK4UfLzOlD4WvzAHaoG9nxPi5d%2BjYUqfAhhykOFwJWiAAAIfkECQoAAAAsAAAAACAAIAAABPAQyElpUqnqzaciSoVkXVUMFaFSwlpOCcMYlErAavhOMnNLNo8KsZsMZItJEIDIFSkLGQoQTNhIsFehRww2CQLKF0tYGKYSg%2BygsZIuNqJksKgbfgIGepNo2cIUB3V1B3IvNiBYNQaDSTtfhhx0CwVPI0UJe0%2Bbm4g5VgcGoqOcnjmjqDSdnhgEoamcsZuXO1aWQy8KAwOAuTYYGwi7w5h%2BKr0SJ8MFihpNbx%2B4Erq7BYBuzsdiH1jCAzoSfl0rVirNbRXlBBlLX%2BBP0XJLAPGzTkAuAOqb0WT5AH7OcdCm5B8TgRwSRKIHQtaLCwg1RAAAOwAAAAAAAAAAAA%3D%3D);visibility:visible;opacity:.6;transition:all .3s ease}.reveal>.overlay header{position:absolute;left:0;top:0;width:100%;padding:5px;z-index:2;box-sizing:border-box}.reveal>.overlay header a{display:inline-block;width:40px;height:40px;line-height:36px;padding:0 10px;float:right;opacity:.6;box-sizing:border-box}.reveal>.overlay header a:hover{opacity:1}.reveal>.overlay header a .icon{display:inline-block;width:20px;height:20px;background-position:50% 50%;background-size:100%;background-repeat:no-repeat}.reveal>.overlay header a.close .icon{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABkklEQVRYR8WX4VHDMAxG6wnoJrABZQPYBCaBTWAD2g1gE5gg6OOsXuxIlr40d81dfrSJ9V4c2VLK7spHuTJ/5wpM07QXuXc5X0opX2tEJcadjHuV80li/FgxTIEK/5QBCICBD6xEhSMGHgQPgBgLiYVAB1dpSqKDawxTohFw4JSEA3clzgIBPCURwE2JucBR7rhPJJv5OpJwDX+SfDjgx1wACQeJG1aChP9K/IMmdZ8DtESV1WyP3Bt4MwM6sj4NMxMYiqUWHQu4KYA/SYkIjOsm3BXYWMKFDwU2khjCQ4ELJUJ4SmClRArOCmSXGuKma0fYD5CbzHxFpCSGAhfAVSSUGDUk2BWZaff2g6GE15BsBQ9nwmpIGDiyHQddwNTMKkbZaf9fajXQca1EX44puJZUsnY0ObGmITE3GVLCbEhQUjGVt146j6oasWN+49Vph2w1pZ5EansNZqKBm1txbU57iRRcZ86RWMDdWtBJUHBHwoQPi1GV+JCbntmvok7iTX4/Up9mgyTc/FJYDTcndgH/AA5A/CHsyEkVAAAAAElFTkSuQmCC)}.reveal>.overlay header a.external .icon{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAcElEQVRYR+2WSQoAIQwEzf8f7XiOMkUQxUPlGkM3hVmiQfQR9GYnH1SsAQlI4DiBqkCMoNb9y2e90IAEJPAcgdznU9+engMaeJ7Azh5Y1U67gAho4DqBqmB1buAf0MB1AlVBek83ZPkmJMGc1wAR+AAqod/B97TRpQAAAABJRU5ErkJggg==)}.reveal>.overlay .viewport{position:absolute;display:flex;top:50px;right:0;bottom:0;left:0}.reveal>.overlay.overlay-preview .viewport iframe{width:100%;height:100%;max-width:100%;max-height:100%;border:0;opacity:0;visibility:hidden;transition:all .3s ease}.reveal>.overlay.overlay-preview.loaded .viewport iframe{opacity:1;visibility:visible}.reveal>.overlay.overlay-preview.loaded .viewport-inner{position:absolute;z-index:-1;left:0;top:45%;width:100%;text-align:center;letter-spacing:normal}.reveal>.overlay.overlay-preview .x-frame-error{opacity:0;transition:opacity .3s ease .3s}.reveal>.overlay.overlay-preview.loaded .x-frame-error{opacity:1}.reveal>.overlay.overlay-preview.loaded .spinner{opacity:0;visibility:hidden;transform:scale(.2)}.reveal>.overlay.overlay-help .viewport{overflow:auto;color:#fff}.reveal>.overlay.overlay-help .viewport .viewport-inner{width:600px;margin:auto;padding:20px 20px 80px 20px;text-align:center;letter-spacing:normal}.reveal>.overlay.overlay-help .viewport .viewport-inner .title{font-size:20px}.reveal>.overlay.overlay-help .viewport .viewport-inner table{border:1px solid #fff;border-collapse:collapse;font-size:16px}.reveal>.overlay.overlay-help .viewport .viewport-inner table td,.reveal>.overlay.overlay-help .viewport .viewport-inner table th{width:200px;padding:14px;border:1px solid #fff;vertical-align:middle}.reveal>.overlay.overlay-help .viewport .viewport-inner table th{padding-top:20px;padding-bottom:20px}.reveal .playback{position:absolute;left:15px;bottom:20px;z-index:30;cursor:pointer;transition:all .4s ease;-webkit-tap-highlight-color:transparent}.reveal.overview .playback{opacity:0;visibility:hidden}.reveal .hljs{min-height:100%}.reveal .hljs table{margin:initial}.reveal .hljs-ln-code,.reveal .hljs-ln-numbers{padding:0;border:0}.reveal .hljs-ln-numbers{opacity:.6;padding-right:.75em;text-align:right;vertical-align:top}.reveal .hljs.has-highlights tr:not(.highlight-line){opacity:.4}.reveal .hljs.has-highlights.fragment{transition:all .2s ease}.reveal .hljs:not(:first-child).fragment{position:absolute;top:0;left:0;width:100%;box-sizing:border-box}.reveal pre[data-auto-animate-target]{overflow:hidden}.reveal pre[data-auto-animate-target] code{height:100%}.reveal .roll{display:inline-block;line-height:1.2;overflow:hidden;vertical-align:top;perspective:400px;perspective-origin:50% 50%}.reveal .roll:hover{background:0 0;text-shadow:none}.reveal .roll span{display:block;position:relative;padding:0 2px;pointer-events:none;transition:all .4s ease;transform-origin:50% 0;transform-style:preserve-3d;backface-visibility:hidden}.reveal .roll:hover span{background:rgba(0,0,0,.5);transform:translate3d(0,0,-45px) rotateX(90deg)}.reveal .roll span:after{content:attr(data-title);display:block;position:absolute;left:0;top:0;padding:0 2px;backface-visibility:hidden;transform-origin:50% 0;transform:translate3d(0,110%,0) rotateX(-90deg)}.reveal aside.notes{display:none}.reveal .speaker-notes{display:none;position:absolute;width:33.3333333333%;height:100%;top:0;left:100%;padding:14px 18px 14px 18px;z-index:1;font-size:18px;line-height:1.4;border:1px solid rgba(0,0,0,.05);color:#222;background-color:#f5f5f5;overflow:auto;box-sizing:border-box;text-align:left;font-family:Helvetica,sans-serif;-webkit-overflow-scrolling:touch}.reveal .speaker-notes .notes-placeholder{color:#ccc;font-style:italic}.reveal .speaker-notes:focus{outline:0}.reveal .speaker-notes:before{content:"Speaker notes";display:block;margin-bottom:10px;opacity:.5}.reveal.show-notes{max-width:75%;overflow:visible}.reveal.show-notes .speaker-notes{display:block}@media screen and (min-width:1600px){.reveal .speaker-notes{font-size:20px}}@media screen and (max-width:1024px){.reveal.show-notes{border-left:0;max-width:none;max-height:70%;max-height:70vh;overflow:visible}.reveal.show-notes .speaker-notes{top:100%;left:0;width:100%;height:30vh;border:0}}@media screen and (max-width:600px){.reveal.show-notes{max-height:60%;max-height:60vh}.reveal.show-notes .speaker-notes{top:100%;height:40vh}.reveal .speaker-notes{font-size:14px}}.reveal .jump-to-slide{position:absolute;top:15px;left:15px;z-index:30;font-size:32px;-webkit-tap-highlight-color:transparent}.reveal .jump-to-slide-input{background:0 0;padding:8px;font-size:inherit;color:currentColor;border:0}.reveal .jump-to-slide-input::placeholder{color:currentColor;opacity:.5}.reveal.has-dark-background .jump-to-slide-input{color:#fff}.reveal.has-light-background .jump-to-slide-input{color:#222}.reveal .jump-to-slide-input:focus{outline:0}.zoomed .reveal *,.zoomed .reveal :after,.zoomed .reveal :before{backface-visibility:visible!important}.zoomed .reveal .controls,.zoomed .reveal .progress{opacity:0}.zoomed .reveal .roll span{background:0 0}.zoomed .reveal .roll span:after{visibility:hidden}html.print-pdf *{-webkit-print-color-adjust:exact}html.print-pdf{width:100%;height:100%;overflow:visible}html.print-pdf body{margin:0 auto!important;border:0;padding:0;float:none!important;overflow:visible}html.print-pdf .nestedarrow,html.print-pdf .reveal .controls,html.print-pdf .reveal .playback,html.print-pdf .reveal .progress,html.print-pdf .reveal.overview,html.print-pdf .state-background{display:none!important}html.print-pdf .reveal pre code{overflow:hidden!important}html.print-pdf .reveal{width:auto!important;height:auto!important;overflow:hidden!important}html.print-pdf .reveal .slides{position:static;width:100%!important;height:auto!important;zoom:1!important;pointer-events:initial;left:auto;top:auto;margin:0!important;padding:0!important;overflow:visible;display:block;perspective:none;perspective-origin:50% 50%}html.print-pdf .reveal .slides .pdf-page{position:relative;overflow:hidden;z-index:1;page-break-after:always}html.print-pdf .reveal .slides section{visibility:visible!important;display:block!important;position:absolute!important;margin:0!important;padding:0!important;box-sizing:border-box!important;min-height:1px;opacity:1!important;transform-style:flat!important;transform:none!important}html.print-pdf .reveal section.stack{position:relative!important;margin:0!important;padding:0!important;page-break-after:avoid!important;height:auto!important;min-height:auto!important}html.print-pdf .reveal img{box-shadow:none}html.print-pdf .reveal .backgrounds{display:none}html.print-pdf .reveal .slide-background{display:block!important;position:absolute;top:0;left:0;width:100%;height:100%;z-index:auto!important}html.print-pdf .reveal.show-notes{max-width:none;max-height:none}html.print-pdf .reveal .speaker-notes-pdf{display:block;width:100%;height:auto;max-height:none;top:auto;right:auto;bottom:auto;left:auto;z-index:100}html.print-pdf .reveal .speaker-notes-pdf[data-layout=separate-page]{position:relative;color:inherit;background-color:transparent;padding:20px;page-break-after:always;border:0}html.print-pdf .reveal .slide-number-pdf{display:block;position:absolute;font-size:14px}html.print-pdf .aria-status{display:none}@media print{html:not(.print-pdf){overflow:visible;width:auto;height:auto}html:not(.print-pdf) body{margin:0;padding:0;overflow:visible}html:not(.print-pdf) .reveal{background:#fff;font-size:20pt}html:not(.print-pdf) .reveal .backgrounds,html:not(.print-pdf) .reveal .controls,html:not(.print-pdf) .reveal .progress,html:not(.print-pdf) .reveal .slide-number,html:not(.print-pdf) .reveal .state-background{display:none!important}html:not(.print-pdf) .reveal li,html:not(.print-pdf) .reveal p,html:not(.print-pdf) .reveal td{font-size:20pt!important;color:#000}html:not(.print-pdf) .reveal h1,html:not(.print-pdf) .reveal h2,html:not(.print-pdf) .reveal h3,html:not(.print-pdf) .reveal h4,html:not(.print-pdf) .reveal h5,html:not(.print-pdf) .reveal h6{color:#000!important;height:auto;line-height:normal;text-align:left;letter-spacing:normal}html:not(.print-pdf) .reveal h1{font-size:28pt!important}html:not(.print-pdf) .reveal h2{font-size:24pt!important}html:not(.print-pdf) .reveal h3{font-size:22pt!important}html:not(.print-pdf) .reveal h4{font-size:22pt!important;font-variant:small-caps}html:not(.print-pdf) .reveal h5{font-size:21pt!important}html:not(.print-pdf) .reveal h6{font-size:20pt!important;font-style:italic}html:not(.print-pdf) .reveal a:link,html:not(.print-pdf) .reveal a:visited{color:#000!important;font-weight:700;text-decoration:underline}html:not(.print-pdf) .reveal div,html:not(.print-pdf) .reveal ol,html:not(.print-pdf) .reveal p,html:not(.print-pdf) .reveal ul{visibility:visible;position:static;width:auto;height:auto;display:block;overflow:visible;margin:0;text-align:left!important}html:not(.print-pdf) .reveal pre,html:not(.print-pdf) .reveal table{margin-left:0;margin-right:0}html:not(.print-pdf) .reveal pre code{padding:20px}html:not(.print-pdf) .reveal blockquote{margin:20px 0}html:not(.print-pdf) .reveal .slides{position:static!important;width:auto!important;height:auto!important;left:0!important;top:0!important;margin-left:0!important;margin-top:0!important;padding:0!important;zoom:1!important;transform:none!important;overflow:visible!important;display:block!important;text-align:left!important;perspective:none;perspective-origin:50% 50%}html:not(.print-pdf) .reveal .slides section{visibility:visible!important;position:static!important;width:auto!important;height:auto!important;display:block!important;overflow:visible!important;left:0!important;top:0!important;margin-left:0!important;margin-top:0!important;padding:60px 20px!important;z-index:auto!important;opacity:1!important;page-break-after:always!important;transform-style:flat!important;transform:none!important;transition:none!important}html:not(.print-pdf) .reveal .slides section.stack{padding:0!important}html:not(.print-pdf) .reveal .slides section:last-of-type{page-break-after:avoid!important}html:not(.print-pdf) .reveal .slides section .fragment{opacity:1!important;visibility:visible!important;transform:none!important}html:not(.print-pdf) .reveal .r-fit-text{white-space:normal!important}html:not(.print-pdf) .reveal section img{display:block;margin:15px 0;background:#fff;border:1px solid #666;box-shadow:none}html:not(.print-pdf) .reveal section small{font-size:.8em}html:not(.print-pdf) .reveal .hljs{max-height:100%;white-space:pre-wrap;word-wrap:break-word;word-break:break-word;font-size:15pt}html:not(.print-pdf) .reveal .hljs .hljs-ln-numbers{white-space:nowrap}html:not(.print-pdf) .reveal .hljs td{font-size:inherit!important;color:inherit!important}}
-</style>
+<meta name="color-scheme" content="light dark">
+<title>Coworking de belleza en Las Galletas — Coworking de Belleza</title>
+<meta name="description" content="Plan de negocio: coworking de belleza en Las Galletas (Arona, Tenerife).">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&family=Work+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
-
-<style>
-  /* Paleta: fachada encalada + persiana canaria (teal) + laca de uñas (coral) como único "pop".
-     La ficha/libro de citas de un salón inspira la tipografía mono para cifras y etiquetas. */
-  :root{
-    --bg:            #eef4f2;
-    --bg-panel:      #ffffff;
-    --bg-alt:        #e1ece9;
-    --ink:           #142523;
-    --ink-soft:      #55716c;
-    --line:          #cbdedb;
-    --accent:        #1c6b6f;
-    --accent-ink:    #ffffff;
-    --accent-soft:   #d8ebe8;
-    --pop:           #c94f74;
-    --pop-soft:      #f6dee6;
-    --ok:            #4c8a56;
-    --ok-bg:         #e2eee2;
-    --warn:          #ab7c26;
-    --warn-bg:       #f2e9d3;
-    --bad:           #ae4a3c;
-    --bad-bg:        #f3e0dc;
-    --radius:        6px;
-  }
-
-  @media (prefers-color-scheme: dark){
-    :root:not([data-theme="light"]){
-      --bg:          #0f1c1a;
-      --bg-panel:    #16302d;
-      --bg-alt:      #1c3c38;
-      --ink:         #e9f3f1;
-      --ink-soft:    #a3c2bd;
-      --line:        #2c4a45;
-      --accent:      #62c6c3;
-      --accent-ink:  #052220;
-      --accent-soft: #1e3e3a;
-      --pop:         #ef93ac;
-      --pop-soft:    #3b2530;
-      --ok:          #8fca9b;
-      --ok-bg:       #1f3427;
-      --warn:        #e3c17c;
-      --warn-bg:     #3a3020;
-      --bad:         #e39a8e;
-      --bad-bg:      #3c2521;
-    }
-  }
-  :root[data-theme="dark"]{
-    --bg:          #0f1c1a;
-    --bg-panel:    #16302d;
-    --bg-alt:      #1c3c38;
-    --ink:         #e9f3f1;
-    --ink-soft:    #a3c2bd;
-    --line:        #2c4a45;
-    --accent:      #62c6c3;
-    --accent-ink:  #052220;
-    --accent-soft: #1e3e3a;
-    --pop:         #ef93ac;
-    --pop-soft:    #3b2530;
-    --ok:          #8fca9b;
-    --ok-bg:       #1f3427;
-    --warn:        #e3c17c;
-    --warn-bg:     #3a3020;
-    --bad:         #e39a8e;
-    --bad-bg:      #3c2521;
-  }
-
-  html, body { background: var(--bg); }
-  .reveal { font-family: "Work Sans", system-ui, sans-serif; color: var(--ink); }
-  .reveal .slides { text-align: left; }
-  .reveal .slides section { background: var(--bg); }
-
-  .mono { font-family: "IBM Plex Mono", ui-monospace, monospace; font-variant-numeric: tabular-nums; }
-
-  .reveal h1, .reveal h2, .reveal h3 {
-    font-family: "Bricolage Grotesque", system-ui, sans-serif;
-    font-weight: 600;
-    color: var(--ink);
-    text-transform: none;
-    letter-spacing: -0.01em;
-    text-wrap: balance;
-  }
-  .reveal h1 { font-size: 2.5em; font-weight: 700; }
-  .reveal h2 { font-size: 1.5em; margin-bottom: .55em; }
-  .reveal h2 .kicker {
-    display: block;
-    font-family: "IBM Plex Mono", ui-monospace, monospace;
-    font-weight: 500;
-    font-size: .34em;
-    letter-spacing: .1em;
-    text-transform: uppercase;
-    color: var(--accent);
-    margin-bottom: .6em;
-  }
-  .reveal p, .reveal li { font-size: .62em; line-height: 1.5; color: var(--ink); }
-  .reveal ul, .reveal ol { display: block; margin-left: .6em; }
-  .reveal li { margin-bottom: .45em; }
-  .reveal li::marker { color: var(--accent); font-family: "IBM Plex Mono", monospace; }
-  .reveal .muted { color: var(--ink-soft); }
-  .reveal small.muted { font-size: .55em; }
-
-  .reveal a { color: var(--accent); }
-
-  /* ---- layout helpers ---- */
-  .slide-body { padding-top: .2em; }
-  .cols { display: grid; gap: 1em; }
-  .cols-2 { grid-template-columns: 1fr 1fr; }
-  .cols-3 { grid-template-columns: repeat(3, 1fr); }
-
-  .card {
-    background: var(--bg-panel);
-    border: 1px solid var(--line);
-    border-radius: var(--radius);
-    padding: .9em 1.1em;
-  }
-  .card h3 { font-size: .68em; margin: 0 0 .35em; }
-  .card p, .card li { font-size: .95em; }
-  .card .price { font-family:"IBM Plex Mono",monospace; font-variant-numeric: tabular-nums; font-size: 1.5em; color: var(--pop); font-weight:600; }
-  .card .tag {
-    display:inline-block; font-family:"IBM Plex Mono",monospace; font-weight:500; font-size: .48em;
-    letter-spacing:.05em; text-transform:uppercase; padding:.3em .6em; border-radius: 3px;
-    background: var(--accent-soft); color: var(--accent); margin-bottom:.6em;
-  }
-
-  .pill-list { list-style:none; margin-left:0; padding-left:0; }
-  .pill-list li {
-    background: var(--bg-panel); border:1px solid var(--line); border-left: 3px solid var(--accent);
-    border-radius: 3px; padding: .5em .8em; margin-bottom: .5em; font-size:.58em;
-  }
-
-  table.sem { width: 100%; border-collapse: collapse; font-size: .55em; }
-  table.sem th { text-align:left; font-family:"IBM Plex Mono",monospace; font-weight:500; letter-spacing:.04em;
-    text-transform:uppercase; font-size:.8em; color: var(--ink-soft); padding: .4em .6em; border-bottom: 2px solid var(--line); }
-  table.sem td { padding: .55em .6em; border-bottom: 1px solid var(--line); vertical-align: top; }
-  table.sem tr:last-child td { border-bottom: none; }
-  .sem-dot { display:inline-block; padding:.28em .6em; border-radius: 3px; font-family:"IBM Plex Mono",monospace; font-weight:500; font-size:.8em; white-space:nowrap; }
-  .sem-ok   { background: var(--ok-bg);   color: var(--ok); }
-  .sem-warn { background: var(--warn-bg); color: var(--warn); }
-  .sem-bad  { background: var(--bad-bg);  color: var(--bad); }
-
-  .kpi-row { display:grid; grid-template-columns: repeat(3,1fr); gap: 1px; margin-top: .6em; background: var(--line); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
-  .kpi { text-align:center; padding: 1em .5em; background: var(--bg-panel); }
-  .kpi .num { font-family:"IBM Plex Mono",monospace; font-variant-numeric: tabular-nums; font-size: 1.9em; color: var(--pop); font-weight:600; display:block; }
-  .kpi .label { font-size: .5em; color: var(--ink-soft); }
-
-  .dafo { display:grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 1px; height: 100%; background: var(--line); border: 1px solid var(--line); border-radius: var(--radius); overflow:hidden; }
-  .dafo .card { border-radius: 0; border: none; }
-  .dafo .card h3 { font-family:"IBM Plex Mono",monospace; font-weight:500; font-size:.5em; letter-spacing:.06em; text-transform:uppercase; }
-  .dafo .card li { font-size: .85em; margin-bottom:.35em; }
-  .dafo .f { background: var(--ok-bg); }
-  .dafo .f h3 { color: var(--ok); }
-  .dafo .d { background: var(--bad-bg); }
-  .dafo .d h3 { color: var(--bad); }
-  .dafo .o { background: var(--accent-soft); }
-  .dafo .o h3 { color: var(--accent); }
-  .dafo .a { background: var(--warn-bg); }
-  .dafo .a h3 { color: var(--warn); }
-
-  .badge-step {
-    display:inline-flex; align-items:center; justify-content:center;
-    width: 1.6em; height:1.6em; border-radius: 3px; background:var(--accent); color:var(--accent-ink);
-    font-family:"IBM Plex Mono",monospace; font-weight:600; margin-right:.5em; flex:none;
-  }
-  .step-row { display:flex; align-items:flex-start; margin-bottom:.6em; }
-
-  .cover {
-    height: 100%; display:flex; flex-direction:column; justify-content:center; align-items:flex-start;
-  }
-  .cover .kicker {
-    font-family:"IBM Plex Mono",monospace; font-weight:500; letter-spacing:.14em; text-transform:uppercase; font-size:.4em; color: var(--accent);
-    margin-bottom:.6em;
-  }
-  .cover h1 { margin: 0 0 .25em; line-height:1.05; }
-  .cover .sub { font-size:.7em; color: var(--ink-soft); max-width: 15em; }
-  .cover .meta { margin-top: 1.4em; font-size: .48em; color: var(--ink-soft); font-family:"IBM Plex Mono",monospace; }
-
-  .agenda-list { list-style:none; margin:0; padding:0; columns: 2; column-gap: 1.4em; }
-  .agenda-list li { font-size:.6em; margin-bottom:.55em; break-inside: avoid; }
-  .agenda-list .n { color: var(--accent); font-family:"IBM Plex Mono",monospace; font-weight:500; margin-right:.5em; }
-
-  .footer-note { position:absolute; bottom: .5em; left: 1em; right:1em; font-size: .32em; color: var(--ink-soft); }
-</style>
+<link rel="stylesheet" href="assets/style.css">
+<script>
+(function(){try{var t=localStorage.getItem('theme');if(t==='light'||t==='dark')document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
+</script>
 </head>
 <body>
-<div class="reveal">
-  <div class="slides">
-
-    <!-- 1. Portada -->
-    <section>
-      <div class="cover">
-        <span class="kicker">Propuesta de modelo de negocio</span>
-        <h1>Coworking de belleza<br>en Las Galletas</h1>
-        <p class="sub">Cómo convertir el salón en un espacio gestionado, sin reformas, alquilando puestos a profesionales del sector.</p>
-        <div class="meta">Las Galletas · Arona · Tenerife &nbsp;—&nbsp; Documento de trabajo, no vinculante</div>
-      </div>
-    </section>
-
-    <!-- 2. Agenda -->
-    <section>
-      <h2><span class="kicker">Índice</span>De dónde partimos a dónde podemos llegar</h2>
-      <div class="slide-body">
-        <ol class="agenda-list">
-          <li><span class="n">01</span>Punto de partida</li>
-          <li><span class="n">02</span>El cambio de modelo</li>
-          <li><span class="n">03</span>Cómo se organiza el espacio</li>
-          <li><span class="n">04</span>Los números</li>
-          <li><span class="n">05</span>A favor de la idea</li>
-          <li><span class="n">06</span>Riesgos a validar</li>
-          <li><span class="n">07</span>Servicios candidatos</li>
-          <li><span class="n">08</span>Más ideas fuera de lo clásico</li>
-          <li><span class="n">09</span>Aprender de casos reales</li>
-          <li><span class="n">10</span>Ayudas públicas</li>
-          <li><span class="n">11</span>Lo que hay que dejar por contrato</li>
-          <li><span class="n">12</span>Alternativa: alumnado en prácticas</li>
-          <li><span class="n">13</span>DAFO</li>
-          <li><span class="n">14</span>Decisiones pendientes</li>
-          <li><span class="n">15</span>Próximos pasos</li>
-        </ol>
-      </div>
-    </section>
-
-    <!-- 3. Punto de partida -->
-    <section>
-      <h2><span class="kicker">01 · Punto de partida</span>Un local propio, ya preparado</h2>
-      <div class="slide-body cols cols-2">
-        <ul>
-          <li>Local en <strong>Calle Fundadores</strong>, Las Galletas — calle peatonal en pleno centro, con mucho tráfico de gente.</li>
-          <li><strong>En propiedad</strong>: no hay alquiler ni hipoteca que pagar por el local.</li>
-          <li>Dada de alta como <strong>autónoma</strong>.</li>
-        </ul>
-        <div class="card">
-          <span class="tag">Ya construido, sin obra</span>
-          <h3>3 puestos de trabajo</h3>
-          <p>Un <strong>salón central</strong> (recepción + zona principal) y <strong>2 cubículos</strong> independientes en el fondo del local.</p>
-        </div>
-      </div>
-    </section>
-
-    <!-- 4. El cambio de modelo -->
-    <section>
-      <h2><span class="kicker">02 · El cambio de modelo</span>De salón a espacio de coworking</h2>
-      <div class="slide-body">
-        <div class="step-row"><span class="badge-step">1</span><div><strong>Sin reformas ni ampliación.</strong> El local ya tiene los 3 puestos necesarios — no hay que construir nada nuevo ni esperar ninguna obra.</div></div>
-        <div class="step-row"><span class="badge-step">2</span><div><strong>La propietaria deja de ejercer</strong> como esteticista y pasa a ser <strong>propietaria y gestora del espacio</strong>.</div></div>
-        <div class="step-row"><span class="badge-step">3</span><div>Su <strong>cartera de clientas</strong> de piel y depilación se traspasa a quien ocupe uno de los cubículos, para que sigan recibiendo servicio.</div></div>
-        <div class="step-row"><span class="badge-step">4</span><div>El negocio pasa de <em>"ingresos por servicios propios"</em> a <em>"ingresos por alquiler de espacio"</em>: más predecibles y menos dependientes de un único par de manos.</div></div>
-      </div>
-    </section>
-
-    <!-- 5. Cómo se organiza el espacio -->
-    <section>
-      <h2><span class="kicker">03 · Cómo se organiza el espacio</span>Tres puestos, tres situaciones</h2>
-      <div class="slide-body cols cols-3">
-        <div class="card">
-          <span class="tag">Ya ocupado</span>
-          <h3>Salón central</h3>
-          <p>Recepción + zona principal. Ocupado por su prima, especialista en uñas.</p>
-          <div class="price">300&nbsp;€/mes</div>
-          <p class="muted">Ingreso real, ya en marcha.</p>
-        </div>
-        <div class="card">
-          <span class="tag">Libre</span>
-          <h3>Cubículo 1</h3>
-          <p>Antes era el puesto de estética/depilación de la propietaria. Recibiría su cartera de clientas.</p>
-          <div class="price">~400&nbsp;€/mes</div>
-          <p class="muted">Objetivo, por confirmar.</p>
-        </div>
-        <div class="card">
-          <span class="tag">Libre</span>
-          <h3>Cubículo 2</h3>
-          <p>Espacio adicional, perfil de profesional aún por decidir.</p>
-          <div class="price">~400&nbsp;€/mes</div>
-          <p class="muted">Objetivo, por confirmar.</p>
-        </div>
-      </div>
-    </section>
-
-    <!-- 6. Los números -->
-    <section>
-      <h2><span class="kicker">04 · Los números</span>Lo que ya genera y lo que podría generar</h2>
-      <div class="slide-body">
-        <div class="kpi-row">
-          <div class="kpi"><span class="num">300&nbsp;€</span><span class="label">al mes, ya real<br>(salón central)</span></div>
-          <div class="kpi"><span class="num">+800&nbsp;€</span><span class="label">al mes, objetivo<br>(2 cubículos)</span></div>
-          <div class="kpi"><span class="num">1.100&nbsp;€</span><span class="label">al mes, a pleno<br>rendimiento</span></div>
-        </div>
-        <p class="muted" style="margin-top:.9em; font-size:.55em;">Cifra bruta, sin descontar gastos fijos ni el periodo sin ingreso propio mientras se cubren los cubículos. Los objetivos de precio están en línea con el mercado de Tenerife: ~300 €/mes en Los Realejos, ~400 €/mes en Candelaria.</p>
-      </div>
-    </section>
-
-    <!-- 7. A favor -->
-    <section>
-      <h2><span class="kicker">05 · A favor de la idea</span>Por qué tiene sentido</h2>
-      <div class="slide-body">
-        <ul>
-          <li><strong>Sin inversión previa</strong>: los 3 puestos ya existen, no hay obra que financiar ni esperar.</li>
-          <li><strong>Ya funciona de facto</strong>: el salón central genera 300 €/mes reales desde hace tiempo.</li>
-          <li><strong>Ubicación céntrica y peatonal</strong>: atractiva tanto para clientas como para profesionales que busquen cabina.</li>
-          <li><strong>Ingresos más predecibles</strong>: una renta fija pesa menos que depender de la variabilidad de un único servicio.</li>
-          <li>Multiplica la oferta bajo un mismo techo sin que la propietaria tenga que formarse en nada nuevo.</li>
-        </ul>
-      </div>
-    </section>
-
-    <!-- 8. Riesgos -->
-    <section>
-      <h2><span class="kicker">06 · Riesgos a validar</span>Qué falta por confirmar antes de comprometerse</h2>
-      <div class="slide-body">
-        <ul>
-          <li><strong>Demanda real sin confirmar</strong>: no hay todavía profesionales identificados que quieran alquilar los cubículos.</li>
-          <li><strong>Periodo de transición</strong>: al dejar de ejercer, desaparece el ingreso de su actividad propia hasta cubrir los cubículos — sin colchón estimado aún.</li>
-          <li><strong>Licencia de actividad</strong>: falta confirmar si permite varios autónomos independientes en el mismo local.</li>
-          <li><strong>Competencia ya asentada</strong> en los servicios más estándar de la zona (peluquería, uñas, depilación).</li>
-        </ul>
-      </div>
-    </section>
-
-    <!-- 9. Servicios candidatos -->
-    <section>
-      <h2><span class="kicker">07 · Servicios candidatos</span>Qué podría ocupar los cubículos</h2>
-      <div class="slide-body">
-        <table class="sem">
-          <tr><th>Servicio</th><th>Viabilidad</th><th>Por qué</th></tr>
-          <tr><td>Trenzas / trenzas afro</td><td><span class="sem-dot sem-ok">Viable</span></td><td>Demanda real detectada (turista sin poder hacérselas en la zona).</td></tr>
-          <tr><td>Masajes especializados</td><td><span class="sem-dot sem-ok">Viable</span></td><td>Sin trámite si se vende como bienestar, no como terapia.</td></tr>
-          <tr><td>Piercing / micropigmentación</td><td><span class="sem-dot sem-warn">Con trámite</span></td><td>Normativa canaria clara (registro sanitario, vacunas, formación).</td></tr>
-          <tr><td>Depilación láser</td><td><span class="sem-dot sem-bad">Incierto</span></td><td>Posible exigencia de supervisión médica, sin confirmar en Canarias.</td></tr>
-          <tr><td>Henna</td><td><span class="sem-dot sem-warn">Sin validar</span></td><td>Hipótesis propia, sin evidencia de demanda en la zona.</td></tr>
-          <tr><td>Blanqueamiento dental</td><td><span class="sem-dot sem-bad">Descartado</span></td><td>En España solo lo pueden practicar dentistas.</td></tr>
-        </table>
-      </div>
-    </section>
-
-    <!-- 10. Más ideas -->
-    <section>
-      <h2><span class="kicker">08 · Más ideas</span>Fuera del salón de belleza clásico</h2>
-      <div class="slide-body cols cols-2">
-        <div>
-          <p class="muted" style="font-size:.55em; margin-bottom:.6em;">Sin trámite especial, fáciles de montar:</p>
-          <ul class="pill-list">
-            <li>Quiromasaje / reflexología podal</li>
-            <li>Barbería masculina</li>
-            <li>Brow bar y extensiones de pestañas</li>
-            <li>Bronceado sin sol (spray tan)</li>
-            <li>Blow dry bar (peinado exprés)</li>
-            <li>Reiki, sound bath, meditación guiada</li>
-          </ul>
-        </div>
-        <div>
-          <p class="muted" style="font-size:.55em; margin-bottom:.6em;">Requieren más trámite o perfil "premium":</p>
-          <ul class="pill-list">
-            <li>Fisioterapia y nutrición (colegiación obligatoria)</li>
-            <li>Micropigmentación capilar (mismo trámite que cejas)</li>
-          </ul>
-          <p class="muted" style="font-size:.55em; margin-top:1em;">Descartados por barrera legal alta: podología clínica, Botox/relleno, goteo IV, criosauna y tanque de flotación (exigen sala dedicada e inversión de otra escala).</p>
-        </div>
-      </div>
-    </section>
-
-    <!-- 11. Casos reales -->
-    <section>
-      <h2><span class="kicker">09 · Aprender de casos reales</span>Lo que funciona fuera</h2>
-      <div class="slide-body cols cols-2">
-        <ul>
-          <li><strong>L'Atelier du Sourcil</strong> (París) — especializado al 100% en cejas desde 2006, hoy más de 150 tiendas.</li>
-          <li><strong>Blow Dry Bar</strong> (Madrid) — solo peinado exprés + posicionamiento "orgánico".</li>
-          <li><strong>Rowan / Studs</strong> (Nueva York) — venden la seguridad e higiene del piercing como su marca.</li>
-        </ul>
-        <div class="card">
-          <h3>Lección principal</h3>
-          <p>Una cabina hiperespecializada en <em>una sola cosa</em> rinde mejor que una que intenta ofrecer un poco de todo. Presentar el servicio como una pequeña experiencia sube el valor percibido sin coste extra.</p>
-        </div>
-      </div>
-    </section>
-
-    <!-- 12. Ayudas públicas -->
-    <section>
-      <h2><span class="kicker">10 · Ayudas públicas</span>Dinero disponible para equipar los cubículos</h2>
-      <div class="slide-body cols cols-3">
-        <div class="card">
-          <h3>Cabildo de Tenerife</h3>
-          <p>Ayudas Comercio 2026, para peluquerías y centros de estética. <strong>60% de la inversión</strong>, hasta 10.000 €.</p>
-        </div>
-        <div class="card">
-          <h3>Empleo Autónomo</h3>
-          <p>Hasta 10.000 € al darse de alta. Útil como argumento para atraer a una nueva profesional a alquilar cabina.</p>
-        </div>
-        <div class="card">
-          <h3>Pyme Digital 2026</h3>
-          <p>Hasta el 85% de la inversión en digitalización (reservas online), máx. 6.366,50 €.</p>
-        </div>
-      </div>
-    </section>
-
-    <!-- 13. Contrato -->
-    <section>
-      <h2><span class="kicker">11 · Lo que hay que dejar por contrato</span>Para evitar conflictos ya conocidos en el sector</h2>
-      <div class="slide-body cols cols-2">
-        <ul>
-          <li>Uso del espacio, responsabilidades y seguro de responsabilidad civil obligatorio.</li>
-          <li>Reparto de la limpieza de zonas comunes.</li>
-          <li>Formación / registro sanitario acreditado antes de dejar entrar a nadie.</li>
-          <li>Qué incluye exactamente el precio del alquiler.</li>
-        </ul>
-        <div class="card">
-          <span class="tag">Cláusula clave para este caso</span>
-          <h3>Traspaso de la cartera de clientas</h3>
-          <p>La propietaria entrega su propia cartera al inquilino que la reciba — un activo de valor que conviene proteger, por ejemplo exigiendo un <strong>periodo mínimo de permanencia</strong>.</p>
-        </div>
-      </div>
-    </section>
-
-    <!-- 14. Alumnado en prácticas -->
-    <section>
-      <h2><span class="kicker">12 · Alternativa complementaria</span>Alumnado de FP en prácticas</h2>
-      <div class="slide-body">
-        <ul>
-          <li>El <strong>IES Las Galletas</strong>, en el mismo pueblo, imparte Peluquería y Estética.</li>
-          <li>Permite cubrir un cubículo mientras se valida si hay autónomos interesados, sin comprometerse todavía a un alquiler formal.</li>
-          <li>No genera ingresos por alquiler, pero sirve para <strong>"probar" talento</strong> antes de ofrecerle alquilar cabina de verdad.</li>
-        </ul>
-      </div>
-    </section>
-
-    <!-- 15. DAFO -->
-    <section>
-      <h2><span class="kicker">13 · DAFO</span>Radiografía rápida de la propuesta</h2>
-      <div class="slide-body dafo">
-        <div class="card f"><h3>Fortalezas</h3><ul>
-          <li>Local propio, 3 puestos ya listos sin obra.</li>
-          <li>Modelo ya probado (300 €/mes reales).</li>
-        </ul></div>
-        <div class="card d"><h3>Debilidades</h3><ul>
-          <li>Sin facturación propia documentada todavía.</li>
-          <li>Licencia de actividad sin confirmar.</li>
-        </ul></div>
-        <div class="card o"><h3>Oportunidades</h3><ul>
-          <li>Ayuda pública del Cabildo y cantera de talento (IES).</li>
-          <li>Hueco de demanda detectado (trenzas) y turismo alto.</li>
-        </ul></div>
-        <div class="card a"><h3>Amenazas</h3><ul>
-          <li>Oferta estándar ya cubierta en la zona.</li>
-          <li>Riesgo de perder la cartera traspasada sin contrato.</li>
-        </ul></div>
-      </div>
-    </section>
-
-    <!-- 16. Decisiones pendientes -->
-    <section>
-      <h2><span class="kicker">14 · Decisiones pendientes</span>Lo que solo puede decidir la propietaria</h2>
-      <div class="slide-body cols cols-2">
-        <ul>
-          <li>¿Es 400 €/mes un precio ya cerrado para los cubículos?</li>
-          <li>¿Qué incluye el alquiler (equipamiento, recepción, limpieza)?</li>
-          <li>¿Qué perfil de profesional busca para cada cubículo?</li>
-          <li>¿A cambio de qué traspasa su cartera de clientas?</li>
-        </ul>
-        <ul>
-          <li>¿El acuerdo con la prima está formalizado por escrito?</li>
-          <li>¿En qué plazo quiere tener cubiertos los cubículos?</li>
-          <li>¿Cuánto tiempo puede permitirse sin su ingreso propio?</li>
-          <li>¿Quién gestionará el día a día del espacio?</li>
-        </ul>
-      </div>
-    </section>
-
-    <!-- 17. Próximos pasos -->
-    <section>
-      <h2><span class="kicker">15 · Próximos pasos</span>Por dónde seguir</h2>
-      <div class="slide-body">
-        <div class="step-row"><span class="badge-step">1</span><div>Decidir el precio definitivo y qué incluye el alquiler de cada cubículo.</div></div>
-        <div class="step-row"><span class="badge-step">2</span><div>Formalizar por escrito el acuerdo con la prima.</div></div>
-        <div class="step-row"><span class="badge-step">3</span><div>Contactar con el Cabildo de Tenerife por la ayuda de equipamiento.</div></div>
-        <div class="step-row"><span class="badge-step">4</span><div>Contactar con el IES Las Galletas para explorar la vía de prácticas.</div></div>
-        <div class="step-row"><span class="badge-step">5</span><div>Empezar a validar, informalmente, si hay profesionales interesados en alquilar cabina.</div></div>
-      </div>
-    </section>
-
-    <!-- 18. Cierre -->
-    <section>
-      <div class="cover">
-        <span class="kicker">Gracias</span>
-        <h1>Quedamos a la espera<br>de tus decisiones</h1>
-        <p class="sub">El detalle completo de cada punto —fuentes, normativa y fichas por servicio— está documentado y disponible para consultar en cualquier momento.</p>
-      </div>
-    </section>
-
+<header class="navbar">
+  <div class="navbar-left">
+    <button class="menu-toggle" id="menu-toggle" aria-label="Abrir navegación">☰</button>
+    <a class="navbar-brand" href="index.html">
+      <span class="logo">💇</span>
+      <span>Coworking de Belleza</span>
+    </a>
   </div>
-</div>
+  <div class="navbar-right">
+    <button class="theme-toggle" id="theme-toggle" aria-label="Cambiar tema">🌙</button>
+  </div>
+</header>
+<div class="layout">
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+  <aside class="sidebar" id="sidebar">
+    <nav>
+      <ul>
+      <li><a href="index.html" class="current">Inicio</a></li>
+      </ul>
+      <div class="sidebar-group-label">Capítulos</div>
+      <ul>
+      <li><a href="chapters/01-el-negocio-hoy.html"><span class="icon">🏠</span>El negocio hoy</a></li>
+      <li><a href="chapters/02-el-cambio-de-modelo.html"><span class="icon">🔄</span>El cambio de modelo</a></li>
+      <li><a href="chapters/03-viabilidad.html"><span class="icon">📊</span>Viabilidad</a></li>
+      <li><a href="chapters/04-los-numeros.html"><span class="icon">💶</span>Los números</a></li>
+      <li><a href="chapters/05-servicios-para-los-cubiculos.html"><span class="icon">💅</span>Servicios para los cubículos</a></li>
+      <li><a href="chapters/06-mas-ideas.html"><span class="icon">💡</span>Más ideas</a></li>
+      <li><a href="chapters/07-casos-reales-de-exito.html"><span class="icon">🌍</span>Casos reales de éxito</a></li>
+      <li><a href="chapters/08-como-ofertar-el-coworking.html"><span class="icon">📣</span>Cómo ofertar el coworking</a></li>
+      <li><a href="chapters/09-ayudas-publicas.html"><span class="icon">🏛️</span>Ayudas públicas</a></li>
+      <li><a href="chapters/10-el-contrato-de-alquiler.html"><span class="icon">📝</span>El contrato de alquiler</a></li>
+      <li><a href="chapters/11-alumnado-en-practicas.html"><span class="icon">🎓</span>Alumnado en prácticas</a></li>
+      <li><a href="chapters/12-estado-del-plan-de-negocio.html"><span class="icon">📋</span>Estado del plan de negocio</a></li>
+      <li><a href="chapters/13-dafo-completo.html"><span class="icon">🧭</span>DAFO completo</a></li>
+      <li><a href="chapters/14-decisiones-pendientes.html"><span class="icon">❓</span>Decisiones pendientes</a></li>
+      <li><a href="chapters/15-proximos-pasos.html"><span class="icon">🚀</span>Próximos pasos</a></li>
+      </ul>
+    </nav>
+  </aside>
+  <main class="doc-main">
+    <div class="doc-content">
+      <h1>Coworking de belleza en Las Galletas</h1>
+      <p class="lead">Cómo convertir el salón en un espacio gestionado, sin reformas, alquilando puestos a profesionales del sector.</p>
+      <div class="callout warn">
+        <span class="tag">Documento de trabajo</span>
+        <p>Esto no son decisiones cerradas ni un documento vinculante — es el plan de negocio tal y como está hoy, con investigación real de operadores de coworking de belleza, para revisar y decidir sobre él. Las Galletas · Arona · Tenerife.</p>
+      </div>
+      <div class="chapter-grid">
+      <a class="chapter-card" href="chapters/01-el-negocio-hoy.html"><span class="card-icon">🏠</span><span class="num">Capítulo 01</span><h3>El negocio hoy</h3><p>Local, equipo y servicios tal y como están ahora mismo, antes del cambio de modelo.</p></a><a class="chapter-card" href="chapters/02-el-cambio-de-modelo.html"><span class="card-icon">🔄</span><span class="num">Capítulo 02</span><h3>El cambio de modelo</h3><p>El plan: de salón tradicional a espacio de coworking de belleza.</p></a><a class="chapter-card" href="chapters/03-viabilidad.html"><span class="card-icon">📊</span><span class="num">Capítulo 03</span><h3>Viabilidad</h3><p>Valoración preliminar: qué juega a favor y qué falta por validar.</p></a><a class="chapter-card" href="chapters/04-los-numeros.html"><span class="card-icon">💶</span><span class="num">Capítulo 04</span><h3>Los números</h3><p>Lo que ya genera el modelo y lo que podría generar a pleno rendimiento.</p></a><a class="chapter-card" href="chapters/05-servicios-para-los-cubiculos.html"><span class="card-icon">💅</span><span class="num">Capítulo 05</span><h3>Servicios para los cubículos</h3><p>Qué especialidades podrían ocuparlos, con su viabilidad legal.</p></a><a class="chapter-card" href="chapters/06-mas-ideas.html"><span class="card-icon">💡</span><span class="num">Capítulo 06</span><h3>Más ideas</h3><p>Fuera del salón de belleza clásico: otras profesiones y aprendizajes anglosajones.</p></a><a class="chapter-card" href="chapters/07-casos-reales-de-exito.html"><span class="card-icon">🌍</span><span class="num">Capítulo 07</span><h3>Casos reales de éxito</h3><p>Operadores reales de coworking de belleza / “salon suites” — no marcas de un único servicio, sino negocios que alquilan el espacio, como el que se plantea aquí.</p></a><a class="chapter-card" href="chapters/08-como-ofertar-el-coworking.html"><span class="card-icon">📣</span><span class="num">Capítulo 08</span><h3>Cómo ofertar el coworking</h3><p>Propuesta concreta, con fuentes, de cómo anunciar y captar inquilinas para el Cubículo 1 y el Cubículo 2.</p></a><a class="chapter-card" href="chapters/09-ayudas-publicas.html"><span class="card-icon">🏛️</span><span class="num">Capítulo 09</span><h3>Ayudas públicas</h3><p>Financiación disponible para equipar los cubículos.</p></a><a class="chapter-card" href="chapters/10-el-contrato-de-alquiler.html"><span class="card-icon">📝</span><span class="num">Capítulo 10</span><h3>El contrato de alquiler</h3><p>Checklist de cláusulas para evitar conflictos ya documentados en el sector.</p></a><a class="chapter-card" href="chapters/11-alumnado-en-practicas.html"><span class="card-icon">🎓</span><span class="num">Capítulo 11</span><h3>Alumnado en prácticas</h3><p>Una vía complementaria para cubrir un cubículo mientras se valida la demanda.</p></a><a class="chapter-card" href="chapters/12-estado-del-plan-de-negocio.html"><span class="card-icon">📋</span><span class="num">Capítulo 12</span><h3>Estado del plan de negocio</h3><p>Qué secciones ya se pueden redactar y cuáles siguen bloqueadas.</p></a><a class="chapter-card" href="chapters/13-dafo-completo.html"><span class="card-icon">🧭</span><span class="num">Capítulo 13</span><h3>DAFO completo</h3><p>Radiografía de la propuesta, con los casos reales de coworking ya incorporados.</p></a><a class="chapter-card" href="chapters/14-decisiones-pendientes.html"><span class="card-icon">❓</span><span class="num">Capítulo 14</span><h3>Decisiones pendientes</h3><p>Todo lo que solo puede responder la propietaria.</p></a><a class="chapter-card" href="chapters/15-proximos-pasos.html"><span class="card-icon">🚀</span><span class="num">Capítulo 15</span><h3>Próximos pasos</h3><p>Por dónde seguir a partir de aquí.</p></a>
+      </div>
+      <nav class="pagination">
+<span></span>
+<a class="pag-link next" href="chapters/01-el-negocio-hoy.html"><span class="pag-dir">Siguiente →</span><span class="pag-title">El negocio hoy</span></a>
+</nav>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.6.1/reveal.min.js"></script>
-<script>
-  Reveal.initialize({
-    hash: true,
-    controls: true,
-    progress: true,
-    center: false,
-    transition: 'slide',
-    width: 1280,
-    height: 720,
-    margin: 0.06
-  });
-</script>
+    </div>
+  </main>
+  
+</div>
+<script src="assets/app.js"></script>
+
 </body>
 </html>

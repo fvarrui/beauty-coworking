@@ -7,7 +7,7 @@
 
 La propietaria deja de prestar este servicio directamente y traspasa esta cartera a quien ocupe uno de los 2 cubículos del fondo (ver [`diversificacion.md`](./diversificacion.md)).
 
-## Uñas (prima de la propietaria — salón central)
+## Uñas (profesional de pedicura — salón central)
 
 - Manicura / pedicura (pendiente de detallar técnicas: esmaltado semipermanente, uñas de gel/acrílicas, etc.).
 

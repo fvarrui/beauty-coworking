@@ -46,13 +46,13 @@ Lo que falta:
 ## 6. Plan de organización y RRHH — 🟡
 
 Lo que ya hay:
-- Estructura decidida: La propietaria pasa a propietaria/gestora del espacio (deja de ejercer), la prima ocupa el salón central pagando 300 €/mes, y los 2 cubículos del fondo están por cubrir: `equipo.md`.
+- Estructura decidida: La propietaria pasa a propietaria/gestora del espacio (deja de ejercer), la profesional de pedicura ocupa el salón central pagando 300 €/mes, y los 2 cubículos del fondo están por cubrir: `equipo.md`.
 - Modelo de alquiler decidido (renta fija mensual) y precio objetivo de los cubículos (~400 €/mes): [`diversificacion.md`](../negocio/diversificacion.md).
 - Dos vías alternativas ya evaluadas para cubrir los cubículos: autónomos de pago ([`diversificacion.md`](../negocio/diversificacion.md)) y alumnado en prácticas ([`opcion-alumnado-fp-dual.md`](../negocio/opcion-alumnado-fp-dual.md), con centro concreto identificado: IES Las Galletas).
 - Checklist de cláusulas para el contrato con autónomos, incluida la cláusula específica del traspaso de la cartera de clientas de la propietaria: [`contrato-alquiler-cabina.md`](../negocio/contrato-alquiler-cabina.md).
 
 Lo que falta:
-- Confirmar si la relación con la prima (300 €/mes) está formalizada por escrito.
+- Confirmar si la relación con la profesional de pedicura (300 €/mes) está formalizada por escrito.
 - Perfil de profesionales que la propietaria quiere para los 2 cubículos.
 - A cambio de qué se traspasa la cartera de clientas de la propietaria al inquilino que la reciba.
 
@@ -84,12 +84,12 @@ A diferencia de las demás secciones, un DAFO **sí se puede empezar a redactar 
 **Fortalezas**
 - Local en propiedad, sin coste de alquiler, y **ya preparado para 3 puestos sin obra ni inversión previa** (salón central + 2 cubículos).
 - Ubicación céntrica en calle peatonal, con tráfico peatonal alto.
-- Modelo ya probado de facto y generando ingresos reales: salón central alquilado a la prima por 300 €/mes.
+- Modelo ya probado de facto y generando ingresos reales: salón central alquilado a la profesional de pedicura por 300 €/mes.
 - Buena valoración de la competencia directa en uñas (Opalo.H, 4,8/5) sugiere que el mercado de uñas en la zona responde bien a calidad — punto de referencia, no debilidad propia.
 
 **Debilidades**
 - Sin datos de facturación propios de la cartera de la propietaria (precios de servicios aún sin rellenar) — no se puede evaluar rentabilidad real ni cuánto vale la cartera que se traspasa.
-- Relación con la prima probablemente sin formalizar por escrito (ambigüedad legal/fiscal), aunque ya está clara en importe (300 €/mes).
+- Relación con la profesional de pedicura probablemente sin formalizar por escrito (ambigüedad legal/fiscal), aunque ya está clara en importe (300 €/mes).
 - Sin confirmar si la licencia de actividad actual permite el modelo de varios autónomos independientes.
 - **Periodo de transición sin ingreso de la actividad de la propietaria**: al dejar de ejercer, ese ingreso desaparece hasta que se cubran los 2 cubículos, sin plazo ni colchón financiero estimado todavía.
 

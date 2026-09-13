@@ -14,7 +14,7 @@ En Canarias hay ciclos duales activos en el sector, entre otros: **Técnico en E
 
 ## Cómo encajaría en el salón de la propietaria
 
-- La propietaria (como gestora del espacio), su prima o un autónomo ya instalado actuaría como **tutor/a de empresa**, supervisando al alumnado.
+- La propietaria (como gestora del espacio), la profesional de pedicura o un autónomo ya instalado actuaría como **tutor/a de empresa**, supervisando al alumnado.
 - El alumnado ocuparía uno de los 2 cubículos libres del fondo (o apoyaría en el salón central) durante su periodo de prácticas, atendiendo bajo supervisión.
 - Sirve como **vivero de talento**: al terminar el ciclo, el alumnado con mejor encaje podría pasar a ser el primer autónomo de pago que alquile cabina, ya conociendo el salón, a la propietaria y a parte de la clientela — reduciendo el riesgo de la idea de alquiler de espacios (ver [`diversificacion.md`](./diversificacion.md)).
 

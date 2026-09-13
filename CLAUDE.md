@@ -10,7 +10,7 @@ Tu función no es "programar" nada — este repositorio no contiene código, sin
 
 ## Sobre el negocio (contexto rápido)
 
-La propietaria tiene un salón de belleza en **Las Galletas (Arona, Tenerife)**, reconvertido en un espacio de coworking de belleza: ella es propietaria y gestora del espacio (ya no ejerce como esteticista), su prima ocupa el salón central (uñas) pagando alquiler, y quedan 2 cubículos por alquilar a otros profesionales. Detalle completo y actualizado en [`docs/negocio/`](./docs/negocio/situacion-actual.md) — léelo siempre antes de dar recomendaciones, no confíes solo en este resumen porque puede quedar desactualizado.
+La propietaria tiene un salón de belleza en **Las Galletas (Arona, Tenerife)** que se plantea reconvertir en un espacio de coworking de belleza. Situación **actual** (no confundir con el plan): ella ejerce hoy mismo como esteticista en el Cubículo 1; el salón central (a la entrada) lo ocupa una profesional de pedicura, autónoma sin relación de parentesco con la propietaria, que ya paga alquiler; el Cubículo 2 está libre. El **plan** es que la propietaria deje de ejercer, pase a ser solo gestora del espacio, traspase su cartera de clientas a quien ocupe el Cubículo 1, y alquile también el Cubículo 2. Detalle completo y actualizado en [`docs/negocio/`](./docs/negocio/situacion-actual.md) — léelo siempre antes de dar recomendaciones, no confíes solo en este resumen porque puede quedar desactualizado.
 
 ## Cómo trabajar en este repo
 
@@ -27,11 +27,11 @@ Cuando te pidan analizar oportunidades o construir el plan, ten en cuenta palanc
 - **Ampliación de catálogo de servicios**: pestañas, cejas, maquillaje, masajes, tratamientos corporales, spa/wellness, etc. — evaluando si encajan con el espacio físico (salón central + 2 cubículos) y el perfil de las profesionales que se incorporen.
 - **Venta de producto** (retail): cosmética/productos de cuidado que complementen los tratamientos.
 - **Servicios recurrentes / fidelización**: bonos, membresías, programas de fidelidad.
-- **Formación**: cursos o talleres si la propietaria o su prima tienen perfil para impartirlos.
+- **Formación**: cursos o talleres si la propietaria o la profesional de pedicura tienen perfil para impartirlos.
 - **Ampliación física o de horario**: más personal, ampliar días/horas (la ampliación a un tercer habitáculo ya no aplica: el local ya cuenta con salón central + 2 cubículos sin necesidad de obra).
 - **Estacionalidad turística de Las Galletas**: Arona es zona turística — valorar servicios orientados a turistas (paquetes, idiomas, reservas online) frente a clientela residente/fija.
 - **Digitalización**: reservas online, presencia en redes/Google, gestión de citas — como palanca de crecimiento sin ampliar local.
-- **Colaboración con la prima**: si hay margen para formalizar o ampliar esa relación (renta de cabina, sociedad, etc.) como modelo replicable con más profesionales.
+- **Colaboración con la profesional de pedicura**: si hay margen para formalizar o ampliar esa relación (renta de cabina, sociedad, etc.) como modelo replicable con más profesionales.
 
 No fuerces estas ideas si no encajan; prioriza siempre lo que se derive de los datos reales registrados en `docs/negocio/` y de lo que el usuario te transmita.
 

@@ -18,7 +18,7 @@ Nota: La propietaria deja de ejercer como esteticista y traspasa esta cartera al
 | Depilación — cera brasileña / integral | | | |
 | Otro: ___ | | | |
 
-## Uñas (prima de la propietaria — salón central)
+## Uñas (profesional de pedicura — salón central)
 
 | Servicio | Precio | Duración aprox. | Notas |
 |---|---|---|---|
@@ -40,9 +40,9 @@ Nota: La propietaria deja de ejercer como esteticista y traspasa esta cartera al
 
 | Espacio | Precio | Estado |
 |---|---|---|
-| Salón central (prima, uñas) | 300 €/mes | Ya en marcha |
-| Cubículo 1 (fondo) | ~400 €/mes | Objetivo, por confirmar si es precio cerrado |
-| Cubículo 2 (fondo) | ~400 €/mes | Objetivo, por confirmar si es precio cerrado |
+| Salón central (profesional de pedicura, uñas) | 300 €/mes | Ya en marcha |
+| Cubículo 1 (fondo) — hoy ocupado por la propietaria (estética/depilación) | ~400 €/mes | Objetivo, por confirmar si es precio cerrado — pendiente de que se libere en la transición |
+| Cubículo 2 (fondo) — libre ahora mismo | ~400 €/mes | Objetivo, por confirmar si es precio cerrado |
 
 Ver contexto completo del modelo en [`diversificacion.md`](./diversificacion.md).
 
