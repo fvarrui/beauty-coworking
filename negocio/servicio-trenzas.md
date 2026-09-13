@@ -6,12 +6,12 @@ Uno de los servicios propuestos para ocupar una de las cabinas nuevas si se ampl
 
 ### 1. Alta de actividad — esto sí está claro
 
-- **Alta como autónomo/a** en el RETA (Régimen Especial de Trabajadores Autónomos) en la Seguridad Social.
-- **Alta censal en Hacienda** (declaración censal) con el epígrafe del IAE **972.1 — "Servicios de peluquería de señora y de caballero"**, que es donde encaja el trenzado como servicio capilar. Cuota anual orientativa 150-300 €, varía por comunidad.
+- **Alta como autónomo/a** en el RETA (Régimen Especial de Trabajadores Autónomos) en la Seguridad Social — trámite oficial descrito en [Seguridad Social — Alta en trabajo autónomo](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Altas,+bajas+y+modificaciones/Altas+y+afiliacion+de+trabajadores/Alta_trabajo_autonomo).
+- **Alta censal en Hacienda** (declaración censal) con el epígrafe del IAE **972.1 — "Servicios de peluquería de señora y de caballero"**, que es donde encaja el trenzado como servicio capilar. Cuota anual orientativa 150-300 €, varía por comunidad. Fuente: [IAE 972.1 — Peluquería para Señoras y Caballeros](https://conversoriaecnae.substack.com/p/iae-9721-peluqueria-para-senoras) — ⚠️ un solo blog especializado como fuente, sin segunda fuente independiente que confirme la cuota orientativa exacta (el epígrafe en sí, 972.1, sí coincide con el mismo listado usado en [`tramites-administrativos.md`](./tramites-administrativos.md), que cita el anexo oficial de la Ley 12/2012 vía [dipalme.org](https://www.dipalme.org/Servicios/Organizacion/servicios.nsf/0/75AE663F349B2256C1258522003D15ED/$FILE/ANEXO%20LEY%2012-2012.pdf)).
 
 ### 2. Licencia de apertura del local / actividad — clasificación conocida, trámite a confirmar caso a caso
 
-En Canarias, la actividad de peluquería/centro de estética está clasificada como **actividad inocua** (Decreto 52/2012), lo que simplifica el trámite frente a actividades molestas o insalubres. Documentación habitual para la licencia de apertura de un local de este tipo en Tenerife:
+En Canarias, la actividad de peluquería/centro de estética está clasificada como **actividad inocua** ([Decreto 52/2012 — BOC](https://www.gobiernodecanarias.org/boc/2012/117/001.html)), lo que simplifica el trámite frente a actividades molestas o insalubres. Documentación habitual para la licencia de apertura de un local de este tipo en Tenerife, según dos fuentes de gestoría especializada que coinciden en el listado — [Licencias Tenerife](https://www.licenciastenerife.es/2016/06/13/licenciaaperturapeluqueria/) y [HelloCash](https://hellocash.es/blog/abrir-una-peluqueria/21722):
 
 - Certificado técnico de actividad inocua.
 - Contrato de alquiler o escritura del local.
@@ -28,23 +28,25 @@ En Canarias, la actividad de peluquería/centro de estética está clasificada c
 
 Aquí encontré una contradicción entre fuentes que no puedo resolver por búsqueda web y que conviene verificar con un gestor antes de dar esto por seguro:
 
-- Varias fuentes coinciden en que **la legislación española no exige título oficial para ejercer como peluquero/a ni para abrir una peluquería** con carácter general.
-- Pero al menos una fuente afirma que **para ejercer como barbero se exige, con carácter general, el Certificado de Profesionalidad de Peluquería o el Técnico en Peluquería y Cosmética Capilar**, y que al menos una persona vinculada al establecimiento debe tener esa titulación — sin aclarar si esto aplica solo a corte/afeitado (barbería) o también a servicios de trenzado que no implican corte ni química capilar.
+- Coinciden en que **la legislación española no exige título oficial para ejercer como peluquero/a ni para abrir una peluquería** con carácter general dos fuentes independientes: [Ser peluquero sin título: ¿es posible? — Campus Training](https://www.campustraining.es/noticias/puede-ser-peluquero-tener-titulo/) y, de forma más tangencial (centrado en los trámites generales de apertura, no en el título en sí), [HelloCash](https://hellocash.es/blog/abrir-una-peluqueria/21722).
+- Pero al menos una fuente afirma que **para ejercer como barbero se exige, con carácter general, el Certificado de Profesionalidad de Peluquería o el Técnico en Peluquería y Cosmética Capilar**, y que al menos una persona vinculada al establecimiento debe tener esa titulación — sin aclarar si esto aplica solo a corte/afeitado (barbería) o también a servicios de trenzado que no implican corte ni química capilar. Fuente única, sin segunda fuente que la confirme o contradiga: [Requisitos para abrir una barbería en España — Grupo Belleza](https://grupobelleza.com/blogs/news/requisitos-para-abrir-una-barberia).
 
 **No doy por buena ninguna de las dos lecturas sin más verificación.** El trenzado no es corte ni afeitado (que es donde parece concentrarse la exigencia más estricta encontrada), así que es razonable pensar que cae en el régimen general sin título obligatorio, pero es una inferencia mía, no una confirmación. Antes de dejar entrar a una autónoma a hacer trenzas sin titulación formal, confirmar con un gestor o con el propio Ayuntamiento de Arona.
 
 ### 4. Otros
 
-- **Seguro de responsabilidad civil** de la autónoma (habitual y recomendable para cualquier profesional que presta servicio a clientes en un local, exigido explícitamente en la documentación de licencia de apertura).
-- Si se usan productos (colas para extensiones, keratina, tintes de cabello sintético, etc.), estos deben cumplir la normativa cosmética general de la UE — no hay un requisito de titulación adicional detectado por esto, pero sí de uso de producto homologado.
+- **Seguro de responsabilidad civil** de la autónoma (habitual y recomendable para cualquier profesional que presta servicio a clientes en un local, exigido explícitamente en la documentación de licencia de apertura citada arriba — [Licencias Tenerife](https://www.licenciastenerife.es/2016/06/13/licenciaaperturapeluqueria/)).
+- Si se usan productos (colas para extensiones, keratina, tintes de cabello sintético, etc.), estos deben cumplir la normativa cosmética general de la UE — no hay un requisito de titulación adicional detectado por esto, pero sí de uso de producto homologado. ⚠️ Esta última afirmación (normativa cosmética UE) no se ha verificado con una fuente específica en esta ficha — es una inferencia razonable por el régimen general de cosméticos, no una confirmación puntual.
 
 ## Estado
 
-Requisitos de alta de actividad y clasificación del local: confirmados con fuentes razonablemente fiables (blogs especializados en licencias y gestoría, no texto legal oficial de primera mano). Titulación profesional: sin resolver, contradicción entre fuentes — pendiente de confirmar con gestor/Ayuntamiento de Arona antes de tomarlo como definitivo. Si la propietaria sigue adelante con esta opción, este es el primer punto a aclarar formalmente.
+Requisitos de alta de actividad y clasificación del local: confirmados con fuentes razonablemente fiables (blogs especializados en licencias y gestoría, no texto legal oficial de primera mano, salvo el Decreto 52/2012 del BOC que sí es fuente oficial). Titulación profesional: sin resolver, contradicción entre fuentes — pendiente de confirmar con gestor/Ayuntamiento de Arona antes de tomarlo como definitivo. Si la propietaria sigue adelante con esta opción, este es el primer punto a aclarar formalmente.
 
 ## Fuentes consultadas
 
+- [Seguridad Social — Alta en trabajo autónomo (RETA)](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Altas,+bajas+y+modificaciones/Altas+y+afiliacion+de+trabajadores/Alta_trabajo_autonomo)
 - [IAE 972.1 — Peluquería para Señoras y Caballeros](https://conversoriaecnae.substack.com/p/iae-9721-peluqueria-para-senoras)
+- [Decreto 52/2012 (nomenclátor actividades clasificadas de Canarias) — BOC](https://www.gobiernodecanarias.org/boc/2012/117/001.html)
 - [Requisitos para abrir una peluquería en España — HelloCash](https://hellocash.es/blog/abrir-una-peluqueria/21722)
 - [Licencia de apertura para peluquería — Licencias Tenerife](https://www.licenciastenerife.es/2016/06/13/licenciaaperturapeluqueria/)
 - [Requisitos para abrir una barbería en España — Grupo Belleza](https://grupobelleza.com/blogs/news/requisitos-para-abrir-una-barberia)

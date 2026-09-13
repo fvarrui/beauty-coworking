@@ -4,19 +4,21 @@ Servicios propuestos en [`diversificacion.md`](./diversificacion.md). A diferenc
 
 ## Requisitos legales concretos
 
-Regulado por el **Decreto 154/2004, de 9 de noviembre**, del Gobierno de Canarias (reglamento de condiciones higiénico-sanitarias de tatuaje, micropigmentación y perforación corporal/piercing).
+Regulado por el **Decreto 154/2004, de 9 de noviembre**, del Gobierno de Canarias (reglamento de condiciones higiénico-sanitarias de tatuaje, micropigmentación y perforación corporal/piercing). Fuente oficial: [Gobierno de Canarias — Tatuaje, micropigmentación y piercing](https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=d466bf6f-e744-11df-bebe-cb4e35e0558b&idCarpeta=17df8cd0-a9a4-11dd-b574-dd4e320f085c), que remite al trámite concreto en la [Sede electrónica — Solicitud de informe sanitario para tatuaje, micropigmentación o piercing](https://sede.gobiernodecanarias.org/sede/tramites/8913). Al ser ambas páginas del propio Gobierno de Canarias (portal de Sanidad + sede electrónica), no se ha buscado una segunda fuente independiente adicional — se considera suficientemente fiable por tratarse de la fuente primaria oficial.
 
 ### Para el establecimiento (el local/cabina donde se practique)
 
 - Descripción del procedimiento de limpieza y desinfección de las instalaciones.
 - Contrato con empresa autorizada para recogida y eliminación de residuos (son residuos biosanitarios).
 - Plan de autocontrol detallando mantenimiento, limpieza, desinfección y esterilización.
-- **Informe sanitario** favorable, solicitable en la sede electrónica del Gobierno de Canarias (trámite específico, distinto de la licencia de apertura general de un salón de estética).
+- **Informe sanitario** favorable, solicitable en la sede electrónica del Gobierno de Canarias (trámite específico, distinto de la licencia de apertura general de un salón de estética) — ver enlace al trámite arriba.
 
 ### Para la persona que aplica el servicio
 
 - **Acreditación de formación del personal aplicador** (artículo 9 del Decreto 154/2004).
 - **Vacunación obligatoria frente a Hepatitis B y Tétanos** (artículo 7.1).
+
+(Ambos requisitos, con su artículo exacto, constan en la misma página oficial de [Gobierno de Canarias — Tatuaje, micropigmentación y piercing](https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=d466bf6f-e744-11df-bebe-cb4e35e0558b&idCarpeta=17df8cd0-a9a4-11dd-b574-dd4e320f085c) citada arriba.)
 
 ### Consecuencia práctica para el modelo de alquiler de cabinas
 
