@@ -21,9 +21,9 @@ Falta solo: nombre comercial del salón (si existe alguno más allá de "salón 
 ## 3. Análisis de mercado — 🟡
 
 Lo que ya hay:
-- Competencia directa identificada en Las Galletas (Opalo.H, Vanity Beauty Salon, Sun Massage, Sara Trujillo, Summernails...) con reseñas reales analizadas — ver [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-2026).
-- Perfil de turista de la zona (Arona recibe +2M turistas/año, mayoría británicos y alemanes) — fuente en [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-2026).
-- Evidencia real de demanda no cubierta (trenzas) y de problemas de calidad en la competencia (uñas, masajes) — también en [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-2026).
+- Competencia directa identificada en Las Galletas (Opalo.H, Vanity Beauty Salon, Sun Massage, Sara Trujillo, Summernails...) con reseñas reales analizadas — ver [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-septiembre-2026).
+- Perfil de turista de la zona: sin cifra propia de Arona (se intentó confirmar y se retiró por no tener fuente primaria), pero sí contexto fiable de Canarias/Tenerife — Reino Unido como primer mercado emisor y Alemania como segundo — ver [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-septiembre-2026).
+- Evidencia real de demanda no cubierta (trenzas) y de problemas de calidad en la competencia (uñas, masajes) — también en [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-septiembre-2026).
 - **Mercado del propio modelo de coworking** (no solo de servicios de belleza): operadores reales de coworking/salon suites en España y fuera, precios, qué incluyen y casos de fracaso documentados — [`casos-reales-coworking.md`](../negocio/casos-reales-coworking.md); y una propuesta concreta de canales y anuncios reales para captar inquilinas — [`propuesta-oferta-coworking.md`](../negocio/propuesta-oferta-coworking.md). Esto cubre la demanda del lado de las **inquilinas** (quién alquilaría cabina), que es tan importante para este modelo como la demanda de clientas finales.
 
 Lo que falta y bloquea cerrar la sección:
@@ -89,7 +89,7 @@ A diferencia de las demás secciones, un DAFO **sí se puede empezar a redactar 
 - Local en propiedad, sin coste de alquiler, y **ya preparado para 3 puestos sin obra ni inversión previa** (salón central + 2 cubículos).
 - Ubicación céntrica en calle peatonal, con tráfico peatonal alto.
 - Modelo ya probado de facto y generando ingresos reales: salón central alquilado a la profesional de pedicura por 300 €/mes.
-- Buena valoración de la competencia directa en uñas (Opalo.H, 4,8/5, ver [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-2026)) sugiere que el mercado de uñas en la zona responde bien a calidad — punto de referencia, no debilidad propia.
+- Buena valoración de la competencia directa en uñas (Opalo.H, 4,8/5, ver [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-septiembre-2026)) sugiere que el mercado de uñas en la zona responde bien a calidad — punto de referencia, no debilidad propia.
 - El modelo de coworking de belleza **ya funciona en el mercado español** (Alzentro y Beauty Loft en Madrid, Wapa'm en Barcelona, entre otros) — no es una apuesta sin precedente, aunque no hay todavía ningún caso equivalente confirmado en Tenerife (ver [`casos-reales-coworking.md`](../negocio/casos-reales-coworking.md#2-casos-en-españa--sí-existen-operadores-reales)).
 
 **Debilidades**
@@ -101,8 +101,8 @@ A diferencia de las demás secciones, un DAFO **sí se puede empezar a redactar 
 **Oportunidades**
 - Ayuda pública del Cabildo específica para peluquerías/centros de estética (60% de inversión, hasta 10.000 €, ver [`ayudas-subvenciones.md`, sección 2.1](../negocio/ayudas-subvenciones.md#21-subvención-destinada-a-la-reforma-de-locales-y-equipamiento-para-comercio-minorista-restauración-y-servicios-personales-2026)), aplicable a equipamiento de los cubículos en vez de a obra — plazo 2026 ya cerrado, pero es anual: vigilar la convocatoria 2027.
 - Centro de FP en el mismo pueblo ([IES Las Galletas](../negocio/opcion-alumnado-fp-dual.md#centro-identificado-ies-las-galletas-agosto-2026)) como cantera de talento para cubrir los cubículos.
-- Demanda real detectada sin cubrir en la zona (trenzas) y competencia con problemas de calidad documentados en uñas y masajes — ver [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-2026) — hueco para diferenciarse al elegir qué perfil atraer a los cubículos.
-- Perfil turístico de la zona (+2M turistas/año, británicos/alemanes, [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-2026)) alineado con varios servicios candidatos.
+- Demanda real detectada sin cubrir en la zona (trenzas) y competencia con problemas de calidad documentados en uñas y masajes — ver [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-septiembre-2026) — hueco para diferenciarse al elegir qué perfil atraer a los cubículos.
+- Perfil turístico predominantemente británico y, en menor medida, alemán (Canarias/Tenerife en conjunto, sin cifra propia de Arona — [`diversificacion.md`](../negocio/diversificacion.md#validación-con-evidencia-real-agosto-septiembre-2026)) alineado con varios servicios candidatos.
 
 **Amenazas**
 - Zona con oferta de estética ya relativamente cubierta en lo "estándar" (peluquería, uñas, depilación, cejas/pestañas).
