@@ -1,6 +1,6 @@
 # El local
 
-- **Ubicación**: bajo comercial en **Calle Fundadores**, Las Galletas (Arona, Tenerife) — calle peatonal en el centro del pueblo.
+- **Ubicación**: bajo comercial en Las Galletas (Arona, Tenerife) — calle peatonal en el centro del pueblo.
 - **Régimen de tenencia**: **propiedad de la propietaria** (no alquiler).
 - **Distribución**: el local ya tiene, **sin necesidad de obra ni reforma**, 3 puestos de trabajo independientes:
   - **Salón central**, justo a la entrada del local (recepción + zona principal): ocupado hoy por una **profesional de pedicura**, autónoma sin relación de parentesco con la propietaria. Le paga a la propietaria **300 €/mes** por el espacio.

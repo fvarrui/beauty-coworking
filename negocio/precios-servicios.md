@@ -1,6 +1,6 @@
 # Ficha de precios actuales por servicio
 
-**Estado: plantilla vacía.** No he encontrado un listado de precios público de la propietaria (no localicé el salón en Treatwell/Booksy/Fresha ni una web propia bajo su nombre en Calle Fundadores), así que estos precios los tiene que rellenar la propietaria directamente — no están inventados. En cuanto los facilite, se completa esta tabla y se marca como resuelto en [`pendientes.md`](./pendientes.md).
+**Estado: plantilla vacía.** No he encontrado un listado de precios público de la propietaria (no localicé el salón en Treatwell/Booksy/Fresha ni una web propia bajo su nombre), así que estos precios los tiene que rellenar la propietaria directamente — no están inventados. En cuanto los facilite, se completa esta tabla y se marca como resuelto en [`pendientes.md`](./pendientes.md).
 
 Nota: La propietaria deja de ejercer como esteticista y traspasa esta cartera al profesional que ocupe uno de los cubículos (ver [`diversificacion.md`](./diversificacion.md)) — esta tabla sigue siendo útil como referencia de los precios/servicios que esa cartera ya tenía, de cara a informar a quien la reciba.
 

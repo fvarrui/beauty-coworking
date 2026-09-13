@@ -10,7 +10,7 @@ Lista de datos que aún no se han recabado y que son necesarios para construir u
 - [ ] ¿El acuerdo con la profesional de pedicura está formalizado por escrito o es informal?
 
 ## Local
-- [x] Régimen de tenencia: **propiedad de la gestora** (bajo en Calle Fundadores, Las Galletas — calle peatonal céntrica). No aplica coste de alquiler/hipoteca.
+- [x] Régimen de tenencia: **propiedad de la gestora** (bajo en Las Galletas — calle peatonal céntrica). No aplica coste de alquiler/hipoteca.
 - [x] Ampliación/reforma: **descartada**. El local ya tiene, sin obra, capacidad para 3 puestos (salón central + 2 cubículos). Ver [`local.md`](./local.md).
 - [ ] Superficie y planos (del salón central y de cada cubículo).
 - [ ] Equipamiento y material del que dispone hoy cada espacio del local (salón central, Cubículo 1, Cubículo 2): mobiliario, aparatología, lencería, etc. — necesario para saber qué se queda para el siguiente inquilino y qué habría que reponer o retirar.

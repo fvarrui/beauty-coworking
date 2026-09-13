@@ -25,7 +25,7 @@ Los 400 €/mes objetivo están en línea con la referencia de mercado ya recogi
 
 ## A favor de la idea
 
-El local es **propiedad** de la propietaria (sin alquiler que limite el uso) y está en **Calle Fundadores**, una calle peatonal céntrica de Las Galletas — buena visibilidad y tráfico peatonal, lo que hace más atractivo el espacio tanto para clientela como para los autónomos que alquilarían cabina. Detalle en [`local.md`](./local.md).
+El local es **propiedad** de la propietaria (sin alquiler que limite el uso) y está en una calle peatonal céntrica de Las Galletas — buena visibilidad y tráfico peatonal, lo que hace más atractivo el espacio tanto para clientela como para los autónomos que alquilarían cabina. Detalle en [`local.md`](./local.md).
 
 ## Por qué es una diversificación relevante para el plan de negocio
 

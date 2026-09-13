@@ -2,7 +2,9 @@
 description: Regenera la presentación web (docs/) a partir de todo lo recopilado en negocio/ y plan-negocio/
 ---
 
-Regenera por completo el sitio de `docs/` (portada `index.html` + una página por capítulo en `chapters/`), siguiendo estas reglas. Este comando **sustituye** al antiguo `/summary` — ya no se genera `resumen.md`; el entregable para la propietaria es siempre esta presentación web.
+Regenera por completo el sitio de `docs/` (portada `index.html` + una página por sección en `chapters/`), siguiendo estas reglas. Este comando **sustituye** al antiguo `/summary` — ya no se genera `resumen.md`; el entregable para la propietaria es siempre esta presentación web.
+
+Las unidades de contenido se llaman **secciones**, no "capítulos" — etiquétalas siempre como "Sección 01", "Sección 02"... (breadcrumb, tarjetas de portada, sidebar) aunque la carpeta técnica siga llamándose `chapters/`.
 
 ## 0. Antes de nada
 
@@ -12,11 +14,11 @@ Regenera por completo el sitio de `docs/` (portada `index.html` + una página po
 
 ## 1. Formato y sistema visual — mantén el existente, no lo reinventes
 
-El sitio ya tiene un sistema de diseño (estilo Docusaurus: navbar superior, sidebar de capítulos a la izquierda, contenido central, "En esta página" a la derecha, paginación anterior/siguiente, modo claro/oscuro, responsive, con letra legible). Reutiliza:
+El sitio ya tiene un sistema de diseño (estilo Docusaurus: navbar superior, sidebar de secciones a la izquierda, contenido central, "En esta página" a la derecha, paginación anterior/siguiente, modo claro/oscuro, responsive, con letra legible). Reutiliza:
 
 - `docs/assets/style.css` — hoja de estilos compartida. Amplíala si necesitas una clase nueva para algo que no exista todavía, pero no rehagas la paleta ni la tipografía sin que te lo pidan explícitamente.
 - `docs/assets/app.js` — toggle de tema + menú móvil.
-- Un icono (emoji) por capítulo, coherente con su contenido, visible en el sidebar, en la tarjeta de portada y en el título de la página.
+- Un icono (emoji) por sección, coherente con su contenido, visible en el sidebar, en la tarjeta de portada y en el título de la página.
 
 Si `docs/` no existe todavía o está vacío, créalo siguiendo esta misma estructura desde cero.
 
@@ -40,7 +42,7 @@ A diferencia del antiguo resumen de una página, esta presentación debe **inclu
 
 ## 4. Estructura de contenido sugerida
 
-Adapta esta estructura a lo que exista realmente en `negocio/` y `plan-negocio/` en cada momento (añade, quita o reordena capítulos si el contenido ha cambiado sustancialmente), pero como referencia de partida:
+Adapta esta estructura a lo que exista realmente en `negocio/` y `plan-negocio/` en cada momento (añade, quita o reordena secciones si el contenido ha cambiado sustancialmente), pero como referencia de partida:
 
 1. El negocio hoy (local, equipo — situación actual real, no el plan futuro — y servicios)
 2. El cambio de modelo (la decisión, el plan de transición, organigrama de gestión)
@@ -60,6 +62,6 @@ Adapta esta estructura a lo que exista realmente en `negocio/` y `plan-negocio/`
 
 ## 5. Cierre
 
-Cierra la página del último capítulo con una nota de agradecimiento breve, recordando que el detalle completo (fuentes incluidas) está en `negocio/` y `plan-negocio/`, y que la presentación se puede regenerar en cualquier momento con `/presentar`.
+Cierra la página de la última sección con una nota de agradecimiento breve, recordando que el detalle completo (fuentes incluidas) está en `negocio/` y `plan-negocio/`, y que la presentación se puede regenerar en cualquier momento con `/presentar`.
 
-Sobrescribe `docs/` por completo (borra páginas de capítulos que ya no correspondan) para que el sitio publicado siempre refleje el estado más reciente de `negocio/` y `plan-negocio/`. `docs/` es exclusivamente la salida generada — no escribas notas ni contenido a mano ahí.
+Sobrescribe `docs/` por completo (borra páginas de secciones que ya no correspondan) para que el sitio publicado siempre refleje el estado más reciente de `negocio/` y `plan-negocio/`. `docs/` es exclusivamente la salida generada — no escribas notas ni contenido a mano ahí.

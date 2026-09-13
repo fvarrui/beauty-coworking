@@ -2,7 +2,7 @@
 description: Construye o actualiza la sección económico-financiera del plan de negocio (plan-negocio/) a partir de los datos ya confirmados en negocio/
 ---
 
-Construye o actualiza el bloque económico-financiero del plan (`plan-negocio/`, p. ej. `financiero.md`): ingresos, costes, punto de equilibrio y proyección a 12 meses. Es la sección que hoy está más bloqueada (ver `estado-del-plan-de-negocio` / capítulo 12 de la presentación), así que trátala con más cuidado que las demás:
+Construye o actualiza el bloque económico-financiero del plan (`plan-negocio/`, p. ej. `financiero.md`): ingresos, costes, punto de equilibrio y proyección a 12 meses. Es la sección que hoy está más bloqueada (ver `estado-del-plan-de-negocio` / sección 12 de la presentación), así que trátala con más cuidado que las demás:
 
 ## 1. Reúne los datos ya confirmados
 
@@ -21,4 +21,4 @@ Gastos fijos habituales de un local de este tipo (suministros, seguro, gestoría
 
 ## 4. Al terminar
 
-Señala explícitamente qué inputs harían que este documento deje de ser provisional (qué preguntarle a la propietaria), y si procede, recuérdale al usuario regenerar la presentación con `/presentar` para que el capítulo "Los números" quede sincronizado.
+Señala explícitamente qué inputs harían que este documento deje de ser provisional (qué preguntarle a la propietaria), y si procede, recuérdale al usuario regenerar la presentación con `/presentar` para que la sección "Los números" quede sincronizada.
