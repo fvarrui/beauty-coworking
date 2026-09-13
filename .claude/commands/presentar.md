@@ -22,14 +22,15 @@ El sitio ya tiene un sistema de diseño (estilo Docusaurus: navbar superior, sid
 
 Si `docs/` no existe todavía o está vacío, créalo siguiendo esta misma estructura desde cero.
 
-## 2. Diagramas — usa Mermaid, limpios y claros
+## 2. Diagramas — solo si aportan, y en Mermaid
 
-Los diagramas del sitio (planta del local, organigrama de gestión, transición antes/después del modelo, línea de tiempo de próximos pasos, y cualquier otro que ayude a explicar algo estructural) deben construirse con **Mermaid**, no con divs de CSS a medida:
+**No añadas un diagrama porque "queda bien" o porque la sección lo admite.** Antes de meter uno, pregúntate si una tabla, una lista o un párrafo ya cuentan lo mismo igual de claro — si es así, no hace falta diagrama. Un diagrama se justifica cuando muestra una **relación, un flujo o una estructura** que en prosa cuesta seguir (quién depende de quién, un proceso con pasos, un antes/después, una línea temporal). Ejemplos que sí aportan: organigrama de gestión (sección 2), transición antes/después del modelo (sección 2), línea de tiempo de próximos pasos (sección 15). Ejemplo que **no** aporta y no debe repetirse: un diagrama de "planta del local" a base de cajas conectadas — no representa la disposición real del espacio (Mermaid no dibuja planos) y la tabla de "quién ocupa qué espacio hoy" ya da esa misma información mejor.
 
-- Carga Mermaid vía CDN (`<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js">` o cdnjs) una vez por página que lo necesite, e inicialízalo con `mermaid.initialize({ startOnLoad: true, theme: ... })`. Ajusta el tema de Mermaid (claro/oscuro) al `data-theme` activo de la página para que combine con el resto del sitio.
-- Usa el tipo de diagrama Mermaid que mejor encaje: `flowchart` para el organigrama y la transición antes/después, `timeline` o `flowchart LR` para la línea de tiempo de próximos pasos, `flowchart`/`graph` para la planta del local (representada como cajas conectadas o agrupadas, ya que Mermaid no dibuja planos arquitectónicos reales).
+Cuando un diagrama sí esté justificado, constrúyelo con **Mermaid**, no con divs de CSS a medida:
+
+- Carga Mermaid vía CDN (`<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js">` o cdnjs) una vez por página que lo necesite, e inicialízalo con `mermaid.initialize({ startOnLoad: true, theme: ... })`. Ajusta el tema de Mermaid (claro/oscuro) al `data-theme` activo de la página para que combine con el resto del sitio. No incluyas el script de Mermaid en páginas sin ningún diagrama.
 - Prioriza que cada diagrama se entienda de un vistazo: etiquetas cortas y claras, sin abarrotar, con el precio/estado como parte de la etiqueta cuando aporte información (p. ej. "Salón central — 300 €/mes — ocupado").
-- Los datos en €/estado que aparezcan en KPIs sueltos (no relacionales) pueden seguir como bloques HTML/CSS normales (`.kpi-row`, tablas, etc.) — Mermaid es para lo que es genuinamente un diagrama (relaciones, flujo, estructura), no para todo.
+- Los datos en €/estado que aparezcan en KPIs sueltos (no relacionales) van como bloques HTML/CSS normales (`.kpi-row`, tablas, etc.), nunca como diagrama.
 
 ## 3. Nivel de detalle — denso, no un resumen
 

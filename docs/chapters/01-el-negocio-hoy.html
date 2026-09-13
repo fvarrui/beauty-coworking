@@ -85,23 +85,8 @@
         <span class="tag">Importante</span>
         <p>La profesional de pedicura <strong>no tiene ninguna relación de parentesco</strong> con la propietaria — es una autónoma que ya trabaja en el local por su cuenta, con un acuerdo de alquiler de espacio ya en marcha.</p>
       </div>
-    
-
-      <h2 id="diagrama-planta-del-local">Diagrama: planta del local</h2>
-
-      <p>Así se reparte el local hoy — quién ocupa cada espacio y en qué condición:</p>
-      <div class="mermaid-wrap"><pre class="mermaid">
-flowchart LR
-    E([Entrada del local]) --> SC["🪑 Salón central<br/>Profesional de pedicura<br/>300 €/mes · ocupado"]
-    E --> F{Fondo del local}
-    F --> C1["💆 Cubículo 1<br/>La propietaria<br/>estética/depilación · ocupado hoy"]
-    F --> C2["🚪 Cubículo 2<br/>Libre"]
-    style SC fill:#e6f6ec,stroke:#2e8555
-    style C1 fill:#fce4ec,stroke:#c2185b
-    style C2 fill:#fff8e6,stroke:#a66a00
-</pre></div>
       <p class="muted">El Cubículo 2 ya está libre <em>sin que nadie tenga que dejarlo</em>. El Cubículo 1 se liberará como parte del plan de transición (sección 2).</p>
-    
+
 
       <h2 id="servicios-actuales">Servicios actuales</h2>
 
@@ -144,35 +129,12 @@ flowchart LR
       <ul>
       <li><a href="#el-local">El local</a></li>
       <li><a href="#quien-trabaja-hoy-en-el-espacio">Quién trabaja hoy en el espacio</a></li>
-      <li><a href="#diagrama-planta-del-local">Diagrama: planta del local</a></li>
       <li><a href="#servicios-actuales">Servicios actuales</a></li>
       <li><a href="#pendiente-de-documentar">Pendiente de documentar</a></li>
       </ul>
     </aside>
 </div>
 <script src="../assets/app.js"></script>
-
-<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
-<script>
-(function(){
-  var dark = document.documentElement.getAttribute('data-theme') === 'dark' ||
-    (!document.documentElement.hasAttribute('data-theme') && window.matchMedia('(prefers-color-scheme: dark)').matches);
-  mermaid.initialize({
-    startOnLoad: true,
-    theme: 'base',
-    securityLevel: 'loose',
-    themeVariables: dark ? {
-      primaryColor: '#3a2430', primaryBorderColor: '#f48fb1', primaryTextColor: '#e6e6e6',
-      lineColor: '#f48fb1', secondaryColor: '#242526', tertiaryColor: '#1b1b1d',
-      background: '#1b1b1d', mainBkg: '#242526', textColor: '#e6e6e6', pieOpacity: 0.9
-    } : {
-      primaryColor: '#fce4ec', primaryBorderColor: '#c2185b', primaryTextColor: '#1c1e21',
-      lineColor: '#c2185b', secondaryColor: '#f6f7f9', tertiaryColor: '#ffffff',
-      background: '#ffffff', mainBkg: '#f6f7f9', textColor: '#1c1e21', pieOpacity: 0.9
-    }
-  });
-})();
-</script>
 
 </body>
 </html>
