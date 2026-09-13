@@ -19,6 +19,7 @@ Repositorio de trabajo para preparar el plan de negocio del espacio de coworking
 - [`negocio/servicio-masajes.md`](./negocio/servicio-masajes.md) — ficha de requisitos legales para masaje especializado (relajante vs. terapéutico).
 - [`negocio/ayudas-subvenciones.md`](./negocio/ayudas-subvenciones.md) — ayudas públicas para financiar la posible ampliación del local.
 - [`negocio/contrato-alquiler-cabina.md`](./negocio/contrato-alquiler-cabina.md) — checklist de cláusulas para el contrato con cada autónomo que alquile cabina.
+- [`negocio/buenas-practicas-coworking.md`](./negocio/buenas-practicas-coworking.md) — qué tener en cuenta al crear y al gestionar el espacio de coworking, y cómo captar inquilinas.
 - [`negocio/pendientes.md`](./negocio/pendientes.md) — información pendiente de recabar para completar el plan de negocio.
 - [`plan-negocio/estructura.md`](./plan-negocio/estructura.md) — estructura del plan de negocio con estado de avance por sección y primer borrador de DAFO.
 - [`docs/`](./docs/index.html) — presentación web del plan de negocio (navegable, con diagramas), publicada con GitHub Pages en https://fvarrui.github.io/beauty-coworking/. Se regenera por completo con el comando `/presentar`; no editar a mano.
