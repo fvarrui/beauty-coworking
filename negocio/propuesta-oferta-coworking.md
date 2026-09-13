@@ -85,6 +85,27 @@ No hay una guía específica del sector belleza sobre esto — son recomendacion
 - **Autonomía real**: control efectivo sobre precios y horario — el argumento de venta nº1 en toda la literatura del sector, y algo que la propietaria puede ofrecer de forma creíble al ser un espacio pequeño y flexible, no una franquicia con normas rígidas.
 - **Carga de gestión** de su propio negocio (agenda, limpieza, stock) que alguien acostumbrado a trabajar por cuenta ajena puede infravalorar.
 
+## 6. Modelo dual: mensual para el Cubículo 1, flexible para el Cubículo 2
+
+**Recomendación propia**, construida sobre datos ya reunidos en las secciones 1-5 de este documento, no un hallazgo nuevo de fuente externa: los dos cubículos no tienen por qué ofrecerse con el mismo modelo de precio, porque no tienen el mismo punto de partida (ver la estrategia de secuenciación completa en [`diversificacion.md`](./diversificacion.md#estrategia-de-entrada-recomendada-empezar-por-el-cubículo-2)):
+
+- **Cubículo 1** — alquiler **mensual fijo** (~400 €/mes) **+ cartera de clientas activa** de la propietaria. Encaja con el perfil de "autónoma ya establecida que quiere independizarse" (sección 5) y con un compromiso de permanencia mínima, dado que se entrega un activo de valor (ver [`contrato-alquiler-cabina.md`](./contrato-alquiler-cabina.md)).
+- **Cubículo 2** — candidato a un modelo **flexible por días/horas**, siguiendo el patrón ya confirmado en el mercado: Beauty Loft Coworking (14 €/h cabina, bonos desde 10h) y el anuncio real de Barcelona a 15 €/hora (ver secciones 3 y 5 arriba). Encaja con el perfil "profesional itinerante o a tiempo parcial" que hoy no tiene ninguna oferta local a la que engancharse — y convierte el tamaño pequeño del local en una ventaja en vez de una limitación: puede que en Las Galletas no haya dos autónomas dispuestas a pagar 400 €/mes fijos, pero sí varias dispuestas a pagar por 1-2 días/semana.
+
+⚠️ Los precios por hora/día citados (Beauty Loft, Barcelona) son de otros mercados (Madrid, Barcelona) — no hay ninguna referencia de precio flexible específica de Tenerife o Canarias; el precio concreto para el Cubículo 2 en este modelo habría que validarlo con el propio piloto (ver [`../plan-negocio/validacion.md`](../plan-negocio/validacion.md)), no fijarlo de antemano.
+
+## 7. La cartera de clientas como argumento de venta del Cubículo 1
+
+Desarrollado con más detalle en [`diversificacion.md`](./diversificacion.md#la-cartera-de-clientas-como-parte-de-la-oferta-del-cubículo-1-idea-a-desarrollar-falta-un-dato): el Cubículo 1 no debería anunciarse solo como "cabina en alquiler", sino como espacio equipado **con clientela activa incorporada** — un argumento distinto al de cualquiera de los 5 anuncios reales recogidos en la sección 3, ninguno de los cuales ofrece cartera. Falta un dato para poder cuantificarlo (facturación de la cartera, ver [`pendientes.md`](./pendientes.md#económico)); sin él, se puede mencionar el traspaso de cartera pero no ponerle una cifra.
+
+## 8. Borrador de anuncio piloto (texto de ejemplo, no publicado)
+
+**Esto es un borrador propio de ejemplo**, no un anuncio real ni una cita — sirve como punto de partida para el piloto del Cubículo 2 (ver [`../plan-negocio/validacion.md`](../plan-negocio/validacion.md)), siguiendo el patrón de los 5 anuncios reales de la sección 3 (precio visible, qué incluye, ubicación, perfil al que va dirigido, tono cercano) y evitando venderlo como "coworking" (término interno, no el lenguaje que usan los anuncios reales revisados):
+
+> *Cabina profesional equipada en centro de estética consolidado, en calle peatonal céntrica de Las Galletas. Para profesional autónoma con cartera propia (masaje, trenzas, micropigmentación u otra especialidad). Gastos incluidos (agua, luz, wifi). Disponible por días/horas o mes completo — precio orientativo 350-400 €/mes o por jornada, a concretar según condiciones. Trabaja por tu cuenta sin asumir el coste de montar un local propio.*
+
+Puntos que quedan explícitos a propósito (no ocultarlos para no generar candidatas que luego no encajan): se pide cartera propia (coherente con el aviso del foro de BeautyMarket, sección 4), y el precio se deja "orientativo" porque no está cerrado (ver [`pendientes.md`](./pendientes.md)).
+
 ## Resumen de huecos de información (no inventar, confirmar antes de dar por buenos)
 
 - No hay confirmación de grupos o comunidades activas de profesionales de estética en Tenerife/Canarias — buscar manualmente en Facebook/Instagram.

@@ -24,6 +24,7 @@ Repositorio de trabajo para preparar el plan de negocio del espacio de coworking
 - [`negocio/pendientes.md`](./negocio/pendientes.md) — información pendiente de recabar para completar el plan de negocio.
 - [`plan-negocio/estructura.md`](./plan-negocio/estructura.md) — estructura del plan de negocio con estado de avance por sección y primer borrador de DAFO.
 - [`plan-negocio/financiero.md`](./plan-negocio/financiero.md) — plan económico-financiero: ingresos, costes, punto de equilibrio y escenarios (provisional, faltan los costes fijos del local).
+- [`plan-negocio/validacion.md`](./plan-negocio/validacion.md) — plan de validación de 30 días para el Cubículo 2 (oferta piloto, entrevistas, criterio de decisión GO/REVISAR/NO-GO), antes de tocar el Cubículo 1.
 - [`docs/`](./docs/index.html) — presentación web del plan de negocio (navegable, con diagramas), publicada con GitHub Pages en https://fvarrui.github.io/beauty-coworking/. Se regenera por completo con el comando `/presentar`; no editar a mano.
 
 ## Cómo se usa este repo

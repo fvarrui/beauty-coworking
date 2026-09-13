@@ -37,7 +37,7 @@ Detalle completo y por qué importa cada punto en [`../plan-negocio/financiero.m
 - [ ] **Costes fijos mensuales del local**: suministros de zonas comunes (agua/luz/internet), seguro multirriesgo + RC como arrendadora, gestoría/asesoría fiscal, IBI, comunidad de propietarios (si aplica), mantenimiento de zonas comunes. Es el dato que más cambiaría el plan económico-financiero — sin él no hay punto de equilibrio real.
 - [ ] **Si los ~400 €/mes objetivo de cada cubículo son importe bruto (factura) o neto (lo que espera cobrar)** — cambia el ingreso real en más de un 15% por el efecto combinado de IVA (21%, lo repercute la propietaria) y retención de IRPF (19%, la retiene cada inquilina). Ver [`tramites-administrativos.md`](./tramites-administrativos.md#4-iva-e-irpf-del-alquiler-de-las-cabinas).
 - [ ] Precios actuales por servicio. Plantilla lista para rellenar en [`precios-servicios.md`](./precios-servicios.md) — no localizados online, los tiene que dar la propietaria directamente.
-- [ ] Facturación aproximada (mensual/anual) de la propietaria y de la profesional de pedicura.
+- [ ] Facturación aproximada (mensual/anual) de la propietaria y de la profesional de pedicura — además de para el plan económico, permitiría cuantificar el valor de la cartera que se traspasa al Cubículo 1 como argumento de venta (ver [`diversificacion.md`](./diversificacion.md#la-cartera-de-clientas-como-parte-de-la-oferta-del-cubículo-1-idea-a-desarrollar-falta-un-dato)).
 - [ ] Rentabilidad por línea de negocio (estética vs. uñas).
 
 ## Objetivos de diversificación
@@ -49,5 +49,7 @@ Detalle completo y por qué importa cada punto en [`../plan-negocio/financiero.m
 - [ ] A cambio de qué traspasa la propietaria su cartera de clientas al inquilino que la reciba (¿condición del alquiler, periodo de permanencia mínima exigido?).
 - [ ] Plazos deseados para cubrir los 2 cubículos, y cuánto tiempo puede permitirse la propietaria estar sin el ingreso de su propia actividad mientras tanto.
 - [ ] Quién gestionará el día a día del espacio (recepción, captación de inquilinos): ¿la propia propietaria, alguien contratado?
+- [ ] **¿Acepta la propietaria empezar por el Cubículo 2** (ya libre, sin dejar de ejercer) **como piloto de 30 días antes de tocar el Cubículo 1**? Es la recomendación de secuenciación propuesta en [`diversificacion.md`](./diversificacion.md#estrategia-de-entrada-recomendada-empezar-por-el-cubículo-2) y detallada semana a semana en [`../plan-negocio/validacion.md`](../plan-negocio/validacion.md) — es el paso más urgente y accionable de todo el plan, porque no depende de ningún dato que falte.
+- [ ] **¿Prefiere el mismo modelo de precio para los 2 cubículos, o un modelo dual** (mensual + cartera en el Cubículo 1, flexible por días/horas en el Cubículo 2)? Ver [`propuesta-oferta-coworking.md`](./propuesta-oferta-coworking.md#6-modelo-dual-mensual-para-el-cubículo-1-flexible-para-el-cubículo-2).
 
 Preguntas específicas para la propietaria sobre el modelo de alquiler de espacios — ver también [`diversificacion.md`](./diversificacion.md#preguntas-abiertas-para-la-propietaria).

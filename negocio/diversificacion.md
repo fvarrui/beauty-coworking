@@ -54,6 +54,25 @@ En contra / riesgos a validar antes de dar por buena la idea:
 
 **Conclusión superficial**: la idea tiene lógica de negocio, el local ya está listo sin inversión previa y hay un precedente real generando ingresos, pero antes de dar el salto hace falta (a) validar que hay autónomos interesados en alquilar los 2 cubículos y (b) tener claro cuánto tiempo puede permitirse la propietaria estar sin el ingreso de su propia actividad mientras se cubren.
 
+## Estrategia de entrada recomendada: empezar por el Cubículo 2
+
+**Recomendación propia** (no es un hallazgo de fuente externa, es una lectura de los propios datos ya registrados arriba) para reducir el riesgo (b) sin tener que resolverlo con más investigación: los dos cubículos no tienen por qué activarse a la vez, y de hecho **no deberían**, porque no arrancan desde el mismo punto:
+
+- El **Cubículo 2** está libre **ahora mismo**, no depende de que la propietaria deje de ejercer ni de traspasar ninguna cartera. Es el único de los dos que se puede alquilar sin coste de oportunidad para su actividad actual.
+- El **Cubículo 1** solo se libera cuando la propietaria deja de ejercer y traspasa su cartera — es decir, activarlo significa perder de golpe el ingreso de su actividad de hoy, exactamente el riesgo (b) señalado arriba y sin colchón estimado todavía (ver [`pendientes.md`](./pendientes.md)).
+
+**Secuencia recomendada**: alquilar primero el Cubículo 2 y usarlo como piloto real (ver [`../plan-negocio/validacion.md`](../plan-negocio/validacion.md) para el plan de 30 días) sin tocar todavía el Cubículo 1. Si el Cubículo 2 se alquila de forma estable, la propietaria pasa a tener 300 € (salón central) + ~350-400 € (Cubículo 2) = **650-700 €/mes** sin haber dejado de ejercer — y solo entonces valorar liberar el Cubículo 1. Esto no resuelve la pregunta (a) — si hay demanda real de autónomas — pero la responde con datos del propio local en vez de con más búsqueda externa, y evita que la propietaria asuma el riesgo (b) antes de saber si (a) es cierto.
+
+⚠️ Esto es una recomendación de secuenciación, no una decisión tomada — la propietaria puede preferir liberar antes el Cubículo 1 por otros motivos (p. ej. si quiere dejar de ejercer cuanto antes por razones personales, no solo económicas). Ver pregunta abierta correspondiente más abajo.
+
+## La cartera de clientas como parte de la oferta del Cubículo 1 (idea a desarrollar, falta un dato)
+
+El Cubículo 1 no se ofrecería solo como espacio vacío: quien lo ocupe recibe además la **cartera de clientas activa** de la propietaria (ver "Preguntas abiertas" más abajo y [`equipo.md`](./equipo.md)). Eso cambia la propuesta de "te alquilo una cabina de 400 €/mes" a algo más parecido a "espacio equipado dentro de un negocio que ya funciona, con clientela activa incorporada" — un argumento de venta más fuerte que el de un cubículo aislado, y coherente con que el sector confirma que la clientela sigue mayoritariamente al profesional (ver el dato de EE. UU. en [`propuesta-oferta-coworking.md`](./propuesta-oferta-coworking.md#5-qué-perfil-de-profesional-suele-alquilar-cabina-y-qué-le-preocupa)).
+
+**Por qué no se puede cuantificar todavía**: para convertir esto en un argumento de venta concreto ("esta cartera genera aproximadamente X servicios/mes y Y € de facturación") hace falta la facturación real de la propietaria, que sigue sin registrar — ver [`pendientes.md`](./pendientes.md#económico) y la plantilla vacía de [`precios-servicios.md`](./precios-servicios.md). Sin ese dato, mencionar la cartera como argumento de venta es razonable, pero ponerle una cifra encima sería inventarla.
+
+
+
 ## Qué servicios podrían cubrir el hueco (no repetir lo que ya hay en la zona)
 
 Búsqueda rápida de la oferta actual en Las Galletas: ya hay peluquería, uñas, depilación, cejas/pestañas (lifting, extensiones), micropigmentación de cejas, masajes generales, barbería masculina, y la clínica de dermoestética citada arriba (Rogaz Dermoestética). Para que el salón de la propietaria funcione como **espacio integral** (varios especialistas, sin duplicar servicio entre ellos, cubriendo a la mayor variedad de clientas posible — locales y turistas), estos son los huecos con más sentido:
@@ -115,6 +134,8 @@ Ya resueltas: modelo de alquiler (renta fija mensual), local vs. ampliación (no
 - [ ] **Traspaso de la cartera de clientas de la propietaria**: ¿a cambio de qué se traspasa (condición del alquiler, pago aparte, periodo de permanencia mínima exigido al inquilino)? Es un activo de valor que la propietaria entrega, conviene protegerlo por contrato — ver [`contrato-alquiler-cabina.md`](./contrato-alquiler-cabina.md).
 - [ ] **Plazos**: ¿en qué horizonte de tiempo quiere la propietaria tener cubiertos los 2 cubículos? ¿Cuánto tiempo puede permitirse estar sin el ingreso de su propia actividad mientras tanto?
 - [ ] **Gestión**: ¿quién se encargaría de captar y gestionar a los autónomos inquilinos y de la recepción del día a día (la propia propietaria, alguien contratado)?
+- [ ] **Secuencia de apertura**: ¿está de acuerdo la propietaria en alquilar primero solo el Cubículo 2 (sin dejar de ejercer todavía) y esperar a que funcione de forma estable antes de liberar el Cubículo 1, tal y como se recomienda arriba? ¿O prefiere activar los dos a la vez, o empezar por el Cubículo 1, por algún motivo no solo económico?
+- [ ] **Modelo de precio por cubículo**: ¿prefiere el mismo modelo de alquiler (mensual fijo) para los 2 cubículos, o un modelo distinto para cada uno — por ejemplo, mensual con cartera para el Cubículo 1 y flexible por días/horas para el Cubículo 2 (ver [`propuesta-oferta-coworking.md`](./propuesta-oferta-coworking.md#6-modelo-dual-mensual-para-el-cubículo-1-flexible-para-el-cubículo-2))?
 
 ## Búsqueda de demanda real de autónomos (agosto 2026)
 
