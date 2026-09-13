@@ -32,9 +32,12 @@ Detalle completo en [`tramites-administrativos.md`](./tramites-administrativos.m
 - [ ] Competencia cercana en la zona.
 
 ## Económico
+
+Detalle completo y por qué importa cada punto en [`../plan-negocio/financiero.md`](../plan-negocio/financiero.md). Lo más urgente, por impacto en el cálculo:
+- [ ] **Costes fijos mensuales del local**: suministros de zonas comunes (agua/luz/internet), seguro multirriesgo + RC como arrendadora, gestoría/asesoría fiscal, IBI, comunidad de propietarios (si aplica), mantenimiento de zonas comunes. Es el dato que más cambiaría el plan económico-financiero — sin él no hay punto de equilibrio real.
+- [ ] **Si los ~400 €/mes objetivo de cada cubículo son importe bruto (factura) o neto (lo que espera cobrar)** — cambia el ingreso real en más de un 15% por el efecto combinado de IVA (21%, lo repercute la propietaria) y retención de IRPF (19%, la retiene cada inquilina). Ver [`tramites-administrativos.md`](./tramites-administrativos.md#4-iva-e-irpf-del-alquiler-de-las-cabinas).
 - [ ] Precios actuales por servicio. Plantilla lista para rellenar en [`precios-servicios.md`](./precios-servicios.md) — no localizados online, los tiene que dar la propietaria directamente.
-- [ ] Facturación aproximada (mensual/anual).
-- [ ] Costes fijos y variables.
+- [ ] Facturación aproximada (mensual/anual) de la propietaria y de la profesional de pedicura.
 - [ ] Rentabilidad por línea de negocio (estética vs. uñas).
 
 ## Objetivos de diversificación

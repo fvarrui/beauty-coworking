@@ -23,6 +23,7 @@ Repositorio de trabajo para preparar el plan de negocio del espacio de coworking
 - [`negocio/tramites-administrativos.md`](./negocio/tramites-administrativos.md) — licencia de actividad, IAE, IVA/IRPF, registro sanitario, RGPD y seguro: qué gestión corresponde a la propietaria y cuál a cada inquilina.
 - [`negocio/pendientes.md`](./negocio/pendientes.md) — información pendiente de recabar para completar el plan de negocio.
 - [`plan-negocio/estructura.md`](./plan-negocio/estructura.md) — estructura del plan de negocio con estado de avance por sección y primer borrador de DAFO.
+- [`plan-negocio/financiero.md`](./plan-negocio/financiero.md) — plan económico-financiero: ingresos, costes, punto de equilibrio y escenarios (provisional, faltan los costes fijos del local).
 - [`docs/`](./docs/index.html) — presentación web del plan de negocio (navegable, con diagramas), publicada con GitHub Pages en https://fvarrui.github.io/beauty-coworking/. Se regenera por completo con el comando `/presentar`; no editar a mano.
 
 ## Cómo se usa este repo
