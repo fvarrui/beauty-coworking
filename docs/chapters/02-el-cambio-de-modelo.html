@@ -69,18 +69,20 @@
       <h2 id="diagrama-antes-y-despues">Diagrama: antes y después</h2>
 
       <div class="mermaid-wrap"><pre class="mermaid">
-flowchart LR
+flowchart TD
     subgraph Antes["📍 Antes — salón tradicional"]
         direction TB
         A1["3 puestos, 2 en uso"]
         A2["La propietaria ejerce en el Cubículo 1"]
         A3["Ingresos: servicio propio + 1 alquiler"]
+        A1 ~~~ A2 ~~~ A3
     end
     subgraph Despues["🚀 Después — coworking de belleza"]
         direction TB
         D1["Salón central + 2 cubículos, los 3 alquilados"]
         D2["La propietaria gestiona el espacio, sin puesto propio"]
         D3["Ingresos: 100% alquiler de puestos"]
+        D1 ~~~ D2 ~~~ D3
     end
     Antes -- transición --> Despues
 </pre></div>

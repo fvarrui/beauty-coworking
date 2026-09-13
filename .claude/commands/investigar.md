@@ -6,8 +6,8 @@ Investiga a fondo la pregunta o el tema que te indique el usuario (por ejemplo: 
 
 ## 1. Antes de investigar
 
-- Lee primero lo que ya existe en `negocio/` y `plan-negocio/` sobre el tema, para no duplicar trabajo ni contradecir datos ya confirmados. Si la pregunta amplía o corrige un documento existente, actualiza ese documento en vez de crear uno nuevo redundante.
-- Si la investigación es amplia (varios casos, varias fuentes), lánzala como un `Agent` en segundo plano (`subagent_type: general-purpose`, `run_in_background: true`) para no bloquear la conversación, y verifica el resultado leyéndolo antes de darlo por bueno.
+- Lee primero lo que ya existe en `negocio/` y `plan-negocio/` sobre el tema, y también `negocio/fuentes-investigacion.md` si existe — puede que ya haya una entrada con portales/organismos que ya se sabe que funcionan (o no) para un tema relacionado. No dupliques trabajo ni contradigas datos ya confirmados: si la pregunta amplía o corrige un documento existente, actualiza ese documento en vez de crear uno nuevo redundante.
+- Si la investigación es amplia (varios casos, varias fuentes), lánzala como un `Agent` en segundo plano con `subagent_type: investigador` (sector belleza/mercado: `investigador-mercado`), `run_in_background: true`, para no bloquear la conversación, y verifica el resultado leyéndolo antes de darlo por bueno.
 
 ## 2. Reglas de la investigación
 
@@ -24,6 +24,10 @@ Investiga a fondo la pregunta o el tema que te indique el usuario (por ejemplo: 
 - Cierra con una sección `## Huecos de información` o `## Resumen de huecos` que liste, sin adornos, todo lo que quedó sin confirmar.
 - Si el nuevo documento debería enlazarse desde otro ya existente (p. ej. desde `diversificacion.md`, `situacion-actual.md` o `pendientes.md`), añade ese enlace.
 
-## 4. Al terminar
+## 4. Actualiza la base de conocimiento
+
+Añade o actualiza una entrada en `negocio/fuentes-investigacion.md` (créalo con la estructura descrita en el agente `investigador` si no existe): qué se buscó, qué portales/organismos dieron resultado (enlace a la sede/buscador, no solo a la convocatoria puntual), qué no dio resultado, y a qué documento fueron los hallazgos. Esto es parte del entregable, no un paso opcional — es lo que evita repetir la misma búsqueda en el futuro.
+
+## 5. Al terminar
 
 Dile al usuario, en el chat, qué se ha confirmado (lo más relevante, con la fuente), qué sigue siendo un hueco, y si el hallazgo debería reflejarse también en la presentación (`/presentar`) o en `pendientes.md`.
