@@ -62,16 +62,16 @@ Adapta esta estructura a lo que exista realmente en `negocio/` y `plan-negocio/`
 3. Viabilidad (a favor, riesgos, conclusión)
 4. Los números (ingresos reales y objetivo, referencia de mercado)
 5. Servicios para los cubículos (semáforo de candidatos, fichas legales)
-6. Más ideas (otras profesiones, modelo anglosajón)
-7. Casos reales de éxito — **centrados en operadores de coworking/salon suites de verdad** (no solo marcas de un único servicio), con su modelo de precios y lecciones aplicables a esta escala
-8. Cómo ofertar el coworking — canales para encontrar inquilinas, qué debe incluir una oferta atractiva, cómo validar demanda antes de comprometerse
-9. Ayudas públicas
-10. El contrato de alquiler
-11. Alumnado en prácticas (vía complementaria)
-12. Estado del plan de negocio (mapa de secciones estándar de un plan de negocio)
-13. DAFO completo
-14. Decisiones pendientes (organizadas por bloques, incluyendo siempre el inventario de equipamiento/material del local)
-15. Próximos pasos
+6. Más ideas (otras profesiones, modelo anglosajón, y alumnado en prácticas como vía complementaria para cubrir un cubículo)
+7. Casos reales de éxito — **centrados en operadores de coworking/salon suites de verdad** (no solo marcas de un único servicio), con su modelo de precios y lecciones aplicables a esta escala. Es el sitio **canónico** para casos como Phenix Salon Suites — en otras secciones que lo mencionen, enlaza aquí en vez de repetir el relato completo.
+8. Cómo ofertar y gestionar el coworking — buenas prácticas de creación (antes de abrir) y gestión (una vez alquilado), más canales para encontrar inquilinas, qué debe incluir una oferta atractiva, ejemplos reales de anuncios, cómo validar demanda antes de comprometerse y perfil de profesional. Es el sitio **canónico** para el aviso del foro BeautyMarket sobre "cartera propia" — enlaza aquí en vez de repetirlo entero.
+9. Ayudas públicas (municipal, insular, nacional, europeo)
+10. Trámites administrativos y contrato — licencia de actividad, IAE, naturaleza jurídica del contrato, checklist de cláusulas, IVA/IRPF, registro sanitario, RGPD, seguro, reparto de responsabilidades
+11. Estado del plan y DAFO — mapa de secciones del plan de negocio y radiografía DAFO completa
+12. Decisiones pendientes (organizadas por bloques, incluyendo siempre el inventario de equipamiento/material del local)
+13. Próximos pasos
+
+**Evita repetir el mismo caso/dato citado con detalle en más de un sitio.** Si un hallazgo (un caso real, un aviso de foro, una cifra) ya tiene su sección natural, en el resto de secciones referencia esa sección en vez de recontar la historia — un enlace corto ("ver sección N") es preferible a duplicar dos o tres frases del mismo hallazgo.
 
 ## 7. Cierre
 
