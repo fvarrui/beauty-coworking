@@ -75,6 +75,6 @@ Adapta esta estructura a lo que exista realmente en `negocio/` y `plan-negocio/`
 
 ## 7. Cierre
 
-Cierra la página de la última sección con una nota de agradecimiento breve, recordando que el detalle completo (fuentes incluidas) está en `negocio/` y `plan-negocio/`, y que la presentación se puede regenerar en cualquier momento con `/presentar`.
+**No cierres la última sección con una nota de agradecimiento ni ningún mensaje meta sobre la presentación.** "Próximos pasos" debe terminar en una lista de acciones concretas, cada una enlazando a la sección donde se explica en detalle (p. ej. "Decidir precio y qué incluye el alquiler — ver Decisiones pendientes"), no en un párrafo de cierre.
 
 Sobrescribe `docs/` por completo (borra páginas de secciones que ya no correspondan) para que el sitio publicado siempre refleje el estado más reciente de `negocio/` y `plan-negocio/`. `docs/` es exclusivamente la salida generada — no escribas notas ni contenido a mano ahí.
