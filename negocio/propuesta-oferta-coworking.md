@@ -75,7 +75,7 @@ No hay una guía específica del sector belleza sobre esto — son recomendacion
 
 - **Autónoma ya establecida** que quiere independizarse de un salón por comisión para controlar precios, horario y estándares propios. El rango típico de comisión en EE. UU. está confirmado por dos fuentes independientes que coinciden en el mismo rango (**40-59%** aproximadamente): una encuesta citada en [Mangomint — Booth Rent vs Commission](https://www.mangomint.com/blog/booth-rent-vs-commission/) (36% de propietarios pagan un mínimo de 40-49% y 30% pagan un máximo de 50-59%) y, de forma más general, [Salon & Barbers Connect — Salon Commission Rates Guide](https://salonbarbersconnect.com/salon-commission-rates/) (rango general "40% a 60%"). ⚠️ No se ha buscado ni encontrado un dato equivalente para el mercado español — este rango es específico de EE. UU., no se puede asumir que las comisiones en salones españoles sean iguales.
 - **Recién graduada** de FP de estética/peluquería, con pocos fondos y poca experiencia de negocio — el foro español de BeautyMarket avisa de que este perfil es el de mayor riesgo si no trae cartera propia.
-- **Profesional itinerante / a tiempo parcial** (micropigmentadora, masajista) que encaja con el modelo de pago por horas, como el anuncio de Barcelona a 15 €/hora.
+- **Profesional itinerante / a tiempo parcial** (micropigmentadora, masajista). ⚠️ Este perfil encajaba con el pago por horas, hoy descartado (ver sección 6). Solo se le puede ofrecer entrada por la vía de **media cabina mensual con días fijos**; si esa fórmula no se adopta, es un perfil que este espacio ya no puede captar.
 
 **Lo que más le preocupa al decidir:**
 
@@ -85,14 +85,26 @@ No hay una guía específica del sector belleza sobre esto — son recomendacion
 - **Autonomía real**: control efectivo sobre precios y horario — el argumento de venta nº1 en toda la literatura del sector, y algo que la propietaria puede ofrecer de forma creíble al ser un espacio pequeño y flexible, no una franquicia con normas rígidas.
 - **Carga de gestión** de su propio negocio (agenda, limpieza, stock) que alguien acostumbrado a trabajar por cuenta ajena puede infravalorar.
 
-## 6. Modelo dual: mensual para el Cubículo 1, flexible para el Cubículo 2
+## 6. Modelo de precio: alquiler mensual en los dos cubículos
 
-**Recomendación propia**, construida sobre datos ya reunidos en las secciones 1-5 de este documento, no un hallazgo nuevo de fuente externa: los dos cubículos no tienen por qué ofrecerse con el mismo modelo de precio, porque no tienen el mismo punto de partida (ver la estrategia de secuenciación completa en [`diversificacion.md`](./diversificacion.md#estrategia-de-entrada-recomendada-empezar-por-el-cubículo-2)):
+**Decisión de la propietaria**: los espacios se alquilan **solo por meses completos**, no por días ni por horas. Su motivo declarado es que la rotación diaria añadiría gastos de limpieza de cabina entre sesiones.
 
-- **Cubículo 1** — alquiler **mensual fijo** (~400 €/mes) **+ cartera de clientas activa** de la propietaria. Encaja con el perfil de "autónoma ya establecida que quiere independizarse" (sección 5) y con un compromiso de permanencia mínima, dado que se entrega un activo de valor (ver [`contrato-alquiler-cabina.md`](./contrato-alquiler-cabina.md)).
-- **Cubículo 2** — candidato a un modelo **flexible por días/horas**, siguiendo el patrón ya confirmado en el mercado: Beauty Loft Coworking (14 €/h cabina, bonos desde 10h) y el anuncio real de Barcelona a 15 €/hora (ver secciones 3 y 5 arriba). Encaja con el perfil "profesional itinerante o a tiempo parcial" que hoy no tiene ninguna oferta local a la que engancharse — y convierte el tamaño pequeño del local en una ventaja en vez de una limitación: puede que en Las Galletas no haya dos autónomas dispuestas a pagar 400 €/mes fijos, pero sí varias dispuestas a pagar por 1-2 días/semana.
+**Matiz sobre ese motivo** (observación propia, no un hallazgo de fuente externa): la limpieza y desinfección entre clientas es obligación de la profesional que usa la cabina, y se produce igual con una inquilina mensual que atienda a varias clientas al día. Lo que sí cambia con el alquiler por días es el traspaso entre profesionales distintas, y eso se cubre con una cláusula de entrega y devolución en las mismas condiciones más fianza (ver [`contrato-alquiler-cabina.md`](./contrato-alquiler-cabina.md)), no necesariamente con un coste que asuma la propietaria. El argumento de la limpieza, por sí solo, no es el más sólido para descartar el modelo flexible — conviene apoyarse en los dos siguientes.
 
-⚠️ Los precios por hora/día citados (Beauty Loft, Barcelona) son de otros mercados (Madrid, Barcelona) — no hay ninguna referencia de precio flexible específica de Tenerife o Canarias; el precio concreto para el Cubículo 2 en este modelo habría que validarlo con el propio piloto (ver [`../plan-negocio/validacion.md`](../plan-negocio/validacion.md)), no fijarlo de antemano.
+**Los motivos que sí sostienen la decisión, por peso:**
+
+- **Encaje fiscal — el de mayor impacto económico.** Cuanto más servicio activo preste la propietaria (agenda, gestión de disponibilidad, limpieza entre turnos), más se acerca su ingreso a *actividad económica* y se aleja de *rendimiento de capital inmobiliario*; ver [`tramites-administrativos.md`](./tramites-administrativos.md). El alquiler mensual pelado la mantiene del lado del alquiler puro, que es lo que condiciona si está obligada a seguir de alta en el RETA. ⚠️ Pendiente de confirmar con asesor fiscal, pero el ahorro potencial de la cuota de autónoma es del orden de 2.500 €/año — muy por encima de cualquier coste de limpieza.
+- **Carga de gestión.** Mensual son 3 interlocutoras y 3 cobros al mes. El modelo por horas exige llevar calendario de disponibilidad, coordinar huecos y gestionar muchos pagos pequeños, y la propietaria lo haría sin software dedicado.
+
+**Lo que cuesta la decisión**, y conviene asumirlo explícitamente: 400 €/mes fijos solo los asume quien ya tiene la agenda razonablemente llena. El modelo flexible servía precisamente para bajar la barrera de entrada en un mercado local pequeño — que es el problema que motiva toda la diversificación (ver [`diversificacion.md`](./diversificacion.md)). Al cerrar lo mensual, el embudo de candidatas se estrecha justo donde ya era estrecho.
+
+**Recomendación propia para bajar esa barrera sin renunciar a lo mensual.** Ninguna de estas opciones obliga a llevar calendario ni a cobrar por horas:
+
+- **Media cabina mensual con días fijos**: dos profesionales en el mismo cubículo con días asignados y estables (p. ej. una los lunes y miércoles, otra los martes y jueves), cada una con su contrato mensual y su recibo. Sigue siendo alquiler mensual y pago fijo por inquilina, pero el ticket de entrada baja a la mitad. La limpieza de traspaso pasa a ser previsible y se reparte por contrato. ⚠️ Recomendación propia: no se ha encontrado ningún operador español que publique esta fórmula como producto, así que no hay referencia de precio externa para ella.
+- **Contrato inicial corto** (3-6 meses) en vez de permanencia larga, coherente con las prácticas de reducción de riesgo ya recogidas en la sección 2.
+- **Rampa de entrada**: precio reducido los primeros 2-3 meses y tarifa completa después. ⚠️ Idea razonable, no una práctica confirmada en el mercado español.
+
+⚠️ Queda descartado el modelo flexible por días/horas que recogían versiones anteriores de este documento. Las referencias de precio por hora que se manejaban (Beauty Loft Coworking a 14 €/h, anuncio de Barcelona a 15 €/h, ver secciones 3 y 5) eran además de Madrid y Barcelona, sin ningún equivalente en Tenerife o Canarias.
 
 ## 7. La cartera de clientas como argumento de venta del Cubículo 1
 
@@ -102,9 +114,9 @@ Desarrollado con más detalle en [`diversificacion.md`](./diversificacion.md#la-
 
 **Esto es un borrador propio de ejemplo**, no un anuncio real ni una cita — sirve como punto de partida para el piloto del Cubículo 2 (ver [`../plan-negocio/validacion.md`](../plan-negocio/validacion.md)), siguiendo el patrón de los 5 anuncios reales de la sección 3 (precio visible, qué incluye, ubicación, perfil al que va dirigido, tono cercano) y evitando venderlo como "coworking" (término interno, no el lenguaje que usan los anuncios reales revisados):
 
-> *Cabina profesional equipada en centro de estética consolidado, en calle peatonal céntrica de Las Galletas. Para profesional autónoma con cartera propia (masaje, trenzas, micropigmentación u otra especialidad). Gastos incluidos (agua, luz, wifi). Disponible por días/horas o mes completo — precio orientativo 350-400 €/mes o por jornada, a concretar según condiciones. Trabaja por tu cuenta sin asumir el coste de montar un local propio.*
+> *Cabina profesional equipada en centro de estética consolidado, en calle peatonal céntrica de Las Galletas. Para profesional autónoma con cartera propia (masaje, trenzas, micropigmentación u otra especialidad). Gastos incluidos (agua, luz, wifi). **Alquiler mensual**, precio orientativo 350-400 €/mes a concretar según condiciones. Consulta también la opción de **media cabina con días fijos** si no necesitas el espacio toda la semana. Trabaja por tu cuenta sin asumir el coste de montar un local propio.*
 
-Puntos que quedan explícitos a propósito (no ocultarlos para no generar candidatas que luego no encajan): se pide cartera propia (coherente con el aviso del foro de BeautyMarket, sección 4), y el precio se deja "orientativo" porque no está cerrado (ver [`pendientes.md`](./pendientes.md)).
+Puntos que quedan explícitos a propósito (no ocultarlos para no generar candidatas que luego no encajan): se pide cartera propia (coherente con el aviso del foro de BeautyMarket, sección 4), el alquiler es **mensual** y no por días (decisión ya tomada, sección 6), y el precio se deja "orientativo" porque no está cerrado (ver [`pendientes.md`](./pendientes.md)). Mencionar la media cabina en el propio anuncio permite medir si existe ese perfil sin comprometerse todavía a ofrecerlo.
 
 ## Resumen de huecos de información (no inventar, confirmar antes de dar por buenos)
 
