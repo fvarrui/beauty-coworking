@@ -22,6 +22,22 @@ El sitio ya tiene un sistema de diseño (estilo Docusaurus: navbar superior, sid
 
 Si `docs/` no existe todavía o está vacío, créalo siguiendo esta misma estructura desde cero.
 
+### Pie de página con la marca de generación — obligatorio en todas las páginas
+
+**Todas** las páginas del portal —la portada `index.html` y cada página de `sections/`, sin excepción— terminan con este pie, dentro de `.doc-content` y justo después de la paginación:
+
+```html
+      <footer class="site-footer">
+        Generado el <time datetime="AAAA-MM-DDTHH:MM:SS+01:00">D de MES de AAAA a las HH:MM</time> (hora de Canarias)
+      </footer>
+```
+
+- La fecha y la hora son las del **momento real de la regeneración**: consúltalas con `date` en el momento de generar, no copies la marca de la versión anterior ni la deduzcas de memoria. Todas las páginas de una misma regeneración llevan exactamente la misma marca.
+- El texto visible va en español natural ("18 de septiembre de 2026 a las 17:17"). El atributo `datetime` va en ISO 8601 con el desfase escrito con dos puntos (`+01:00`), que es lo que exige HTML — `+0100` no es válido.
+- La zona horaria es la de Canarias: **UTC+1 en horario de verano** (finales de marzo a finales de octubre) y **UTC+0 en invierno**. Ajusta el desfase a la fecha real de generación en vez de dejarlo fijo.
+- El estilo `.site-footer` ya existe en `docs/assets/style.css` — reutilízalo, no crees otra clase para lo mismo.
+- Si añades una página nueva al portal, lleva su pie igual que las demás: el pie no es decoración de la portada, es la marca de cuándo se generó lo que se está leyendo.
+
 ## 2. Diagramas — solo si aportan, y en Mermaid
 
 **No añadas un diagrama porque "queda bien" o porque la sección lo admite.** Antes de meter uno, pregúntate si una tabla, una lista o un párrafo ya cuentan lo mismo igual de claro — si es así, no hace falta diagrama. Un diagrama se justifica cuando muestra una **relación, un flujo o una estructura** que en prosa cuesta seguir (quién depende de quién, un proceso con pasos, un antes/después, una distribución de partes sobre un total). Ejemplos que sí aportan: organigrama de gestión (sección 2), transición antes/después del modelo (sección 2), reparto de ingresos por espacio (sección 4). Ejemplo que **no** aporta y no debe repetirse: un diagrama de "planta del local" a base de cajas conectadas — no representa la disposición real del espacio (Mermaid no dibuja planos) y la tabla de "quién ocupa qué espacio hoy" ya da esa misma información mejor. Tampoco fuerces un diagrama para una simple línea temporal de pasos si un `.step-row`/`.badge-step` numerado con enlaces a cada sección relevante queda más claro (ver "Próximos pasos").
@@ -87,6 +103,6 @@ Adapta esta estructura a lo que exista realmente en `negocio/` y `plan-negocio/`
 
 ## 8. Cierre
 
-**No cierres la última sección con una nota de agradecimiento ni ningún mensaje meta sobre la presentación.** "Próximos pasos" debe terminar en una lista de acciones concretas, cada una enlazando a la sección donde se explica en detalle (p. ej. "Decidir precio y qué incluye el alquiler — ver Decisiones pendientes"), no en un párrafo de cierre.
+**No cierres la última sección con una nota de agradecimiento ni ningún mensaje meta sobre la presentación.** "Próximos pasos" debe terminar en una lista de acciones concretas, cada una enlazando a la sección donde se explica en detalle (p. ej. "Decidir precio y qué incluye el alquiler — ver Decisiones pendientes"), no en un párrafo de cierre. Esto no afecta al pie de generación descrito en la sección 1: ese pie va en todas las páginas, incluida la última, y no cuenta como mensaje meta de cierre.
 
 Sobrescribe `docs/` por completo (borra páginas de secciones que ya no correspondan) para que el sitio publicado siempre refleje el estado más reciente de `negocio/` y `plan-negocio/`. `docs/` es exclusivamente la salida generada — no escribas notas ni contenido a mano ahí.

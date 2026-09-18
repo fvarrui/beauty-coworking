@@ -301,3 +301,10 @@ tr:last-child td{ border-bottom:none; }
 }
 
 a:focus-visible, .theme-toggle:focus-visible, .menu-toggle:focus-visible{ outline:2px solid var(--primary); outline-offset:2px; }
+
+/* ---------------- PIE DE PÁGINA (marca de generación) ---------------- */
+.site-footer{
+  margin-top:2.5rem; padding-top:1rem; border-top:1px solid var(--border);
+  font-size:.85rem; line-height:1.6; color:var(--ink-soft); text-align:center;
+}
+.site-footer time{ font-variant-numeric:tabular-nums; white-space:nowrap; }
