@@ -54,7 +54,18 @@ Cada sección debe permitir comprobar de dónde sale la información, con enlace
 - **Enlaza en línea** los nombres de operadores, anuncios, estudios o fuentes externas citadas (p. ej. "Alzentro", "Sola Salon Studios", "foro de BeautyMarket") directamente a su URL real, tal como aparece citada en el `.md` de origen (`casos-reales-coworking.md` y `propuesta-oferta-coworking.md` llevan las URLs primarias). No cites una fuente sin enlazarla si el `.md` de origen ya tiene el enlace.
 - Nunca inventes una URL ni una cifra de fuente para "completar" una referencia — si el dato no tiene fuente en `negocio/`, dilo como hueco de información en vez de fabricar una.
 
-## 6. Estructura de contenido sugerida
+## 6. Nivel de confianza — no publiques más seguridad de la que hay
+
+Las referencias (sección 5) dicen **de dónde** sale un dato. Esta sección va de **cuánto te puedes fiar de él**, que es una cosa distinta y la que más fácilmente se pierde al pasar de los `.md` a la web.
+
+- **Conserva las marcas de incertidumbre del documento de origen.** Si un `.md` de `negocio/` o `plan-negocio/` marca una afirmación como "fuente única", "sin segunda fuente", "no verificado", "pendiente de confirmar" o con ⚠️, la presentación debe llevar esa misma marca, pegada a la afirmación y no escondida en un bloque de fuentes al final. Usa `<span class="tag">` o un `<div class="callout warn">` para que se vea.
+- **Nunca conviertas en afirmación cerrada algo que el origen da por provisional.** Publicar "la jurisprudencia trata la depilación láser como acto médico" cuando el `.md` dice "fuente única, no localizada en CENDOJ" no es simplificar: es dar por cierto algo que no lo está, y quien lea la web decidirá creyendo que hay una certeza que nadie ha comprobado.
+- **Si el matiz no cabe, quita la afirmación, no el matiz.** Es preferible omitir un dato que publicarlo con más autoridad de la que tiene.
+- **Distingue lo investigado de lo propuesto.** Las recomendaciones propias del asesor (modelo de precio, umbrales del piloto, secuencia de entrada) van marcadas como tales — "recomendación propia, no un hallazgo documentado" — igual que ya lo hacen los `.md` de origen.
+
+**Comprobación antes de dar por terminada la regeneración**: cuenta las marcas de incertidumbre en los `.md` que has usado como fuente y en el HTML que has generado. Si la web tiene bastantes menos, has perdido matices por el camino y hay que revisarlo. En la revisión externa de septiembre de 2026 la proporción era de 70 marcas en las fuentes frente a 5 en la web publicada, y así fue como se coló el error del láser.
+
+## 7. Estructura de contenido sugerida
 
 Adapta esta estructura a lo que exista realmente en `negocio/` y `plan-negocio/` en cada momento (añade, quita o reordena secciones si el contenido ha cambiado sustancialmente), pero como referencia de partida:
 
@@ -74,7 +85,7 @@ Adapta esta estructura a lo que exista realmente en `negocio/` y `plan-negocio/`
 
 **Evita repetir el mismo caso/dato citado con detalle en más de un sitio.** Si un hallazgo (un caso real, un aviso de foro, una cifra) ya tiene su sección natural, en el resto de secciones referencia esa sección en vez de recontar la historia — un enlace corto ("ver sección N") es preferible a duplicar dos o tres frases del mismo hallazgo.
 
-## 7. Cierre
+## 8. Cierre
 
 **No cierres la última sección con una nota de agradecimiento ni ningún mensaje meta sobre la presentación.** "Próximos pasos" debe terminar en una lista de acciones concretas, cada una enlazando a la sección donde se explica en detalle (p. ej. "Decidir precio y qué incluye el alquiler — ver Decisiones pendientes"), no en un párrafo de cierre.
 
