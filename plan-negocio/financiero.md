@@ -19,8 +19,19 @@ Cifras de [`diversificacion.md`](../negocio/diversificacion.md) y [`precios-serv
 
 Estas cifras son el importe del alquiler, pero **no es lo que la propietaria recibe en la cuenta**:
 
-- Sobre el alquiler se aplica **IVA del 21%** (la propietaria lo repercute en factura y lo ingresa a Hacienda vía modelo 303 trimestral, no se lo queda).
-- Cada inquilina **retiene un 19% de IRPF** sobre el alquiler (sin IVA) y lo ingresa directamente a cuenta de la propietaria (modelo 115) — es decir, la propietaria cobra el neto, no el bruto de la factura.
+- Sobre el alquiler se aplica **IGIC del 7%**, no IVA del 21%: Canarias está fuera del territorio de aplicación del IVA. La propietaria lo repercute en factura y lo declara con el modelo 420 ante la Agencia Tributaria Canaria; no se lo queda. ⚠️ Además, con este volumen de facturación probablemente pueda acogerse al **REPEP** y no repercutir IGIC en absoluto — ver [`tramites-administrativos.md`](../negocio/tramites-administrativos.md#4-igic-e-irpf-del-alquiler-de-las-cabinas).
+- Cada inquilina **retiene un 19% de IRPF** sobre el alquiler (sin IGIC) y lo ingresa directamente a cuenta de la propietaria (modelo 115).
+- **Matiz que versiones anteriores de este documento tenían mal**: esa retención **no es un gasto**, es un pago anticipado del IRPF de la propietaria, que se descuenta de su declaración anual. Afecta a la caja mes a mes, no a la rentabilidad del negocio. Lo mismo el IGIC, que solo pasa por su cuenta camino de la Agencia Tributaria Canaria.
+
+Con un alquiler de 400 € de base, las tres cifras que conviene no confundir son:
+
+| Concepto | Importe | Qué es |
+|---|---|---|
+| Base de la factura | 400 € | El ingreso real del negocio, y la cifra que debe usarse en este documento |
+| Total facturado | 428 € | Base + 7% de IGIC (0 € de IGIC si se acoge al REPEP) |
+| Cobro en cuenta | 352 € | Total facturado − 19% de retención sobre la base (324 € si no hay IGIC) |
+
+Sigue pendiente aclarar con la propietaria si los ~400 €/mes que maneja son la base de factura o lo que espera ver en la cuenta: entre una lectura y otra hay un 12% de diferencia de caja.
 
 Detalle completo del cálculo en [`tramites-administrativos.md`](../negocio/tramites-administrativos.md#4-iva-e-irpf-del-alquiler-de-las-cabinas). **Pendiente aclarar con la propietaria si los ~400 €/mes objetivo que se manejan en todo el plan son el importe bruto de la factura o lo que espera cobrar neto** — cambia la cifra real de ingreso en más de un 15%.
 
@@ -73,7 +84,7 @@ Solo dos, ambos con datos reales de ingresos (nada de escenarios optimista/pesim
 | **Solo salón central** | 300 €/mes | Situación actual, ya real y en marcha — el "suelo" del modelo, sin necesidad de captar ninguna inquilina nueva |
 | **A pleno rendimiento** | ~1.100 €/mes | Los 3 puestos alquilados (salón central + Cubículo 1 + Cubículo 2) — el objetivo del plan, sin plazo definido todavía |
 
-Ninguno de los dos descuenta costes fijos (sección 2, sin confirmar) ni la retención de IRPF/IVA (sección 1.2) — son cifras brutas de ingreso por alquiler, no beneficio neto.
+Ninguno de los dos descuenta costes fijos (sección 2, sin confirmar) — son cifras brutas de ingreso por alquiler, no beneficio neto.
 
 ## 5. Qué haría falta para que este documento deje de ser provisional
 
