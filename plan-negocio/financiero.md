@@ -86,14 +86,31 @@ Solo dos, ambos con datos reales de ingresos (nada de escenarios optimista/pesim
 
 Ninguno de los dos descuenta costes fijos (sección 2, sin confirmar) — son cifras brutas de ingreso por alquiler, no beneficio neto.
 
+### 4.1. La comparación que falta: el plan frente a seguir como hasta ahora
+
+⚠️ **Hueco corregido en esta revisión.** Los dos escenarios de arriba comparan 300 € con 1.100 €, como si el punto de partida fuera un local medio vacío. No lo es: hoy la propietaria, además de cobrar los 300 €, **ejerce y factura** en el Cubículo 1. La comparación correcta es otra:
+
+| Escenario | Ingreso mensual |
+|---|---|
+| **Hoy** | 300 € + facturación propia de la propietaria |
+| **Plan completo** | ~1.100 € |
+| **Diferencia** | 800 € − facturación propia |
+
+Es decir: **el cambio de modelo solo mejora sus ingresos si su actividad actual le deja menos de 800 € netos al mes.** Si le deja más, el plan completo la empobrece.
+
+**Dato bloqueante**: sin la facturación propia de la propietaria (sección 1.3) no se puede afirmar que el plan sea económicamente favorable, solo que aumenta los ingresos por alquiler. Es la cifra que más condiciona la decisión de todo el plan, por encima incluso de los costes fijos.
+
+**Un factor que juega a favor del cambio y que no estaba contabilizado**: si al dejar de ejercer su ingreso pasa a calificarse como *rendimiento de capital inmobiliario*, [alquilar un local no obliga por sí solo a estar de alta en el RETA](https://declarando.es/blog/ingresos-arrendamiento), con lo que ahorraría la cuota de autónoma — desde [205 €/mes en 2026](https://www.infoautonomos.com/seguridad-social/cuota-de-autonomos-cuanto-se-paga/), del orden de 2.500 €/año sobre unos ingresos brutos de 13.200 €. ⚠️ Depende de qué incluya el alquiler: la [DGT considera actividad económica el alquiler de espacios con servicios adicionales](https://ga-p.com/publicaciones/aspectos-fiscales-relativos-al-alquiler-de-espacios-en-centros-de-negocios-o-coworking/) (recepción, agenda, limpieza, material), y en ese caso seguiría obligada a cotizar. Confirmar con asesor fiscal.
+
 ## 5. Qué haría falta para que este documento deje de ser provisional
 
 Por orden de impacto en el cálculo:
 
 1. **Costes fijos mensuales del local** (suministros, seguro, gestoría, IBI, comunidad) — es el dato que más cambiaría este documento; sin él no hay punto de equilibrio real.
-2. **Si los ~400 €/mes objetivo de cada cubículo son importe bruto o neto** — afecta la cifra de ingreso real en más de un 15% por el efecto combinado de IVA/retención.
-3. **Precios de los servicios propios de la propietaria y de la profesional de pedicura** — necesario para estimar la facturación actual y el ingreso que se pierde durante la transición.
-4. **Inventario de equipamiento de cada espacio** — para poder presupuestar qué falta reponer antes de alquilar los cubículos.
-5. **Plazos deseados para cubrir los 2 cubículos** — sin esto no se puede proyectar un calendario de ingresos a 12 meses, solo el estado "a pleno rendimiento" sin fecha.
+2. **Facturación propia actual de la propietaria** — sin ella no se puede saber si el cambio de modelo mejora o empeora sus ingresos (ver sección 4.1); es, junto con los costes fijos, el dato que decide.
+3. **Si los ~400 €/mes objetivo de cada cubículo son base de factura o cobro en cuenta** — un 12% de diferencia de caja (ver sección 1.2).
+4. **Precios de los servicios propios de la propietaria y de la profesional de pedicura** — necesario para estimar la facturación actual y el ingreso que se pierde durante la transición.
+5. **Inventario de equipamiento de cada espacio** — para poder presupuestar qué falta reponer antes de alquilar los cubículos.
+6. **Plazos deseados para cubrir los 2 cubículos** — sin esto no se puede proyectar un calendario de ingresos a 12 meses, solo el estado "a pleno rendimiento" sin fecha.
 
 Una vez la propietaria aporte aunque sea el primero de estos puntos, conviene regenerar la presentación con `/presentar` para que la sección "Los números" quede sincronizada con este documento.
