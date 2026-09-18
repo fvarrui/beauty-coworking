@@ -22,9 +22,21 @@ El sitio ya tiene un sistema de diseño (estilo Docusaurus: navbar superior, sid
 
 Si `docs/` no existe todavía o está vacío, créalo siguiendo esta misma estructura desde cero.
 
+### El sitio no se escribe a mano: se genera con `docs-src/gen.py`
+
+**No edites los ficheros de `docs/` directamente** — son salida generada y cualquier cambio a mano se pierde en la siguiente regeneración. El flujo es:
+
+1. **Escribe el contenido** de cada sección en `docs-src/bodies/NN.html` (`00.html` es la portada). Esos ficheros llevan **solo el cuerpo**: nada de `<html>`, `<head>`, navbar, sidebar, paginación ni `<h1>` — de eso se encarga la plantilla.
+2. **Ajusta los metadatos** en la lista `SECTIONS` de `docs-src/gen.py` si cambian el número, el orden, el icono, el título, la entradilla, el texto de la tarjeta de portada o los ficheros fuente que se citan al final de cada sección.
+3. **Ejecuta `python docs-src/gen.py`**, que reescribe `docs/` por completo y borra las páginas de secciones que ya no correspondan.
+
+Esto te ahorra repetir catorce veces el armazón del sitio y garantiza que el pie, la paginación y el sidebar sean idénticos en todas las páginas. El índice lateral de cada sección **se construye solo** con los `<h2 id="...">` del cuerpo: pon un `id` a cada `<h2>` y aparecerá en él.
+
+Detalle completo del reparto de responsabilidades, y los detalles de Mermaid que conviene no romper, en [`docs-src/README.md`](../../docs-src/README.md).
+
 ### Pie de página con la marca de generación — obligatorio en todas las páginas
 
-**Todas** las páginas del portal —la portada `index.html` y cada página de `sections/`, sin excepción— terminan con este pie, dentro de `.doc-content` y justo después de la paginación:
+**Todas** las páginas del portal —la portada `index.html` y cada página de `sections/`, sin excepción— terminan con un pie que dice cuándo se generó lo que se está leyendo:
 
 ```html
       <footer class="site-footer">
@@ -32,9 +44,11 @@ Si `docs/` no existe todavía o está vacío, créalo siguiendo esta misma estru
       </footer>
 ```
 
-- La fecha y la hora son las del **momento real de la regeneración**: consúltalas con `date` en el momento de generar, no copies la marca de la versión anterior ni la deduzcas de memoria. Todas las páginas de una misma regeneración llevan exactamente la misma marca.
-- El texto visible va en español natural ("18 de septiembre de 2026 a las 17:17"). El atributo `datetime` va en ISO 8601 con el desfase escrito con dos puntos (`+01:00`), que es lo que exige HTML — `+0100` no es válido.
-- La zona horaria es la de Canarias: **UTC+1 en horario de verano** (finales de marzo a finales de octubre) y **UTC+0 en invierno**. Ajusta el desfase a la fecha real de generación en vez de dejarlo fijo.
+**De esto se encarga la plantilla de `docs-src/gen.py`, no tú**: no escribas el pie en ningún `bodies/NN.html`, porque saldría duplicado. Lo que sí debes respetar si algún día tocas la plantilla:
+
+- La fecha y la hora son las del **momento real de la ejecución** del generador, nunca copiadas de la versión anterior ni deducidas de memoria. Todas las páginas de una misma regeneración llevan exactamente la misma marca.
+- El texto visible va en español natural ("18 de septiembre de 2026 a las 17:47"). El atributo `datetime` va en ISO 8601 con el desfase escrito con dos puntos (`+01:00`), que es lo que exige HTML — `+0100` no es válido.
+- La zona horaria es la de Canarias: **UTC+1 en horario de verano** (finales de marzo a finales de octubre) y **UTC+0 en invierno**. El generador ya lo ajusta según el mes.
 - El estilo `.site-footer` ya existe en `docs/assets/style.css` — reutilízalo, no crees otra clase para lo mismo.
 - Si añades una página nueva al portal, lleva su pie igual que las demás: el pie no es decoración de la portada, es la marca de cuándo se generó lo que se está leyendo.
 
