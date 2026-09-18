@@ -21,7 +21,7 @@ Estas cifras son el importe del alquiler, pero **no es lo que la propietaria rec
 
 - Sobre el alquiler se aplica **IGIC del 7%**, no IVA del 21%: Canarias está fuera del territorio de aplicación del IVA. La propietaria lo repercute en factura y lo declara con el modelo 420 ante la Agencia Tributaria Canaria; no se lo queda. ⚠️ Además, con este volumen de facturación probablemente pueda acogerse al **REPEP** y no repercutir IGIC en absoluto — ver [`tramites-administrativos.md`](../negocio/tramites-administrativos.md#4-igic-e-irpf-del-alquiler-de-las-cabinas).
 - Cada inquilina **retiene un 19% de IRPF** sobre el alquiler (sin IGIC) y lo ingresa directamente a cuenta de la propietaria (modelo 115).
-- **Matiz que versiones anteriores de este documento tenían mal**: esa retención **no es un gasto**, es un pago anticipado del IRPF de la propietaria, que se descuenta de su declaración anual. Afecta a la caja mes a mes, no a la rentabilidad del negocio. Lo mismo el IGIC, que solo pasa por su cuenta camino de la Agencia Tributaria Canaria.
+- **Caja y rentabilidad no son lo mismo**: esa retención **no es un gasto**, es un pago anticipado del IRPF de la propietaria, que se descuenta de su declaración anual. Afecta a la caja mes a mes, no a la rentabilidad del negocio. Lo mismo el IGIC, que solo pasa por su cuenta camino de la Agencia Tributaria Canaria.
 
 Con un alquiler de 400 € de base, las tres cifras que conviene no confundir son:
 
@@ -88,7 +88,7 @@ Ninguno de los dos descuenta costes fijos (sección 2, sin confirmar) — son ci
 
 ### 4.1. La comparación que falta: el plan frente a seguir como hasta ahora
 
-⚠️ **Hueco corregido en esta revisión.** Los dos escenarios de arriba comparan 300 € con 1.100 €, como si el punto de partida fuera un local medio vacío. No lo es: hoy la propietaria, además de cobrar los 300 €, **ejerce y factura** en el Cubículo 1. La comparación correcta es otra:
+Los dos escenarios de arriba comparan 300 € con 1.100 €, como si el punto de partida fuera un local medio vacío. No lo es: hoy la propietaria, además de cobrar los 300 €, **ejerce y factura** en el Cubículo 1. La comparación correcta es otra:
 
 | Escenario | Ingreso mensual |
 |---|---|

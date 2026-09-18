@@ -104,7 +104,7 @@ No hay una guía específica del sector belleza sobre esto — son recomendacion
 - **Contrato inicial corto** (3-6 meses) en vez de permanencia larga, coherente con las prácticas de reducción de riesgo ya recogidas en la sección 2.
 - **Rampa de entrada**: precio reducido los primeros 2-3 meses y tarifa completa después. ⚠️ Idea razonable, no una práctica confirmada en el mercado español.
 
-⚠️ Queda descartado el modelo flexible por días/horas que recogían versiones anteriores de este documento. Las referencias de precio por hora que se manejaban (Beauty Loft Coworking a 14 €/h, anuncio de Barcelona a 15 €/h, ver secciones 3 y 5) eran además de Madrid y Barcelona, sin ningún equivalente en Tenerife o Canarias.
+⚠️ Queda descartado el modelo flexible por días/horas. Las únicas referencias de precio por hora localizadas (Beauty Loft Coworking a 14 €/h, anuncio de Barcelona a 15 €/h, ver secciones 3 y 5) eran además de Madrid y Barcelona, sin ningún equivalente en Tenerife o Canarias.
 
 ## 7. La cartera de clientas como argumento de venta del Cubículo 1
 
